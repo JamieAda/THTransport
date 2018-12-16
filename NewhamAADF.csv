@@ -1,0 +1,885 @@
+AADFYear,CP,Estimation_method,Estimation_method_detailed,Region,LocalAuthority,Road,RoadCategory,Easting,Northing,StartJunction,EndJunction,LinkLength_km,LinkLength_miles,PedalCycles,Motorcycles,CarsTaxis,BusesCoaches,LightGoodsVehicles,V2AxleRigidHGV,V3AxleRigidHGV,V4or5AxleRigidHGV,V3or4AxleArticHGV,V5AxleArticHGV,V6orMoreAxleArticHGV,AllHGVs,AllMotorVehicles
+2000,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,231,181,15064,1329,1628,457,20,16,14,13,14,534,18736
+2000,6649,Counted,Manual count,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,87,46,7519,424,772,108,1,0,2,0,0,111,8872
+2000,6650,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,277,253,22184,404,1470,513,35,6,22,26,9,611,24922
+2000,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,467,959,29874,1948,3191,1064,36,62,55,75,63,1355,37327
+2000,8542,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,159,365,37347,632,3649,450,35,35,35,16,12,583,42576
+2000,16187,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539200,185050,A11 Great Eastern Rd,A112,0.8,0.5,388,1031,24542,718,3603,794,42,27,99,105,91,1158,31052
+2000,16202,Counted,Manual count,London,Newham,A13,TA,542000,182120,A112,A117,2,1.24,108,2886,53641,277,10009,2773,267,1068,268,399,309,5084,71897
+2000,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,168,175,17010,398,2330,337,28,19,10,5,5,404,20317
+2000,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,151,110,13210,220,1765,254,16,0,2,2,0,274,15579
+2000,16632,Estimated,Estimated using previous year's AADF on this link,London,Newham,A115,PA,538360,184000,LA Boundary,A11,1.3,0.81,103,208,8988,234,2045,460,75,120,24,59,24,762,12237
+2000,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,89,150,13709,522,1481,261,20,6,13,4,5,309,16171
+2000,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,228,547,22797,822,3029,1002,33,26,90,77,51,1279,28474
+2000,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,133,96,24244,555,2685,377,51,28,43,10,10,519,28099
+2000,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,229,436,18320,635,2877,499,32,5,40,19,10,605,22873
+2000,18627,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539135,185450,A112,LA Boundary,0.2,0.12,278,826,18073,512,3275,621,56,43,70,157,176,1123,23809
+2000,18728,Counted,Manual count,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,39,815,37168,250,6326,1507,222,701,150,425,262,3267,47826
+2000,26201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,499,1141,37250,813,6938,1092,84,79,36,47,49,1387,47529
+2000,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,132,169,8469,300,1507,367,27,12,5,8,6,425,10870
+2000,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,47,54,11618,456,1311,255,34,46,8,8,10,361,13800
+2000,26664,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,261,388,17943,591,2483,440,25,12,29,29,31,566,21971
+2000,26672,Counted,Manual count,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,112,150,17899,805,1276,408,20,3,21,6,3,461,20591
+2000,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,293,1240,23033,703,5111,930,77,43,53,50,64,1217,31304
+2000,28672,Counted,Manual count,London,Newham,A406,TA,543450,185670,LA Boundary,A124,1.9,1.18,19,862,69351,254,12770,2776,371,622,513,1358,1080,6720,89957
+2000,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,211,162,7712,98,1326,316,93,4,9,8,4,434,9732
+2000,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,43,57,5554,372,698,183,17,12,18,17,14,261,6942
+2000,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,229,296,19151,622,2151,316,35,21,5,9,4,390,22610
+2000,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,103,62,12024,364,1162,124,23,6,10,3,4,170,13782
+2000,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,66,130,13049,769,3094,581,64,117,75,113,112,1062,18104
+2000,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,138,813,21118,441,3103,735,39,26,37,42,43,922,26397
+2000,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,43,438,30267,562,4899,1199,235,211,386,580,365,2976,39142
+2000,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,396,1346,46096,1265,7985,1063,96,78,117,146,166,1666,58358
+2000,46217,Counted,Manual count,London,Newham,A13,TA,540000,181700,A1011,A112,1.7,1.06,84,2776,68385,321,7236,2396,238,669,236,516,346,4401,83119
+2000,46669,Counted,Manual count,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,56,145,16863,755,1195,219,23,36,5,7,4,294,19252
+2000,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,65,239,5816,322,1504,358,58,44,60,182,172,874,8755
+2000,48610,Counted,Manual count,London,Newham,A13,TA,543000,182214,A117,A13,1.1,0.68,57,1743,68080,379,13641,2203,317,754,404,1256,671,5605,89448
+2000,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,118,111,8832,263,1247,298,20,50,4,8,8,388,10841
+2000,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,46,18,3437,462,716,168,5,4,10,47,31,265,4898
+2000,49007,Counted,Manual count,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,26,394,32129,875,4353,1036,162,194,102,190,90,1774,39525
+2000,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,127,99,11684,147,1353,151,3,20,5,1,1,181,13464
+2000,56512,Counted,Manual count,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,343,253,13086,1190,2226,256,18,18,12,13,3,320,17075
+2000,56897,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,76,168,14400,194,2675,402,52,37,17,5,7,520,17957
+2000,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,362,1229,31519,769,4007,732,74,29,44,58,61,998,38522
+2000,58231,Counted,Manual count,London,Newham,A406,TA,543792,183560,A124,A13,1.3,0.81,9,593,73506,326,10364,2939,373,425,763,1736,1674,7910,92699
+2000,58332,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538985,185330,A11,A11,0.6,0.37,73,71,5640,5,869,171,2,2,2,5,9,191,6776
+2000,58444,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,30,534,30915,177,5341,1184,310,392,184,510,527,3107,40074
+2000,70203,Counted,Manual count,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,63,164,4729,714,758,292,78,73,92,255,187,977,7342
+2000,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,TA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,83,2341,60094,552,12076,3162,488,1248,624,1260,935,7717,82780
+2000,73819,Counted,Dependent on a neighbouring counted link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,136,135,14718,289,1217,122,9,3,1,1,0,136,16495
+2000,73820,Counted,Dependent on a neighbouring counted link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,38,98,11069,118,1748,159,4,1,12,9,1,186,13219
+2000,73822,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,TA,539220,181440,LA Boundary,A1011,0.3,0.19,168,2840,60846,722,13359,2106,268,951,169,438,266,4198,81965
+2000,73823,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,48,730,25846,487,6309,988,121,187,70,144,122,1632,35004
+2000,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,116,124,24122,871,1950,526,43,40,18,12,6,645,27712
+2001,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,263,201,14718,1323,1663,455,23,16,13,12,17,536,18441
+2001,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,99,52,7346,422,789,108,1,0,2,0,0,111,8720
+2001,6650,Counted,Manual count,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,315,281,21673,402,1502,511,41,6,20,23,10,611,24469
+2001,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,532,1067,29187,1940,3261,1060,42,63,51,67,74,1357,36812
+2001,8542,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,181,406,36488,630,3729,448,41,35,32,14,14,584,41837
+2001,16187,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539200,185050,A11 Great Eastern Rd,A112,0.8,0.5,442,1148,23977,715,3682,790,49,27,91,94,107,1158,30680
+2001,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,30,2409,64847,258,10069,3674,306,748,215,457,517,5917,83500
+2001,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,191,194,16619,396,2381,335,33,19,9,5,6,407,19997
+2001,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,172,123,12906,220,1804,253,19,0,2,2,0,276,15329
+2001,16632,Estimated,Estimated using previous year's AADF on this link,London,Newham,A115,PA,538360,184000,LA Boundary,A11,1.3,0.81,117,232,8781,234,2090,458,88,122,22,53,28,771,12108
+2001,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,101,166,13393,520,1514,260,24,6,12,4,6,312,15905
+2001,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,260,609,22273,819,3096,998,39,26,83,69,60,1275,28072
+2001,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,152,107,23686,553,2744,375,60,28,40,9,12,524,27614
+2001,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,261,486,17898,633,2940,497,37,5,36,17,12,604,22561
+2001,18627,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539135,185450,A112,LA Boundary,0.2,0.12,317,919,17657,510,3347,619,65,43,64,141,206,1138,23571
+2001,18728,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,44,908,36314,249,6465,1501,259,712,137,381,308,3298,47234
+2001,26201,Counted,Manual count,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,501,588,41651,900,5929,1880,142,112,152,138,88,2512,51580
+2001,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,150,188,8274,299,1540,365,32,12,5,7,7,428,10729
+2001,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,53,60,11351,454,1340,254,40,47,8,7,12,368,13573
+2001,26664,Counted,Manual count,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,265,536,21248,434,2828,523,32,13,16,8,5,597,25643
+2001,26672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,128,167,17487,801,1304,406,23,3,19,6,3,460,20219
+2001,28406,Counted,Manual count,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,280,568,25890,727,2890,745,36,43,21,31,9,885,30960
+2001,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,8,477,64780,239,12147,2694,357,618,629,1280,1041,6619,84262
+2001,28773,Counted,Manual count,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,127,184,6495,3,814,125,2,4,0,1,1,133,7629
+2001,28876,Counted,Manual count,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,22,35,7271,293,733,228,23,15,18,44,34,362,8694
+2001,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,261,330,18711,620,2198,314,41,21,5,8,5,394,22253
+2001,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,117,69,11747,362,1187,124,27,6,10,3,5,175,13540
+2001,37543,Counted,Manual count,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,49,195,12589,1668,2168,488,65,36,19,52,29,689,17309
+2001,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,157,905,20632,439,3171,732,46,26,34,38,50,926,26073
+2001,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,49,487,29571,560,5007,1194,274,215,354,521,428,2986,38611
+2001,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,451,1498,45036,1260,8161,1059,112,79,107,131,195,1683,57638
+2001,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,56,3041,56751,281,9924,2763,345,1003,170,425,265,4971,74968
+2001,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,64,161,16476,752,1221,219,27,36,5,7,5,299,18909
+2001,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,74,266,5682,320,1537,356,68,44,55,164,202,889,8694
+2001,48610,Counted,Manual count,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,100,3194,73851,316,9174,2952,397,1172,177,414,347,5459,91994
+2001,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,134,124,8629,262,1275,296,24,50,4,7,10,391,10681
+2001,48813,Counted,Manual count,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,22,64,5186,310,753,130,24,27,6,28,26,241,6554
+2001,49007,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,29,438,31390,871,4449,1032,189,197,94,170,106,1788,38936
+2001,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,144,110,11415,147,1383,151,4,20,5,1,1,182,13237
+2001,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,391,282,12785,1185,2275,255,21,18,11,11,3,319,16846
+2001,56897,Counted,Manual count,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,123,127,16948,214,2288,771,31,45,33,0,0,880,20457
+2001,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,412,1368,30794,766,4095,729,86,29,40,52,72,1008,38031
+2001,58231,Counted,Manual count,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,29,568,55277,203,11185,2802,402,814,331,700,642,5691,72924
+2001,58332,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538985,185330,A11,A11,0.6,0.37,83,79,5511,5,888,171,2,2,2,4,11,192,6675
+2001,58444,Counted,Manual count,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,6,412,26863,161,3143,841,113,316,107,199,170,1746,32325
+2001,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,72,183,4620,711,774,291,91,74,85,228,219,988,7276
+2001,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,70,1975,58684,472,10619,2887,552,1738,350,965,698,7190,78940
+2001,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,150,146,14733,309,1221,114,10,3,1,1,0,129,16538
+2001,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,42,106,11080,126,1753,148,4,1,12,9,1,175,13240
+2001,73822,Counted,Manual count,London,Newham,A13,PA,539220,181440,LA Boundary,A1011,0.3,0.19,192,3161,59446,720,13653,2098,313,966,155,393,311,4236,81216
+2001,73823,Counted,Dependent on a neighbouring counted link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,63,497,26675,324,4424,1028,108,136,74,209,158,1713,33633
+2001,75291,Counted,Manual count,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,132,138,23567,868,1993,523,50,40,16,11,7,647,27213
+2002,6644,Counted,Manual count,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,268,240,18536,1148,1813,351,24,19,13,10,9,426,22163
+2002,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,101,48,6935,485,735,95,1,0,2,0,0,98,8301
+2002,6650,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,321,263,20459,462,1400,451,39,6,17,19,10,542,23126
+2002,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,542,1000,27553,2229,3039,936,40,60,44,55,76,1211,35032
+2002,8542,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,185,381,34445,724,3475,395,39,33,28,12,14,521,39546
+2002,16187,Counted,Manual count,London,Newham,A11,PA,539200,185050,A11 Great Eastern Rd,A112,0.8,0.5,275,245,22204,435,1403,328,26,29,4,9,11,407,24694
+2002,16202,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,30,2257,61215,297,9384,3244,293,714,184,375,534,5344,78497
+2002,16628,Counted,Manual count,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,174,128,22070,438,1839,235,17,10,11,11,9,293,24768
+2002,16631,Counted,Manual count,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,85,112,15925,190,1025,224,20,2,7,0,8,261,17513
+2002,16632,Counted,Manual count,London,Newham,A115,PA,538360,184000,LA Boundary,A11,1.3,0.81,123,147,9544,180,1746,371,72,151,15,5,14,628,12245
+2002,16634,Counted,Manual count,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,182,267,17118,790,1685,309,55,12,10,7,2,395,20255
+2002,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,265,571,21026,941,2885,881,37,25,71,57,62,1133,26556
+2002,18434,Counted,Manual count,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,178,237,26805,966,2948,540,53,23,28,16,20,680,31636
+2002,18473,Counted,Manual count,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,213,180,17845,504,1582,297,58,36,35,17,16,459,20570
+2002,18627,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539135,185450,A112,LA Boundary,0.2,0.12,322,861,16669,586,3120,547,62,41,55,115,213,1033,22269
+2002,18728,Counted,Manual count,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,21,709,32472,351,4655,1296,207,404,95,318,351,2671,40858
+2002,26201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,510,551,39318,1035,5526,1660,136,107,130,113,91,2237,48667
+2002,26659,Counted,Manual count,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,125,162,12695,405,1574,204,67,13,5,3,1,293,15129
+2002,26660,Counted,Manual count,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,136,65,9554,924,789,63,13,20,16,14,7,133,11465
+2002,26664,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,270,502,20058,498,2635,462,31,13,14,6,5,531,24224
+2002,26672,Counted,Manual count,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,274,255,17196,612,1630,453,38,12,9,6,4,522,20215
+2002,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,285,532,24440,835,2693,658,34,41,18,25,9,785,29285
+2002,28672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,8,447,61152,275,11321,2379,341,590,539,1048,1075,5972,79167
+2002,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,129,172,6131,3,759,110,2,4,0,1,1,118,7183
+2002,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,22,33,6864,337,684,201,22,15,16,36,36,326,8244
+2002,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,266,309,17664,712,2048,277,39,21,5,6,5,353,21086
+2002,36681,Counted,Manual count,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,241,94,18045,444,1329,196,18,3,9,3,2,231,20143
+2002,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,49,182,11884,1917,2021,430,62,34,16,42,30,614,16618
+2002,38439,Counted,Manual count,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,218,597,21650,613,2661,605,50,30,31,15,19,750,26271
+2002,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,49,456,27915,643,4667,1054,262,205,303,426,443,2693,36374
+2002,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,459,1403,42514,1448,7606,936,107,76,92,107,202,1520,54491
+2002,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,37,1244,41629,145,7439,1584,243,741,220,510,683,3981,54438
+2002,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,66,151,15553,864,1138,194,26,34,5,5,5,269,17975
+2002,46672,Counted,Manual count,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,54,178,8949,405,1360,404,37,49,53,317,190,1050,11942
+2002,48610,Counted,Manual count,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,127,3064,63027,360,9337,1821,258,1007,207,577,521,4391,80179
+2002,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,136,116,8146,301,1188,262,23,48,4,6,10,353,10104
+2002,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,22,60,4895,356,702,114,23,26,6,23,27,219,6232
+2002,49007,Counted,Manual count,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,28,382,37211,976,5409,1098,225,273,100,208,287,2191,46169
+2002,56496,Counted,Manual count,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,54,72,9173,63,729,127,14,14,1,0,1,157,10194
+2002,56512,Counted,Manual count,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,133,217,15457,1004,1312,255,42,36,11,3,8,355,18345
+2002,56897,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,125,119,15999,246,2132,681,29,43,29,0,0,782,19278
+2002,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,419,1282,29070,880,3817,644,82,28,34,43,74,905,35954
+2002,58231,Counted,Manual count,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,1,352,63210,238,8971,2358,422,853,595,1114,1732,7074,79845
+2002,58332,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538985,185330,A11,A11,0.6,0.37,85,74,5203,5,827,151,2,2,2,3,11,171,6280
+2002,58444,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,6,386,25358,185,2929,743,108,302,91,163,176,1583,30441
+2002,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,74,172,4361,817,722,257,86,71,73,186,226,899,6971
+2002,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,26,1477,50076,281,8760,3548,346,2058,403,871,608,7834,68428
+2002,73819,Counted,Dependent on a neighbouring counted link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,106,135,13638,320,1263,208,8,2,2,0,0,220,15576
+2002,73820,Counted,Dependent on a neighbouring counted link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,67,188,11782,82,1138,185,9,3,6,4,2,209,13399
+2002,73822,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,195,2961,56117,827,12725,1852,299,923,132,322,321,3849,76479
+2002,73823,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,64,466,25181,372,4124,908,103,130,64,171,163,1539,31682
+2002,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,134,129,22247,998,1858,462,47,38,14,9,7,577,25809
+2003,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,312,250,17906,1388,1936,313,23,19,14,10,12,391,21871
+2003,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,118,50,6699,586,785,85,1,0,2,0,0,88,8208
+2003,6650,Counted,Manual count,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,243,249,18512,708,2349,295,47,27,75,26,24,494,22312
+2003,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,632,1042,26616,2694,3246,833,38,58,48,56,96,1129,34727
+2003,8542,Counted,Manual count,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,239,266,35862,882,3369,526,34,13,41,19,18,651,41030
+2003,16202,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,36,2352,59134,360,10022,2887,275,694,201,381,673,5111,76979
+2003,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,203,133,21320,530,1964,209,16,10,12,11,12,270,24217
+2003,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,99,116,15383,230,1094,199,19,2,8,0,10,238,17061
+2003,16632,Counted,Manual count,London,Newham,A115,PA,538360,184000,LA Boundary,A11,1.3,0.81,242,174,8818,238,1267,260,69,57,11,19,45,461,10958
+2003,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,212,278,16536,955,1800,275,52,12,11,7,3,360,19929
+2003,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,309,595,20311,1138,3081,784,35,24,78,58,78,1057,26182
+2003,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,208,247,25894,1168,3148,481,50,23,30,16,26,626,31083
+2003,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,248,188,17239,610,1689,264,54,34,39,17,20,428,20154
+2003,18728,Counted,Manual count,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,99,1022,36842,366,5805,1453,321,440,120,400,283,3017,47052
+2003,26201,Counted,Manual count,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,555,1457,37240,1033,6324,921,188,197,42,53,62,1463,47517
+2003,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,146,169,12263,490,1681,182,63,13,5,3,1,267,14870
+2003,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,159,67,9230,1117,842,56,13,19,18,14,9,129,11385
+2003,26664,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,315,523,19376,602,2814,411,29,13,15,6,6,480,23795
+2003,26672,Counted,Manual count,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,416,471,18387,879,2893,264,60,8,1,3,8,344,22974
+2003,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,333,554,23609,1010,2876,586,32,40,20,25,11,714,28763
+2003,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,687,73880,284,8937,2308,588,782,370,1187,1004,6239,90027
+2003,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,151,179,5922,3,811,98,2,4,0,1,1,106,7021
+2003,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,26,35,6631,408,731,179,20,15,18,36,45,313,8118
+2003,36676,Counted,Manual count,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,117,98,20754,857,2129,247,29,11,8,22,13,330,24168
+2003,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,281,98,17431,537,1420,174,17,3,9,3,3,209,19695
+2003,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,57,190,11480,2317,2158,383,58,33,17,42,37,570,16715
+2003,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,254,622,20914,741,2842,538,47,29,34,15,24,687,25806
+2003,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,57,475,26966,777,4985,938,246,199,331,433,558,2705,35908
+2003,46201,Counted,Manual count,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,775,975,34894,1244,5149,713,72,52,25,35,35,932,43194
+2003,46217,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,43,1297,40213,175,7944,1410,228,720,240,517,859,3974,53603
+2003,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,77,157,15024,1044,1215,173,24,33,5,5,6,246,17686
+2003,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,63,185,8644,490,1452,360,35,47,58,322,239,1061,11832
+2003,48610,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,149,3192,60884,436,9972,1620,243,978,226,585,656,4308,78792
+2003,48812,Counted,Manual count,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,42,104,11478,339,1602,173,12,24,9,4,1,223,13746
+2003,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,26,63,4728,431,750,101,21,26,6,23,34,211,6183
+2003,49007,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,33,398,35946,1180,5777,977,211,265,109,211,361,2134,45435
+2003,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,63,75,8861,76,779,113,14,14,1,0,1,143,9934
+2003,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,156,226,14931,1214,1401,226,40,35,12,3,10,326,18098
+2003,56897,Counted,Manual count,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,249,273,18036,253,2446,401,34,30,1,3,6,475,21483
+2003,57911,Counted,Manual count,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,223,587,27667,874,2403,680,37,17,34,16,11,795,32326
+2003,58231,Estimated,Estimated using previous year's AADF on this link,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,1,367,61060,287,9581,2098,397,829,649,1131,2180,7284,78579
+2003,58444,Counted,Manual count,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,23,533,25234,125,4389,922,154,151,143,282,166,1818,32099
+2003,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,87,179,4212,988,771,229,81,69,80,189,284,932,7082
+2003,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,68,1556,59342,297,10374,3708,474,1190,687,1790,1392,9241,80810
+2003,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,154,139,13365,369,1391,188,8,2,2,0,0,200,15464
+2003,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,97,195,11546,94,1253,166,9,3,6,4,2,190,13278
+2003,73822,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,227,3085,54209,1000,13590,1649,281,897,144,327,404,3702,75586
+2003,73823,Counted,Dependent on a neighbouring counted link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,35,853,32305,292,5203,1073,187,286,69,168,155,1938,40591
+2003,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,157,134,21491,1206,1984,411,44,37,16,9,9,526,25341
+2004,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,331,263,16098,1510,2026,353,27,23,14,9,13,439,20336
+2004,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,125,52,6023,638,821,95,1,0,2,0,0,98,7632
+2004,6650,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,258,262,16642,770,2457,334,56,33,73,25,27,548,20679
+2004,8376,Counted,Manual count,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,653,687,26337,2212,3267,565,56,73,20,27,6,747,33250
+2004,8542,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,253,279,32239,960,3524,594,40,17,40,17,20,728,37730
+2004,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,135,3214,73905,368,11983,2903,427,1129,166,348,347,5320,94790
+2004,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,215,141,19167,576,2055,237,19,12,11,10,13,302,22241
+2004,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,105,122,13830,250,1145,226,23,2,7,0,11,269,15616
+2004,16632,Estimated,Estimated using previous year's AADF on this link,London,Newham,A115,PA,538360,184000,LA Boundary,A11,1.3,0.81,257,183,7927,259,1326,295,83,70,11,17,50,526,10221
+2004,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,225,293,14865,1039,1883,312,62,14,10,7,3,408,18488
+2004,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,328,625,18260,1238,3223,888,42,30,76,53,88,1177,24523
+2004,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,220,260,23278,1271,3293,544,60,27,30,15,29,705,28807
+2004,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,263,197,15497,662,1768,299,65,44,37,15,22,482,18606
+2004,18728,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,105,1074,33121,399,6073,1645,383,543,118,363,320,3372,44039
+2004,26201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,588,1531,33479,1125,6615,1043,225,244,41,48,69,1670,44420
+2004,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,154,177,11024,533,1758,206,75,16,5,3,1,306,13798
+2004,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,168,71,8297,1215,881,63,15,24,17,13,10,142,10606
+2004,26664,Counted,Manual count,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,194,148,17655,567,1679,388,37,16,35,16,27,519,20568
+2004,26672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,441,495,16531,956,3026,299,72,10,1,3,8,393,21401
+2004,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,352,583,21225,1098,3008,663,38,49,19,23,13,805,26719
+2004,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,746,89480,292,10669,3141,593,1020,338,1164,1275,7531,108718
+2004,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,159,188,5324,4,848,111,2,5,0,1,1,120,6484
+2004,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,27,37,5961,444,764,203,25,18,17,34,51,348,7554
+2004,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,124,103,18658,933,2227,280,35,15,7,19,14,370,22291
+2004,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,298,103,15671,584,1485,198,21,3,9,3,3,237,18080
+2004,37543,Counted,Manual count,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,135,250,14747,823,2033,502,104,149,15,21,19,810,18663
+2004,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,269,654,18802,806,2973,610,56,36,33,14,27,776,24011
+2004,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,60,499,24242,846,5214,1062,295,246,323,393,628,2947,33748
+2004,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,820,1025,31370,1354,5386,808,87,64,24,32,40,1055,40190
+2004,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,98,2891,68746,503,13114,3267,495,1167,168,391,335,5823,91077
+2004,46669,Counted,Manual count,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,108,137,15535,836,1130,212,33,28,10,12,8,303,17941
+2004,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,67,195,7771,533,1519,407,42,59,56,293,269,1126,11144
+2004,48610,Counted,Manual count,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,52,2105,73377,392,10808,2314,354,790,191,418,344,4411,91093
+2004,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,44,109,10319,369,1675,196,14,30,9,4,1,254,12726
+2004,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,28,66,4251,469,785,115,25,31,6,21,39,237,5808
+2004,49007,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,35,418,32315,1284,6042,1106,253,328,107,192,407,2393,42452
+2004,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,67,79,7966,83,814,128,16,17,1,0,1,163,9105
+2004,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,165,238,13423,1321,1466,257,47,43,12,3,11,373,16821
+2004,56897,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,264,287,16214,276,2558,454,41,37,1,3,7,543,19878
+2004,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,236,617,24872,951,2514,769,44,21,33,15,12,894,29848
+2004,58231,Estimated,Estimated using previous year's AADF on this link,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,1,386,54894,313,10021,2375,475,1024,636,1027,2458,7995,73609
+2004,58444,Counted,Manual count,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,9,232,22338,102,1853,535,60,102,55,168,124,1044,25569
+2004,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,91,189,3787,1075,806,259,97,85,78,171,320,1010,6867
+2004,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,67,1638,54386,410,11773,3341,484,1361,518,1513,1498,8715,76922
+2004,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,133,133,13525,421,1317,207,9,2,2,0,0,220,15616
+2004,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,84,186,11685,108,1186,184,10,3,6,4,3,210,13375
+2004,73822,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,241,3243,48734,1088,14216,1866,336,1109,141,297,455,4204,71485
+2004,73823,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,37,896,29042,319,5442,1215,223,353,67,152,174,2184,37883
+2004,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,166,141,19320,1313,2075,466,52,45,15,9,10,597,23446
+2005,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,428,262,15776,1467,2036,364,27,24,12,8,12,447,19988
+2005,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,161,52,5902,619,825,98,1,0,2,0,0,101,7499
+2005,6650,Counted,Manual count,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,367,339,21539,960,3516,489,42,29,34,19,9,622,26976
+2005,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,843,685,25810,2148,3283,581,56,79,17,22,6,761,32687
+2005,8542,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,327,279,31595,932,3542,612,40,18,33,14,20,737,37085
+2005,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,40,2104,93778,209,18771,3674,730,1070,392,505,439,6810,121672
+2005,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,277,139,18783,560,2065,244,19,13,10,8,13,307,21854
+2005,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,135,122,13553,242,1151,232,23,3,6,0,11,275,15343
+2005,16632,Estimated,Estimated using previous year's AADF on this link,London,Newham,A115,PA,538360,184000,LA Boundary,A11,1.3,0.81,331,182,7769,251,1333,302,83,76,9,14,50,534,10069
+2005,16634,Counted,Manual count,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,313,165,16257,1205,1607,271,11,18,1,2,1,304,19538
+2005,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,423,623,17894,1202,3239,912,42,33,63,43,87,1180,24138
+2005,18434,Counted,Manual count,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,336,179,21491,833,2578,572,35,19,14,6,12,658,25739
+2005,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,340,197,15187,644,1776,307,65,46,31,13,22,484,18288
+2005,18728,Counted,Manual count,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,60,435,28916,436,4752,1064,177,238,100,431,375,2385,36924
+2005,26201,Counted,Manual count,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,802,1124,38343,1309,6743,1111,96,189,32,57,87,1572,49091
+2005,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,199,177,10805,517,1767,211,75,17,5,3,1,312,13578
+2005,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,217,71,8131,1180,886,65,15,26,14,10,10,140,10408
+2005,26664,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,251,148,17302,551,1687,399,37,18,29,13,26,522,20210
+2005,26672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,570,494,16199,928,3041,307,72,11,1,3,8,402,21064
+2005,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,455,581,20800,1067,3023,681,38,53,16,19,13,820,26291
+2005,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,902,94819,694,17326,4766,647,1093,24,904,861,8295,122036
+2005,28773,Counted,Manual count,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,256,103,8929,137,1015,286,18,15,3,3,7,332,10516
+2005,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,35,36,5842,430,768,208,25,20,14,28,51,346,7422
+2005,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,159,103,18285,906,2238,288,35,16,6,15,13,373,21905
+2005,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,385,103,15357,567,1492,203,21,4,8,3,3,242,17761
+2005,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,175,248,14453,798,2043,517,104,161,12,17,19,830,18372
+2005,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,348,652,18426,783,2988,627,56,39,27,11,27,787,23636
+2005,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,78,498,23758,822,5240,1091,295,267,268,321,623,2865,33183
+2005,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,1059,1022,30743,1314,5413,830,87,70,21,26,39,1073,39565
+2005,46217,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,126,2883,67371,488,13180,3359,496,1267,140,319,332,5913,89835
+2005,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,140,137,15224,812,1136,218,33,30,8,10,8,307,17616
+2005,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,86,195,7616,517,1527,419,42,64,47,240,267,1079,10934
+2005,48610,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,66,2098,71910,380,10862,2379,355,857,159,342,341,4433,89683
+2005,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,57,109,10112,358,1684,202,14,32,7,2,1,258,12521
+2005,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,36,66,4166,455,788,118,26,34,6,18,38,240,5715
+2005,49007,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,45,417,31669,1246,6073,1137,254,356,88,157,403,2395,41800
+2005,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,86,79,7807,81,819,131,16,18,1,0,1,167,8953
+2005,56512,Counted,Manual count,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,180,211,12575,1085,1688,412,25,7,7,2,1,454,16013
+2005,56897,Counted,Manual count,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,166,134,19775,333,3260,628,62,43,7,12,0,752,24254
+2005,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,305,615,24375,923,2526,791,44,23,28,12,12,910,29349
+2005,58231,Counted,Manual count,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,9,1274,66330,330,13128,4675,755,1116,115,848,1099,8608,89670
+2005,58444,Counted,Manual count,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,25,308,20327,72,2508,833,117,117,25,114,177,1383,24598
+2005,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,118,188,3712,1043,810,266,97,92,64,141,318,978,6731
+2005,73000,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,68,1506,53787,438,12020,3154,446,1355,518,1495,1790,8758,76509
+2005,73819,Counted,Dependent on a neighbouring counted link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,164,184,15706,337,1361,299,21,5,3,2,2,332,17920
+2005,73820,Counted,Dependent on a neighbouring counted link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,70,93,11071,63,934,178,11,14,5,9,4,221,12382
+2005,73822,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,311,3233,47759,1056,14287,1918,336,1203,117,243,451,4268,70603
+2005,73823,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,47,894,28461,309,5469,1250,223,384,56,124,173,2210,37343
+2005,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,214,141,18933,1275,2086,478,53,49,12,7,9,608,23043
+2006,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,555,285,16383,1601,2157,346,25,24,12,8,15,430,20856
+2006,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,209,58,6130,677,875,94,1,0,2,0,0,97,7837
+2006,6650,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,476,368,22369,1048,3728,465,39,30,34,17,10,595,28108
+2006,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,1094,745,26804,2346,3480,553,52,79,16,21,7,728,34103
+2006,8542,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,425,303,32812,1018,3755,582,38,18,33,13,23,707,38595
+2006,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,82,3706,92117,577,22643,3945,567,1450,207,720,966,7855,126898
+2006,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,360,152,19507,611,2188,232,17,13,9,8,14,293,22751
+2006,16631,Counted,Manual count,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,176,98,14369,362,1862,122,15,4,0,1,1,143,16834
+2006,16632,Estimated,Estimated using previous year's AADF on this link,London,Newham,A115,PA,538360,184000,LA Boundary,A11,1.3,0.81,430,198,8068,274,1413,288,77,77,9,14,58,523,10476
+2006,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,407,179,16884,1317,1703,257,10,18,1,2,1,289,20372
+2006,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,549,678,18584,1313,3434,868,39,33,61,41,101,1143,25152
+2006,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,437,195,22319,909,2733,544,31,19,14,6,14,628,26784
+2006,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,442,213,15772,704,1883,293,60,48,30,13,26,470,19042
+2006,18728,Counted,Manual count,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,15,302,25961,491,4164,849,130,189,137,530,472,2307,33225
+2006,26201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,1041,1223,39820,1429,7148,1058,89,190,32,54,101,1524,51144
+2006,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,259,192,11220,565,1873,201,70,17,4,2,2,296,14146
+2006,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,282,78,8444,1289,939,62,13,26,14,10,12,137,10887
+2006,26664,Counted,Manual count,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,519,480,17752,891,2780,268,36,23,7,13,6,353,22256
+2006,26672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,739,537,16824,1014,3223,292,67,11,1,3,10,384,21982
+2006,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,590,632,21601,1165,3205,649,36,54,15,18,15,787,27390
+2006,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,1058,90204,517,15756,3150,507,1259,288,1526,1193,7923,115458
+2006,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,331,112,9273,149,1076,273,16,15,3,3,8,318,10928
+2006,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,46,39,6067,470,814,198,23,20,14,26,59,340,7730
+2006,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,207,112,18989,989,2372,274,32,16,6,15,16,359,22821
+2006,36681,Counted,Manual count,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,202,139,16313,745,1918,197,22,1,0,5,2,227,19342
+2006,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,227,270,15009,872,2166,491,96,162,12,17,22,800,19117
+2006,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,452,709,19136,855,3167,596,52,39,27,11,31,756,24623
+2006,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,102,541,24672,897,5554,1039,274,268,261,308,723,2873,34537
+2006,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,1375,1112,31928,1435,5738,790,81,70,20,25,45,1031,41244
+2006,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,34,3160,88262,412,19722,3306,599,1275,79,473,609,6341,117897
+2006,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,181,150,15810,887,1204,208,30,30,8,10,8,294,18345
+2006,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,112,211,7909,565,1619,398,39,64,45,229,310,1085,11389
+2006,48610,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,87,2284,74680,415,11514,2264,329,861,154,328,396,4332,93225
+2006,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,73,119,10502,391,1785,192,14,32,7,2,1,248,13045
+2006,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,46,72,4327,496,835,112,24,34,6,16,44,236,5966
+2006,49007,Counted,Manual count,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,131,433,23886,367,3795,863,133,139,69,122,167,1493,29974
+2006,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,112,86,8108,88,868,125,14,18,1,0,2,160,9310
+2006,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,233,229,13059,1185,1790,393,23,7,7,2,2,434,16697
+2006,56897,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,215,145,20536,365,3456,598,57,43,7,12,0,717,25219
+2006,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,396,669,25314,1009,2678,753,41,23,27,12,14,870,30540
+2006,58231,Estimated,Estimated using previous year's AADF on this link,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,12,1387,68885,361,13915,4449,700,1122,112,813,1276,8472,93020
+2006,58444,Counted,Manual count,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,121,346,19688,601,4570,575,156,103,1,109,104,1048,26253
+2006,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,154,204,3854,1140,860,253,89,93,63,134,369,1001,7059
+2006,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,77,3596,78012,585,21906,5154,808,1930,461,1595,1131,11079,115178
+2006,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,204,200,15994,354,1349,297,19,5,3,2,2,328,18225
+2006,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,87,101,11274,66,926,177,11,16,4,7,4,219,12586
+2006,73822,Counted,Manual count,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,328,4878,78889,1020,20008,4685,704,1451,214,566,436,8056,112851
+2006,73823,Counted,Dependent on a neighbouring counted link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,158,468,21630,124,3245,881,143,223,50,111,73,1481,26948
+2006,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,277,154,19664,1393,2211,455,50,50,12,6,12,585,24007
+2007,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,549,292,16186,1576,2208,316,23,25,9,7,15,395,20657
+2007,6649,Counted,Manual count,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,115,66,8545,705,1255,90,15,2,1,0,0,108,10679
+2007,6650,Counted,Manual count,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,338,335,16980,848,2606,216,26,13,50,20,22,347,21116
+2007,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,1082,763,26482,2309,3560,506,47,80,13,20,7,673,33787
+2007,8542,Counted,Manual count,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,328,315,33696,1134,3935,748,45,51,26,15,13,898,39978
+2007,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,91,3723,93436,699,21827,2803,425,1695,262,613,669,6467,126152
+2007,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,357,156,19273,601,2239,212,16,13,8,8,14,271,22540
+2007,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,174,100,14197,356,1905,111,15,4,0,1,1,132,16690
+2007,16632,Estimated,Estimated using previous year's AADF on this link,London,Newham,A115,PA,538360,184000,LA Boundary,A11,1.3,0.81,426,203,7972,270,1445,263,70,77,7,12,58,487,10377
+2007,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,402,184,16682,1296,1742,235,10,20,1,2,1,269,20173
+2007,18346,Counted,Manual count,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,500,697,25403,2384,4425,745,58,56,13,9,20,901,33810
+2007,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,432,199,22051,894,2796,497,29,19,12,5,14,576,26516
+2007,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,436,219,15584,692,1926,267,55,48,25,11,26,432,18853
+2007,18728,Counted,Manual count,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,32,355,29266,513,4498,619,117,307,126,483,299,1951,36583
+2007,26201,Counted,Manual count,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,1195,1329,40584,1440,7857,693,99,194,39,41,51,1117,52327
+2007,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,256,197,11086,556,1916,184,64,17,4,2,2,273,14028
+2007,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,279,79,8343,1269,961,57,13,26,11,9,11,127,10779
+2007,26664,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,513,492,17539,877,2844,245,32,23,6,12,6,324,22076
+2007,26672,Counted,Manual count,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,311,333,20157,1020,2804,292,32,3,6,11,4,348,24662
+2007,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,584,647,21342,1146,3279,593,32,54,13,17,15,724,27138
+2007,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,943,113947,361,21043,3623,543,1037,462,749,2638,9052,145346
+2007,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,327,114,9162,147,1100,249,16,15,3,3,8,294,10817
+2007,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,45,40,5994,462,833,181,21,20,11,24,59,316,7645
+2007,36676,Counted,Manual count,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,139,138,15063,957,1796,234,17,10,5,22,9,297,18251
+2007,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,200,143,16118,733,1962,181,20,1,0,4,2,208,19164
+2007,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,224,277,14829,858,2215,450,88,163,10,15,22,748,18927
+2007,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,447,726,18906,841,3240,545,48,40,22,10,31,696,24409
+2007,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,100,555,24377,883,5682,950,250,270,217,284,719,2690,34187
+2007,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,1359,1139,31544,1413,5870,722,74,70,16,23,45,950,40916
+2007,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,48,3419,74017,516,17313,3754,570,1133,641,421,929,7448,102713
+2007,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,179,153,15621,873,1232,189,28,30,6,9,8,270,18149
+2007,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,110,217,7815,556,1656,364,35,64,38,212,308,1021,11265
+2007,48610,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,86,2338,73784,408,11779,2070,301,866,128,302,394,4061,92370
+2007,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,73,122,10376,386,1826,175,13,34,6,2,1,231,12941
+2007,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,46,73,4274,488,855,103,21,34,4,16,44,222,5912
+2007,49007,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,130,444,23600,361,3883,789,122,140,57,112,167,1387,29675
+2007,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,110,88,8010,87,887,114,14,19,1,0,2,150,9222
+2007,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,230,235,12902,1166,1832,360,22,7,5,2,2,398,16533
+2007,56897,Counted,Manual count,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,176,196,16280,329,3429,716,48,85,10,2,1,862,21096
+2007,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,392,685,25010,992,2740,688,37,23,22,11,14,795,30222
+2007,58231,Counted,Manual count,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,0,1115,80013,800,16034,2767,539,898,459,1413,1265,7341,105303
+2007,58444,Counted,Manual count,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,7,135,18771,66,2406,414,68,41,43,134,224,924,22302
+2007,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,152,209,3808,1121,879,231,83,93,52,124,366,949,6966
+2007,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,26,2518,78009,671,20708,3868,520,1907,469,1515,1088,9367,111273
+2007,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,263,196,15754,356,1379,333,21,7,3,2,2,368,18053
+2007,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,112,99,11105,66,947,198,13,19,4,7,4,245,12462
+2007,73822,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,325,4995,77942,1005,20469,4282,643,1460,178,521,434,7518,111929
+2007,73823,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,156,478,21370,122,3320,805,130,224,42,102,72,1375,26665
+2007,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,275,157,19428,1370,2262,416,44,50,10,6,12,538,23755
+2008,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,563,297,15847,1601,2205,320,27,27,9,7,15,405,20355
+2008,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,118,67,8365,717,1254,91,16,2,1,0,0,110,10513
+2008,6650,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,346,341,16624,862,2604,219,29,14,48,20,22,352,20783
+2008,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,1110,776,25926,2345,3557,512,54,86,13,19,8,692,33296
+2008,8542,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,337,319,32988,1151,3931,757,53,55,24,15,14,918,39307
+2008,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,0,1251,87307,964,13185,3821,903,1660,583,483,962,8412,111119
+2008,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,366,159,18868,611,2237,214,19,14,8,7,15,277,22152
+2008,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,178,101,13898,362,1903,112,16,4,0,1,2,135,16399
+2008,16632,Estimated,Estimated using previous year's AADF on this link,London,Newham,A115,PA,538360,184000,LA Boundary,A11,1.3,0.81,437,207,7804,274,1443,267,80,83,7,12,61,510,10238
+2008,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,413,186,16331,1317,1741,238,11,20,1,2,2,274,19849
+2008,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,513,709,24870,2422,4420,754,66,60,12,9,21,922,33343
+2008,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,443,203,21588,909,2793,503,33,21,11,5,14,587,26080
+2008,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,447,223,15256,702,1924,271,63,50,23,11,28,446,18551
+2008,18728,Counted,Manual count,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,39,368,37123,477,3650,883,208,249,108,161,655,2264,43882
+2008,26201,Counted,Manual count,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,597,994,42114,1396,5551,1287,282,578,103,77,85,2412,52467
+2008,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,262,200,10853,565,1914,186,73,19,4,2,2,286,13818
+2008,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,286,80,8168,1289,959,58,15,28,11,9,12,133,10629
+2008,26664,Counted,Manual count,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,392,251,18078,705,1945,467,24,15,3,2,22,533,21512
+2008,26672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,319,338,19734,1036,2801,295,37,3,6,10,4,355,24264
+2008,28406,Counted,Manual count,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,219,433,21916,1004,2544,553,70,96,7,18,26,770,26667
+2008,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,820,91804,676,12714,2909,534,827,293,354,1386,6303,112317
+2008,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,336,116,8969,149,1099,252,18,16,3,3,8,300,10633
+2008,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,46,41,5869,470,832,184,24,21,11,22,61,323,7535
+2008,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,143,140,14747,972,1794,236,20,11,5,21,10,303,17956
+2008,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,205,145,15779,745,1960,183,22,1,0,4,2,212,18841
+2008,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,231,282,14517,871,2213,455,100,176,10,15,23,779,18662
+2008,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,458,739,18509,855,3237,552,54,42,21,9,32,710,24050
+2008,38830,Counted,Manual count,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,30,212,21644,329,2528,544,48,86,10,26,274,988,25701
+2008,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,1395,1159,30882,1435,5864,730,84,76,15,22,47,974,40314
+2008,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,6,5417,76060,613,17758,3861,950,1109,1068,635,1086,8709,108557
+2008,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,184,155,15293,887,1231,192,32,34,6,8,8,280,17846
+2008,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,114,220,7651,565,1654,369,40,70,36,201,325,1041,11131
+2008,48610,Counted,Manual count,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,20,3196,124383,475,17979,4088,601,789,309,417,719,6923,152956
+2008,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,74,124,10158,391,1824,178,14,36,6,2,1,237,12734
+2008,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,46,75,4185,496,853,104,25,37,4,14,46,230,5839
+2008,49007,Counted,Manual count,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,78,284,18578,428,2731,879,133,357,32,22,222,1645,23666
+2008,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,114,89,7842,88,887,116,16,19,1,0,2,154,9060
+2008,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,236,239,12631,1184,1829,364,25,8,5,2,2,406,16289
+2008,56897,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,181,200,15938,334,3425,725,56,92,10,2,1,886,20783
+2008,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,402,697,24485,1008,2737,696,43,24,21,10,15,809,29736
+2008,58231,Estimated,Estimated using previous year's AADF on this link,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,0,1134,78333,813,16017,2800,614,965,433,1342,1334,7488,103785
+2008,58444,Counted,Manual count,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,41,170,22236,205,2776,513,99,78,30,91,173,984,26371
+2008,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,156,212,3728,1140,878,234,94,101,49,117,386,981,6939
+2008,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,48,1765,63173,444,14651,2940,974,2703,1554,1060,1391,10622,90655
+2008,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,308,192,15392,361,1350,325,24,7,3,2,2,363,17658
+2008,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,131,97,10849,68,926,193,13,20,4,7,4,241,12181
+2008,73822,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,332,5080,76305,1020,20448,4333,732,1569,168,495,458,7755,110608
+2008,73823,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,160,487,20922,124,3317,814,148,241,38,97,76,1414,26264
+2008,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,282,159,19019,1392,2260,422,51,54,9,6,12,554,23384
+2009,6644,Counted,Manual count,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,211,109,13458,1271,1260,201,46,17,6,4,0,274,16372
+2009,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,116,65,8139,734,1215,91,18,2,1,0,0,112,10265
+2009,6650,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,342,332,16175,883,2523,219,31,15,46,18,22,351,20264
+2009,8376,Counted,Manual count,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,877,759,26757,2004,2981,689,68,66,0,8,22,853,33354
+2009,8542,Counted,Manual count,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,467,272,31161,1127,3391,662,73,29,17,15,60,856,36807
+2009,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,10,2777,113807,673,16545,3521,525,1105,149,312,761,6373,140175
+2009,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,363,155,18358,626,2167,214,21,14,8,7,15,279,21585
+2009,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,176,98,13522,370,1844,112,17,4,0,1,2,136,15970
+2009,16632,Estimated,Estimated using previous year's AADF on this link,London,Newham,A115,PA,538360,184000,LA Boundary,A11,1.3,0.81,433,201,7593,280,1398,267,87,87,7,11,61,520,9992
+2009,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,409,181,15890,1349,1687,238,12,20,1,2,2,275,19382
+2009,18346,Counted,Manual count,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,555,622,27248,2070,2794,658,60,37,0,4,23,782,33516
+2009,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,439,197,21005,930,2706,503,35,21,11,5,14,589,25427
+2009,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,443,217,14844,718,1864,271,68,52,21,9,28,449,18092
+2009,18728,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,39,357,36121,488,3537,883,226,258,102,142,653,2264,42767
+2009,26201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,591,966,40977,1429,5379,1285,306,600,98,68,85,2442,51193
+2009,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,259,194,10560,579,1854,186,79,20,4,2,2,293,13480
+2009,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,283,78,7947,1320,929,58,17,29,11,8,12,135,10409
+2009,26664,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,388,244,17590,722,1885,467,26,15,3,2,22,535,20976
+2009,26672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,317,328,19201,1060,2715,295,40,3,6,9,4,357,23661
+2009,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,217,421,21324,1028,2465,552,76,100,7,16,26,777,26015
+2009,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,1336,112011,585,14008,3200,516,938,27,454,1968,7103,135043
+2009,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,333,112,8727,153,1064,252,20,17,3,3,8,303,10359
+2009,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,46,39,5711,482,806,184,26,22,11,20,61,324,7362
+2009,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,141,136,14349,995,1739,236,22,11,5,19,10,303,17522
+2009,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,203,141,15353,763,1899,183,24,1,0,4,2,214,18370
+2009,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,229,274,14125,892,2145,455,109,183,10,13,23,793,18229
+2009,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,454,718,18009,876,3137,551,59,44,20,8,32,714,23454
+2009,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,30,206,21060,337,2450,544,52,90,10,23,274,993,25046
+2009,46201,Counted,Manual count,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,759,637,28407,1498,3562,551,61,99,11,4,52,778,34882
+2009,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,24,2892,88871,529,15373,4126,487,1110,81,223,857,6884,114549
+2009,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,182,151,14880,909,1193,192,34,36,6,7,8,283,17416
+2009,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,113,214,7444,578,1602,369,43,72,34,178,324,1020,10858
+2009,48610,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,20,3107,121025,487,17421,4084,652,820,295,369,717,6937,148977
+2009,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,74,120,9884,400,1767,178,15,37,6,2,1,239,12410
+2009,48813,Counted,Manual count,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,69,54,4462,421,426,106,4,3,0,2,13,128,5491
+2009,49007,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,78,276,18076,438,2646,879,144,371,30,19,222,1665,23101
+2009,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,113,87,7630,90,860,116,18,19,1,0,2,156,8823
+2009,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,234,232,12290,1212,1772,364,27,8,5,2,2,408,15914
+2009,56897,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,179,194,15508,342,3319,725,60,95,10,2,1,893,20256
+2009,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,398,677,23824,1032,2652,695,47,25,20,9,15,811,28996
+2009,58231,Counted,Manual count,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,0,745,80073,621,10694,2493,444,658,124,442,1895,6056,98189
+2009,58444,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,41,165,21635,210,2690,513,107,81,28,81,173,983,25683
+2009,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,154,206,3628,1168,851,234,102,105,47,104,385,977,6830
+2009,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,88,2037,84604,606,16027,4603,573,1787,37,547,2077,9624,112898
+2009,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,334,181,15268,381,1315,304,24,7,3,2,2,342,17487
+2009,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,142,92,10762,71,902,181,13,20,3,5,3,225,12052
+2009,73822,Counted,Manual count,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,489,2096,79916,998,13651,2848,547,969,275,258,614,5511,102172
+2009,73823,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,159,473,20358,127,3214,814,161,250,36,86,76,1423,25595
+2009,75291,Counted,Manual count,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,212,198,24809,1407,2038,380,56,19,1,2,7,465,28917
+2010,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,233,107,13242,1282,1237,210,46,14,6,4,0,280,16148
+2010,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,128,65,8008,740,1193,95,18,2,1,0,0,116,10122
+2010,6650,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,377,328,15917,890,2478,229,31,13,51,16,22,362,19975
+2010,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,967,751,26329,2020,2927,719,68,57,0,7,21,872,32899
+2010,8542,Counted,Manual count,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,411,297,42717,1152,4062,567,33,36,11,17,30,694,48922
+2010,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,23,2451,107876,485,17766,3731,509,2014,0,186,899,7339,135917
+2010,16628,Counted,Manual count,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,208,134,18492,382,1652,344,18,24,11,7,2,406,21066
+2010,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,194,96,13305,372,1811,117,17,4,0,1,2,141,15725
+2010,16632,Estimated,Estimated using previous year's AADF on this link,London,Newham,A115,PA,538360,184000,LA Boundary,A11,1.3,0.81,477,199,7472,282,1373,279,87,75,7,10,59,517,9843
+2010,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,451,179,15636,1360,1657,248,12,18,1,2,2,283,19115
+2010,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,612,615,26812,2087,2744,687,60,32,0,4,22,805,33063
+2010,18434,Counted,Manual count,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,135,134,25079,729,2015,384,38,8,1,0,9,440,28397
+2010,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,488,215,14607,724,1830,283,68,44,23,9,26,453,17829
+2010,18728,Counted,Manual count,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,82,839,41996,549,2730,1229,89,127,142,200,254,2041,48155
+2010,26201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,652,956,40321,1441,5282,1341,304,515,109,61,82,2412,50412
+2010,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,285,192,10391,583,1820,194,79,17,4,2,2,298,13284
+2010,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,312,78,7820,1330,913,60,17,25,12,7,12,133,10274
+2010,26664,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,428,241,17308,728,1851,488,26,13,3,2,22,554,20682
+2010,26672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,350,324,18894,1068,2667,308,40,3,7,8,4,370,23323
+2010,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,239,416,20983,1036,2421,576,76,86,8,14,25,785,25641
+2010,28672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,1321,110219,590,13756,3341,513,805,30,412,1897,6998,132884
+2010,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,367,110,8588,154,1045,263,20,15,3,3,8,312,10209
+2010,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,51,39,5620,486,792,192,26,19,13,18,59,327,7264
+2010,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,156,134,14120,1003,1708,246,22,9,5,17,10,309,17274
+2010,36681,Counted,Manual count,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,136,86,18909,543,1003,277,7,16,5,2,8,315,20856
+2010,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,253,271,13899,899,2106,475,109,157,11,11,23,786,17961
+2010,38439,Counted,Manual count,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,230,431,19232,1020,1937,601,45,58,57,4,14,779,23399
+2010,38830,Counted,Manual count,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,61,229,21840,371,2516,958,238,170,5,8,324,1703,26659
+2010,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,838,630,27953,1510,3497,575,61,85,13,4,50,788,34378
+2010,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,12,2548,77964,481,13492,3645,437,1190,0,169,604,6045,100530
+2010,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,201,149,14642,916,1172,200,34,30,6,7,8,285,17164
+2010,46672,Counted,Manual count,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,128,164,8760,226,1329,399,54,43,0,76,309,881,11360
+2010,48610,Counted,Manual count,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,22,2892,76083,344,10752,2424,430,847,178,311,741,4931,95002
+2010,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,82,118,9726,403,1735,186,15,32,6,2,1,242,12224
+2010,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,76,54,4390,425,418,110,4,3,0,2,13,132,5419
+2010,49007,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,87,273,17786,442,2599,918,144,318,33,18,214,1645,22745
+2010,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,124,86,7508,91,845,121,18,16,1,0,2,158,8688
+2010,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,259,229,12094,1222,1740,380,27,7,5,2,2,423,15708
+2010,56897,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,198,192,15260,344,3259,757,60,81,11,2,1,912,19967
+2010,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,439,670,23443,1040,2604,726,47,21,22,8,14,838,28595
+2010,58231,Counted,Manual count,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,37,1344,101121,546,11808,2709,397,685,82,311,2129,6313,121132
+2010,58444,Counted,Manual count,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,85,158,19915,144,1268,437,57,83,42,18,303,940,22425
+2010,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,170,204,3570,1177,835,244,102,91,52,94,371,954,6740
+2010,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,116,1490,68556,257,11752,3831,1286,2971,90,238,2443,10859,92914
+2010,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,324,170,14856,405,1300,316,24,6,3,2,2,353,17084
+2010,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,138,86,10471,76,892,188,13,17,3,5,3,229,11754
+2010,73822,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,539,2073,78638,1006,13406,2973,544,831,307,234,592,5481,100604
+2010,73823,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,176,468,20032,128,3156,849,160,214,40,78,73,1414,25198
+2010,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,233,196,24412,1418,2001,396,56,16,1,2,7,478,28505
+2011,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,229,105,13057,1299,1216,206,49,16,4,4,0,279,15956
+2011,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,126,63,7896,750,1172,93,19,2,1,0,0,115,9996
+2011,6650,Counted,Manual count,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,353,246,20333,957,1935,394,76,24,9,7,7,517,23988
+2011,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,951,738,25960,2046,2877,706,72,63,0,7,22,870,32491
+2011,8542,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,404,292,42119,1167,3992,557,35,39,8,17,31,687,48257
+2011,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,0,2321,92590,388,15906,3405,320,1653,106,130,572,6186,117391
+2011,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,205,132,18233,387,1624,337,19,26,9,7,2,400,20776
+2011,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,190,94,13119,376,1780,115,18,4,0,1,2,140,15509
+2011,16634,Counted,Manual count,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,179,131,17235,636,1422,267,18,4,0,1,0,290,19714
+2011,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,602,605,26437,2114,2697,675,63,35,0,4,23,800,32653
+2011,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,133,132,24727,739,1981,377,40,9,1,0,10,437,28016
+2011,18473,Counted,Manual count,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,574,502,13455,868,2009,231,49,32,20,6,0,338,17172
+2011,18728,Counted,Manual count,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,115,277,47494,486,4793,1056,288,642,311,38,620,2955,56005
+2011,26201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,641,940,39756,1460,5192,1317,322,570,84,61,87,2441,49789
+2011,26659,Counted,Manual count,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,600,196,6877,368,1083,263,24,24,1,4,9,325,8849
+2011,26660,Counted,Manual count,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,119,118,9972,739,1106,226,0,0,78,14,5,323,12258
+2011,26664,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,420,237,17066,737,1819,479,28,15,3,2,24,551,20410
+2011,26672,Counted,Manual count,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,280,158,13438,1096,1496,234,23,16,0,1,0,274,16462
+2011,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,235,409,20689,1049,2380,566,80,95,6,14,26,787,25314
+2011,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,1148,82950,313,12143,2292,460,364,632,395,1272,5415,101969
+2011,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,360,108,8468,156,1027,258,22,16,3,3,8,310,10069
+2011,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,51,39,5542,492,779,188,28,21,10,18,63,328,7180
+2011,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,153,132,13923,1016,1679,241,24,10,4,17,11,307,17057
+2011,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,134,84,18644,550,986,272,7,18,4,2,8,311,20575
+2011,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,249,267,13705,911,2071,466,115,173,8,11,25,798,17752
+2011,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,226,424,18963,1033,1904,590,48,64,44,4,15,765,23089
+2011,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,60,226,21534,376,2473,941,252,188,4,8,342,1735,26344
+2011,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,824,619,27562,1530,3438,565,64,94,10,4,53,790,33939
+2011,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,0,2084,91798,344,17350,3019,439,1188,52,236,757,5691,117267
+2011,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,198,147,14437,928,1152,196,36,34,4,7,8,285,16949
+2011,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,126,161,8637,229,1307,391,57,47,0,75,326,896,11230
+2011,48610,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,22,2843,75018,349,10570,2380,454,938,137,307,782,4998,93778
+2011,48812,Counted,Manual count,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,40,72,7519,418,977,165,22,46,1,1,17,252,9238
+2011,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,74,54,4328,431,410,108,4,3,0,2,14,131,5354
+2011,49007,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,85,269,17537,448,2554,901,153,352,25,18,226,1675,22483
+2011,56496,Counted,Manual count,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,132,50,8525,47,963,134,14,4,1,3,0,156,9741
+2011,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,254,225,11925,1238,1710,373,29,8,4,2,2,418,15516
+2011,56897,Counted,Manual count,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,115,153,12739,596,2685,564,77,64,1,0,0,706,16879
+2011,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,432,659,23115,1054,2560,713,50,23,17,8,15,826,28214
+2011,58231,Counted,Manual count,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,0,1091,81184,641,13462,6643,584,1219,273,409,2035,11163,107541
+2011,58444,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,83,156,19636,146,1247,429,61,92,32,18,320,952,22137
+2011,70203,Counted,Manual count,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,133,112,3254,525,739,211,64,36,34,45,195,585,5215
+2011,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,0,1240,67621,425,14906,4710,1375,2444,62,741,2435,11767,95959
+2011,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,322,170,14811,418,1294,316,26,6,3,2,2,355,17048
+2011,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,138,86,10440,79,887,188,14,20,3,5,3,233,11725
+2011,73822,Counted,Manual count,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,0,2562,65081,161,11736,2263,387,1029,314,126,466,4585,84125
+2011,73823,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,174,460,19752,130,3103,833,170,237,30,77,77,1424,24869
+2011,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,229,192,24070,1436,1967,388,59,18,1,2,7,475,28140
+2012,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,235,100,12630,1369,1177,217,56,19,3,4,0,298,15574
+2012,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,129,60,7638,790,1134,98,22,2,1,0,0,123,9745
+2012,6650,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,363,234,19668,1008,1873,415,86,28,7,7,7,551,23334
+2012,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,977,702,25111,2156,2785,743,82,75,0,7,23,930,31683
+2012,8542,Counted,Manual count,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,251,266,27054,1178,2992,475,47,63,28,23,1,638,32129
+2012,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,616,2124,92888,903,16429,4316,604,2028,104,194,971,8218,120562
+2012,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,211,126,17637,408,1572,355,22,31,7,7,2,423,20165
+2012,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,195,89,12690,396,1723,121,20,5,0,1,2,149,15048
+2012,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,184,125,16671,670,1376,281,20,5,0,1,0,307,19150
+2012,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,619,576,25572,2227,2610,710,71,42,0,4,24,852,31837
+2012,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,137,126,23918,779,1917,397,45,11,1,0,11,464,27204
+2012,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,590,478,13015,915,1944,243,56,38,16,6,0,358,16710
+2012,18728,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,118,264,45941,512,4639,1111,327,762,241,38,657,3136,54491
+2012,26201,Counted,Manual count,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,1771,906,24052,1462,2949,693,128,139,0,62,58,1080,30450
+2012,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,616,186,6652,388,1048,277,27,28,1,4,10,347,8621
+2012,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,122,112,9646,779,1070,238,0,0,60,14,5,317,11925
+2012,26664,Counted,Manual count,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,396,257,11154,779,1750,339,37,28,12,27,39,482,14423
+2012,26672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,288,150,12999,1155,1448,246,26,19,0,1,0,292,16044
+2012,28406,Counted,Manual count,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,389,265,10737,710,1636,434,19,1,13,5,12,484,13832
+2012,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,1146,85704,451,13508,3881,730,1091,391,514,2457,9064,109873
+2012,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,370,103,8191,164,994,271,25,19,2,3,8,329,9781
+2012,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,52,37,5361,518,754,198,32,25,8,18,67,347,7017
+2012,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,157,126,13468,1070,1625,254,27,12,3,17,12,324,16613
+2012,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,138,80,18034,579,954,286,8,21,3,2,8,329,19977
+2012,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,256,254,13257,960,2004,490,130,205,6,11,27,870,17345
+2012,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,232,403,18343,1088,1843,621,54,76,34,4,16,805,22483
+2012,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,62,215,20830,396,2394,990,286,223,3,8,363,1873,25707
+2012,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,847,589,26661,1612,3328,595,73,112,8,4,56,847,33036
+2012,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,607,3146,79611,605,15762,3794,908,1886,46,121,1076,7830,106953
+2012,46669,Counted,Manual count,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,297,216,18205,1338,1514,358,47,28,0,9,6,448,21721
+2012,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,129,153,8355,241,1265,411,65,56,0,74,346,952,10966
+2012,48610,Counted,Manual count,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,0,3218,73005,593,15333,2789,515,1444,167,101,1175,6190,98339
+2012,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,41,69,7273,440,946,174,25,55,1,1,18,273,9001
+2012,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,76,51,4186,454,397,114,5,4,0,2,15,139,5227
+2012,49007,Counted,Manual count,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,146,399,18732,458,2326,1221,86,794,30,59,247,2436,24352
+2012,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,136,48,8246,50,932,141,16,5,1,3,0,165,9441
+2012,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,261,214,11535,1304,1655,392,33,9,3,2,2,442,15151
+2012,56897,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,118,146,12322,628,2599,593,87,76,1,0,0,758,16452
+2012,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,444,627,22359,1111,2478,750,57,27,13,8,16,871,27446
+2012,58231,Counted,Manual count,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,0,761,87894,355,13731,3548,581,1066,241,422,2273,8131,110872
+2012,58444,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,85,148,18994,154,1207,451,69,109,25,18,339,1012,21515
+2012,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,137,107,3148,553,715,222,73,43,26,45,207,615,5138
+2012,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,0,1282,59531,301,12249,3902,706,2680,201,486,2631,10606,83970
+2012,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,278,185,14529,412,1264,333,30,7,3,2,2,377,16766
+2012,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,119,93,10241,78,866,198,16,24,3,5,3,249,11528
+2012,73822,Counted,Manual count,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,0,2601,63330,382,13657,2036,473,1310,150,287,585,4841,84811
+2012,73823,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,179,438,19106,137,3003,877,193,281,23,76,82,1532,24216
+2012,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,235,183,23283,1513,1904,408,67,21,1,2,7,507,27389
+2013,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,224,92,12546,1446,1186,223,62,22,3,4,0,313,15584
+2013,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,123,55,7587,835,1143,101,24,3,1,0,0,128,9748
+2013,6650,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,346,215,19538,1065,1888,426,96,33,6,7,8,576,23282
+2013,8376,Counted,Manual count,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,876,877,24252,2389,3334,806,153,56,9,13,10,1048,31899
+2013,8542,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,239,244,26875,1245,3016,488,52,73,23,24,1,663,32043
+2013,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,0,3366,72827,548,17548,2330,346,2041,77,938,994,6725,101015
+2013,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,201,116,17520,431,1584,364,24,36,6,7,2,440,20090
+2013,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,186,82,12606,419,1736,124,23,5,0,1,2,156,14999
+2013,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,175,115,16561,708,1387,289,23,5,0,1,0,318,19089
+2013,18346,Counted,Manual count,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,1550,698,11281,973,1668,277,38,23,8,13,12,372,14991
+2013,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,130,116,23760,823,1933,408,50,12,1,0,12,483,27113
+2013,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,562,440,12929,966,1960,250,62,44,13,6,0,374,16669
+2013,18728,Counted,Manual count,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,0,284,29582,336,3433,1111,196,306,0,135,592,2341,35976
+2013,26201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,1688,834,23893,1545,2972,713,142,161,0,65,65,1146,30390
+2013,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,587,172,6608,410,1056,284,30,33,1,4,11,363,8609
+2013,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,116,103,9582,823,1079,244,0,0,50,15,6,315,11901
+2013,26664,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,377,237,11080,823,1764,349,41,32,10,29,44,504,14409
+2013,26672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,274,138,12912,1220,1459,253,29,22,0,1,0,305,16035
+2013,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,370,244,10666,750,1649,446,21,1,11,5,14,498,13807
+2013,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,515,74311,469,13096,1910,453,626,81,726,1029,4824,93216
+2013,28773,Counted,Manual count,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,362,79,6195,245,725,321,41,23,0,4,4,393,7637
+2013,28876,Counted,Manual count,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,32,120,8772,355,966,136,20,16,8,15,15,210,10423
+2013,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,150,116,13378,1131,1638,261,30,14,3,18,13,338,16601
+2013,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,131,74,17915,612,962,294,9,25,3,2,10,342,19904
+2013,37543,Counted,Manual count,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,217,127,6418,768,1283,320,39,216,7,26,44,652,9248
+2013,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,221,371,18221,1150,1857,638,60,88,28,4,18,837,22436
+2013,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,59,198,20692,419,2412,1018,317,258,3,8,407,2011,25732
+2013,46201,Counted,Manual count,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,1971,741,21997,1218,2103,638,50,112,1,27,27,854,26913
+2013,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,104,2793,70887,400,13405,3782,333,2599,103,328,867,8013,95498
+2013,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,283,199,18084,1414,1526,368,52,32,0,10,7,469,21692
+2013,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,123,141,8299,255,1275,423,72,65,0,78,388,1025,10996
+2013,48610,Counted,Manual count,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,0,2785,87278,417,14404,3352,609,2801,81,200,765,7809,112693
+2013,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,39,63,7225,465,953,178,28,63,1,1,20,291,8998
+2013,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,72,47,4159,480,400,117,5,4,0,2,17,145,5230
+2013,49007,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,139,368,18608,484,2344,1256,96,920,24,62,277,2634,24438
+2013,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,129,44,8191,52,939,145,18,5,1,3,0,172,9399
+2013,56512,Counted,Manual count,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,505,219,9461,1110,748,194,8,5,0,1,1,210,11747
+2013,56897,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,113,134,12241,664,2619,610,97,88,1,0,0,795,16453
+2013,57911,Counted,Manual count,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,608,279,15017,677,1164,277,56,17,26,20,2,399,17536
+2013,58231,Counted,Manual count,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,0,1009,72861,289,13703,3540,669,1014,133,482,2486,8324,96186
+2013,58444,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,81,137,18868,163,1216,464,77,126,20,19,381,1087,21471
+2013,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,130,98,3127,584,721,228,80,49,22,47,232,659,5189
+2013,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,133,812,69948,408,19722,3851,229,3684,49,313,2615,10741,101631
+2013,73819,Counted,Dependent on a neighbouring counted link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,125,99,13115,280,818,214,12,7,0,0,0,233,14544
+2013,73820,Counted,Dependent on a neighbouring counted link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,143,135,13490,108,947,138,10,19,0,12,14,194,14874
+2013,73822,Counted,Manual count,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,0,3454,75975,198,13834,3082,428,2126,107,236,489,6468,99928
+2013,73823,Counted,Dependent on a neighbouring counted link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,174,320,20088,181,2174,1217,179,1024,15,26,161,2621,25384
+2013,75291,Counted,Manual count,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,372,388,19620,1050,1700,508,43,20,0,3,4,579,23337
+2014,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,241,94,12732,1407,1209,196,59,21,2,3,0,281,15723
+2014,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,133,57,7700,812,1165,89,23,3,1,0,0,114,9848
+2014,6650,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,372,221,19827,1036,1924,375,91,31,5,6,8,517,23525
+2014,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,943,899,24611,2324,3397,710,146,53,8,10,10,938,32169
+2014,8542,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,257,251,27273,1211,3073,430,50,69,21,20,1,591,32400
+2014,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,315,2394,87526,489,19382,4079,524,2938,211,467,645,8865,118657
+2014,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,216,119,17780,419,1614,321,23,34,5,6,2,391,20322
+2014,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,200,84,12793,407,1770,109,22,5,0,1,2,139,15193
+2014,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,189,118,16806,689,1414,254,22,5,0,1,0,282,19308
+2014,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,1668,715,11449,946,1700,244,37,22,7,11,11,332,15142
+2014,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,140,119,24112,800,1969,359,48,12,1,0,12,431,27431
+2014,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,605,451,13120,940,1997,220,59,41,12,5,0,337,16845
+2014,18728,Counted,Manual count,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,18,351,33576,494,4035,970,111,271,51,255,319,1978,40433
+2014,26201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,1816,856,24247,1503,3029,627,135,151,0,54,63,1031,30666
+2014,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,632,176,6706,399,1077,250,29,31,1,3,10,325,8682
+2014,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,125,106,9724,800,1099,215,0,0,45,12,6,278,12008
+2014,26664,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,406,243,11244,801,1798,307,39,30,9,24,43,452,14538
+2014,26672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,295,142,13104,1187,1487,223,28,21,0,1,0,272,16192
+2014,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,399,250,10824,730,1680,392,20,1,10,4,13,441,13925
+2014,28672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,528,75414,456,13346,1681,432,589,74,609,998,4381,94125
+2014,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,390,81,6287,238,739,282,39,22,0,4,4,351,7696
+2014,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,35,123,8902,345,985,120,19,15,7,13,15,188,10543
+2014,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,161,119,13577,1100,1669,229,29,13,2,15,13,301,16766
+2014,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,141,75,18180,596,980,259,8,23,2,2,9,304,20135
+2014,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,234,130,6513,747,1307,282,37,203,6,22,43,593,9290
+2014,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,238,381,18491,1119,1893,562,58,83,26,3,17,748,22632
+2014,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,63,203,20998,407,2458,896,302,243,2,7,395,1845,25912
+2014,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,2121,760,22323,1185,2143,562,47,105,1,22,26,764,27174
+2014,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,495,3408,84962,480,20867,3417,529,2819,130,450,577,7922,117639
+2014,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,304,204,18352,1375,1555,324,49,31,0,8,6,419,21905
+2014,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,133,145,8422,248,1299,372,68,61,0,65,377,943,11057
+2014,48610,Counted,Manual count,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,323,2825,102777,376,17408,7263,708,2336,89,239,1011,11646,135031
+2014,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,42,65,7332,453,971,157,26,59,1,1,20,264,9085
+2014,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,78,49,4220,467,408,103,5,4,0,2,16,129,5273
+2014,49007,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,150,377,18884,471,2389,1105,91,864,22,52,269,2403,24524
+2014,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,139,45,8313,51,957,128,17,5,1,3,0,153,9519
+2014,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,543,224,9601,1080,762,171,7,5,0,1,1,186,11852
+2014,56897,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,121,137,12422,645,2669,537,92,83,1,0,0,712,16587
+2014,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,654,287,15239,659,1186,244,53,16,24,17,2,356,17727
+2014,58231,Counted,Manual count,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,0,1066,81309,301,17075,3770,496,948,233,1101,1360,7908,107659
+2014,58444,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,87,140,19148,158,1240,408,73,119,19,16,370,1004,21690
+2014,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,140,101,3173,569,735,201,77,47,20,39,225,608,5185
+2014,73000,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,150,841,70150,392,20386,3525,227,3601,48,283,2732,10416,102185
+2014,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,140,103,13153,268,846,195,12,7,0,0,0,214,14584
+2014,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,161,140,13529,104,979,126,10,19,0,11,15,181,14932
+2014,73822,Counted,Manual count,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,811,3851,79350,890,20063,5945,312,2681,161,387,496,9982,114136
+2014,73823,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,187,328,20386,176,2215,1071,170,962,13,22,156,2395,25500
+2014,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,400,398,19911,1021,1732,447,41,19,0,3,4,514,23576
+2015,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,244,94,12922,1442,1186,187,60,20,3,4,0,274,15918
+2015,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,134,56,7814,833,1143,84,23,2,1,0,0,111,9958
+2015,6650,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,376,220,20123,1063,1888,357,94,30,7,7,9,503,23796
+2015,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,954,895,24979,2382,3333,675,150,51,11,12,11,910,32500
+2015,8542,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,260,250,27680,1242,3016,409,51,66,29,22,1,578,32766
+2015,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,496,3428,89905,423,20108,4034,436,2374,182,414,529,7969,121833
+2015,16628,Counted,Manual count,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,546,227,15444,536,1741,250,33,24,8,11,13,339,18287
+2015,16631,Counted,Manual count,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,222,118,11999,204,1115,220,16,13,0,1,2,253,13689
+2015,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,191,117,17057,706,1387,242,22,5,0,1,0,270,19537
+2015,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,1687,712,11619,970,1668,232,38,21,9,12,13,325,15295
+2015,18434,Counted,Manual count,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,312,318,22477,948,2463,483,40,5,13,5,7,554,26760
+2015,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,611,449,13316,964,1960,209,60,39,16,6,0,331,17019
+2015,18728,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,19,349,34077,506,3959,923,114,259,69,280,351,1996,40888
+2015,26201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,1836,852,24609,1541,2972,597,139,144,0,60,70,1010,30983
+2015,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,639,175,6806,409,1056,238,30,30,1,4,11,313,8760
+2015,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,127,106,9869,821,1079,205,0,0,62,13,6,286,12160
+2015,26664,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,411,242,11412,821,1764,292,40,29,12,27,47,446,14686
+2015,26672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,298,141,13299,1217,1459,212,28,20,0,1,0,261,16378
+2015,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,403,249,10985,748,1649,373,21,1,14,5,15,428,14060
+2015,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,1324,93830,345,15987,4858,102,957,34,2284,711,8946,120432
+2015,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,394,81,6381,244,725,269,40,21,0,4,5,338,7768
+2015,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,35,122,9035,354,966,114,20,14,9,14,16,188,10665
+2015,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,163,118,13779,1128,1638,218,30,12,3,16,14,294,16957
+2015,36681,Counted,Manual count,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,293,135,12658,621,1286,170,20,2,1,1,1,196,14896
+2015,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,236,130,6610,766,1283,268,38,193,8,24,47,579,9368
+2015,38439,Counted,Manual count,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,486,509,17685,914,2423,417,50,40,10,12,14,544,22075
+2015,38830,Counted,Manual count,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,125,235,15996,353,2742,309,84,417,8,30,327,1175,20501
+2015,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,2144,757,22656,1214,2102,535,49,100,1,25,29,738,27468
+2015,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,427,3385,85261,446,19943,3201,446,2468,205,466,529,7315,116349
+2015,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,308,203,18626,1410,1526,308,51,29,0,9,7,404,22169
+2015,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,134,144,8548,254,1275,354,70,58,0,72,414,968,11189
+2015,48610,Counted,Manual count,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,341,2690,101098,668,18393,4701,610,2043,174,367,780,8675,131522
+2015,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,43,64,7441,464,953,149,27,57,1,1,22,257,9180
+2015,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,79,48,4283,479,400,98,5,4,0,2,18,126,5336
+2015,49007,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,151,375,19165,483,2344,1052,94,824,30,57,295,2351,24719
+2015,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,141,45,8437,52,939,121,17,5,1,3,0,147,9621
+2015,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,550,223,9744,1107,747,163,8,5,0,1,1,177,12000
+2015,56897,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,122,137,12607,662,2619,511,95,79,1,0,0,685,16711
+2015,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,661,285,15467,675,1164,232,55,16,33,18,2,356,17947
+2015,58231,Counted,Manual count,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,0,1163,75659,345,13996,4480,139,1071,255,2003,780,8728,99891
+2015,58444,Counted,Manual count,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,55,246,16678,102,2081,699,55,193,16,390,52,1404,20510
+2015,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,142,100,3220,583,721,191,79,44,27,43,248,632,5256
+2015,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,255,2579,81284,564,17192,6515,76,2807,48,3220,650,13315,114933
+2015,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,161,97,13108,257,880,194,13,7,0,0,0,214,14557
+2015,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,185,133,13483,99,1018,126,11,19,0,10,14,180,14913
+2015,73822,Counted,Manual count,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,697,4171,83373,909,19668,5420,551,2854,289,145,901,10161,118282
+2015,73823,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,190,326,20690,181,2173,1019,175,917,18,24,172,2325,25696
+2015,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,404,396,20208,1047,1700,426,42,18,0,3,5,494,23844
+2016,6644,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,252,101,12655,1525,1223,183,57,28,3,4,0,275,15780
+2016,6649,Counted,Manual count,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,136,80,8256,714,987,67,7,2,2,0,1,79,10116
+2016,6650,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542000,185480,A114,A117,1.6,0.99,389,236,19708,1124,1947,351,88,41,7,7,10,504,23519
+2016,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,986,961,24463,2520,3438,664,141,71,12,12,12,911,32293
+2016,8542,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,269,268,27109,1313,3111,402,48,92,29,23,2,596,32396
+2016,16202,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,513,3678,88048,448,20740,3964,410,3331,186,418,599,8908,121823
+2016,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,565,244,15125,567,1796,246,31,34,8,11,15,345,18076
+2016,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,230,126,11751,216,1150,216,15,19,0,1,3,254,13497
+2016,16634,Counted,Manual count,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,231,183,14136,894,1332,137,18,9,1,1,1,168,16714
+2016,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,1745,764,11379,1026,1720,228,35,29,10,12,14,329,15219
+2016,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,323,342,22013,1002,2540,474,38,7,14,5,8,547,26444
+2016,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,632,482,13041,1019,2021,206,57,55,16,6,0,340,16903
+2016,18728,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,19,375,33373,535,4084,907,108,363,71,283,398,2129,40496
+2016,26201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538150,183345,A12,A115,1,0.62,1899,914,24101,1630,3065,586,131,203,0,60,79,1059,30769
+2016,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,661,188,6665,432,1090,234,28,41,1,4,13,321,8696
+2016,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,131,113,9665,868,1113,201,0,0,63,14,7,285,12044
+2016,26664,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,540000,184830,A11,A114,1.6,0.99,425,259,11177,869,1820,287,38,40,12,27,53,457,14581
+2016,26672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,308,152,13025,1287,1505,208,27,28,0,1,0,264,16232
+2016,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538670,184500,A11,A112,0.5,0.31,417,267,10759,791,1701,367,20,2,14,5,17,423,13941
+2016,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,1001,105601,318,21881,2548,127,900,144,2352,642,6713,135515
+2016,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,408,87,6249,258,748,264,37,29,0,4,5,340,7681
+2016,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,36,131,8848,374,997,112,19,20,10,14,18,193,10543
+2016,36676,Counted,Manual count,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,398,245,15577,1010,2193,83,29,2,19,2,1,136,19161
+2016,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,303,145,12396,657,1326,167,19,3,1,1,1,193,14717
+2016,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,244,139,6474,810,1323,264,36,271,8,25,53,657,9403
+2016,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539000,184650,A112,A11 The Grove,0.2,0.12,449,546,17320,967,2499,410,47,56,10,12,16,552,21884
+2016,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,129,252,15666,374,2829,303,79,585,9,30,370,1376,20496
+2016,46201,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,538660,184000,A115,A11 Great Eastern Rd,0.4,0.25,2218,812,22188,1284,2168,525,46,141,1,25,32,770,27224
+2016,46217,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,442,3632,83501,472,20569,3145,419,3462,210,471,599,8307,116480
+2016,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,318,218,18241,1491,1574,303,48,41,0,9,8,409,21933
+2016,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,139,154,8371,269,1315,348,66,81,0,73,469,1037,11147
+2016,48610,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,543000,182214,A117,A13,1.1,0.68,353,2886,99010,706,18970,4620,574,2866,178,371,884,9492,131064
+2016,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,44,69,7288,491,983,147,25,79,1,1,24,278,9109
+2016,48813,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,82,52,4195,506,413,96,5,5,0,2,20,128,5293
+2016,49007,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,157,403,18770,511,2418,1033,88,1156,31,58,335,2700,24801
+2016,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,145,48,8263,55,969,119,16,7,1,3,0,146,9481
+2016,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,568,239,9543,1171,771,160,7,7,0,1,1,176,11901
+2016,56897,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,127,147,12347,700,2701,502,89,111,1,0,0,703,16598
+2016,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A11,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,684,306,15147,714,1201,228,51,22,33,18,3,356,17724
+2016,58231,Estimated,Estimated using previous year's AADF on this link,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,0,1248,74097,365,14435,4402,131,1503,261,2023,884,9204,99349
+2016,58444,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,57,264,16333,108,2146,686,52,271,16,394,58,1477,20328
+2016,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,147,107,3154,616,744,188,74,62,27,44,281,676,5297
+2016,73000,Estimated,Estimated using previous year's AADF on this link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,263,2767,79605,596,17732,6402,71,3938,49,3253,736,14449,115149
+2016,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,166,105,12838,272,908,191,12,10,0,0,0,212,14334
+2016,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,191,142,13205,105,1050,123,10,26,0,11,16,187,14689
+2016,73822,Counted,Manual count,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,366,3261,94651,852,21021,2393,197,2082,61,772,347,5851,125637
+2016,73823,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,196,350,20263,191,2242,1002,165,1286,18,24,195,2690,25736
+2016,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,418,425,19791,1107,1753,418,40,26,0,3,5,492,23568
+2017,6644,Counted,Manual count,London,Newham,A112,PA,539200,184000,A118,A1011,0.8,0.5,386,346,13511,1537,1655,146,20,33,7,3,5,214,17263
+2017,6649,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542040,185600,A118,A116,0.8,0.5,132,83,8253,685,979,65,7,2,2,0,1,77,10078
+2017,6650,Counted,Manual count,London,Newham,A118,PA,542000,185480,A114,A117,1.7,1.06,426,287,18584,1182,2464,189,36,19,40,17,13,313,22830
+2017,8376,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,538818,184238,A11 Great Eastern Rd,A112 Tramway Ave,0.2,0.12,963,996,24455,2419,3410,653,150,61,10,12,12,897,32177
+2017,8542,Counted,Manual count,London,Newham,A118,PA,543000,186045,A116,A406,0.9,0.56,732,354,36807,1356,4042,334,41,26,35,21,14,471,43029
+2017,16202,Counted,Manual count,London,Newham,A13,PA,542000,182120,A112,A117,2,1.24,317,2815,101233,379,23393,4041,544,1952,150,138,870,7695,135514
+2017,16628,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540670,183000,A114,A124,0.9,0.56,551,253,15121,544,1781,242,33,29,8,11,14,336,18034
+2017,16631,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540350,184000,A112,A118,2,1.24,224,131,11747,207,1141,213,15,16,0,1,3,248,13475
+2017,16634,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542740,183000,A13,A124,1.5,0.93,225,190,14132,859,1320,135,19,8,1,1,1,166,16666
+2017,18346,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184400,A11,A11,0.2,0.12,1704,792,11376,985,1706,224,38,25,9,12,14,322,15181
+2017,18434,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,543000,183663,A117,A406(T),1.2,0.75,315,354,22006,962,2519,466,40,6,12,5,8,538,26380
+2017,18473,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,542280,185666,A117,A116,0.5,0.31,618,499,13037,978,2004,202,60,47,15,6,0,330,16849
+2017,18728,Counted,Automatic counter,London,Newham,A1020,PA,543900,181900,A117,A13(T),2,1.24,16,286,25419,409,3342,715,85,292,54,223,313,1681,31138
+2017,26659,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538700,185000,Major Rd,A11,0.7,0.43,646,195,6663,415,1081,230,30,36,1,4,13,312,8666
+2017,26660,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541080,181500,A13,Victoria Dock Rd,0.8,0.5,128,117,9662,833,1104,198,0,0,57,14,7,275,11991
+2017,26664,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,540000,184830,A11,A114,1.5,0.93,415,269,11173,834,1805,282,40,34,11,27,52,446,14527
+2017,26672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542000,183400,A112,A117,1.8,1.12,301,157,13021,1235,1493,205,28,24,0,1,0,258,16164
+2017,28406,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,538670,184500,A11,A112,0.5,0.31,407,277,10755,759,1687,361,21,1,13,5,16,416,13894
+2017,28672,Counted,Manual count,London,Newham,A406,PA,543450,185670,LA Boundary,A124,1.9,1.18,0,1275,103878,389,22021,3817,537,1403,231,458,2333,8779,136343
+2017,28773,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,538560,185340,LA boundary,Leyton Rd,0.2,0.12,398,90,6247,248,742,260,40,25,0,4,5,333,7660
+2017,28876,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543500,181240,A1020,A13,1.7,1.06,36,136,8845,359,988,110,20,17,9,14,18,188,10517
+2017,36676,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,540000,183360,A1011,A114,1.1,0.68,388,253,15572,970,2175,82,31,2,17,2,1,135,19105
+2017,36681,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,542180,185000,A124,A118,2.1,1.3,296,150,12393,630,1315,164,20,3,1,1,1,191,14679
+2017,37543,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539600,181230,A1020,A13,1.3,0.81,239,144,6472,778,1312,259,38,232,8,24,52,614,9319
+2017,38439,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539000,184650,A112,A11 The Grove,0.3,0.19,438,566,17314,928,2479,403,50,48,9,12,16,539,21826
+2017,38830,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,541670,180600,A112,A112,0.5,0.31,126,261,15661,359,2805,298,84,501,8,30,361,1283,20369
+2017,46201,Counted,Manual count,London,Newham,A118,PA,538660,184000,A115,A11 Great Eastern Rd,0.5,0.31,1839,1102,23786,1302,4034,321,67,52,11,18,20,489,30712
+2017,46217,Counted,Manual count,London,Newham,A13,PA,540000,181700,A1011,A112,1.7,1.06,387,2846,92633,465,23221,2321,432,2118,182,358,375,5786,124950
+2017,46669,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541100,182000,A124,A13,1,0.62,311,226,18236,1431,1561,298,51,35,0,9,8,401,21854
+2017,46672,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543683,180000,A112,A1020,1.3,0.81,136,160,8369,258,1304,342,70,70,0,72,458,1012,11103
+2017,48610,Counted,Manual count,London,Newham,A13,PA,543485,182482,A117,A13,1.1,0.68,357,2890,113034,832,24719,4331,627,2103,181,226,979,8447,149923
+2017,48812,Estimated,Estimated using previous year's AADF on this link,London,Newham,A112,PA,541400,180900,Prince Regent Lane,A1020,0.5,0.31,43,72,7285,471,975,144,27,68,1,1,24,265,9068
+2017,48813,Counted,Manual count,London,Newham,A112,PA,542700,180020,A1020,A117,1.8,1.12,124,100,5044,428,865,75,30,31,17,3,15,171,6608
+2017,49007,Counted,Automatic counter,London,Newham,A1020,PA,540250,180293,A1011,A112,1.9,1.18,126,347,15630,409,1987,852,77,828,23,48,269,2098,20471
+2017,56496,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,542000,186140,A117,A118,0.9,0.56,146,47,8253,54,1025,123,17,7,1,3,0,151,9529
+2017,56512,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,540000,182000,A13,A112,1.9,1.18,555,248,9540,1124,765,157,8,6,0,1,1,173,11850
+2017,56897,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1011,PA,539181,182643,A13,A112,2.3,1.43,124,152,12343,672,2679,494,95,95,1,0,0,684,16530
+2017,57911,Estimated,Estimated using previous year's AADF on this link,London,Newham,A118,PA,539050,184500,A118,A11 Great Eastern Rd,0.2,0.12,668,317,15143,685,1191,224,54,19,30,18,3,349,17685
+2017,58231,Counted,Automatic counter,London,Newham,A406,PA,543792,183560,A124,A13,1.3,0.81,0,1352,77604,369,15061,4562,152,1377,250,2188,907,9435,103820
+2017,58444,Estimated,Estimated using previous year's AADF on this link,London,Newham,A1020,PA,542900,180880,A112,A117,2.2,1.37,55,273,16328,103,2128,675,55,232,14,393,57,1426,20260
+2017,70203,Estimated,Estimated using previous year's AADF on this link,London,Newham,A117,PA,543330,179840,ferry,A112,0.5,0.31,143,111,3153,592,737,185,79,53,25,43,274,659,5252
+2017,73000,Counted,Dependent on a neighbouring counted link,London,Newham,A13,PA,544250,182930,A406 / A1020,LA boundary,0.6,0.37,135,2278,78341,643,21449,4717,624,2738,324,648,2633,11685,114396
+2017,73819,Estimated,Estimated using previous year's AADF on this link,London,Newham,A116,PA,541766,186324,LA Boundary,A117,0.1,0.06,162,108,12834,261,900,188,13,8,0,0,0,209,14312
+2017,73820,Estimated,Estimated using previous year's AADF on this link,London,Newham,A114,PA,540500,185500,A118,LA Boundary,1,0.62,192,138,13189,102,1112,127,11,27,0,11,17,192,14733
+2017,73822,Counted,Manual count,London,Newham,A13,PA,539227,181449,LA Boundary,A1011,0.3,0.19,236,3998,94397,961,23370,4007,501,1913,123,110,724,7379,130106
+2017,73823,Counted,Dependent on a neighbouring counted link,London,Newham,A1020,PA,539665,180840,LA Boundary,A1011,0.9,0.56,334,432,17684,213,3720,1025,114,1032,11,17,185,2384,24433
+2017,75291,Estimated,Estimated using previous year's AADF on this link,London,Newham,A124,PA,542500,183540,A117,A117,0.2,0.12,408,440,19785,1063,1738,411,42,22,0,3,5,483,23510
+2017,89279,Counted,Manual count,London,Newham,A118,PA,538150,183345,A12,A115,1.6,0.99,2059,1064,31968,1403,4961,377,74,105,42,31,41,669,40065

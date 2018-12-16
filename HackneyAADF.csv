@@ -1,0 +1,1041 @@
+AADFYear,CP,Estimation_method,Estimation_method_detailed,Region,LocalAuthority,Road,RoadCategory,Easting,Northing,StartJunction,EndJunction,LinkLength_km,LinkLength_miles,PedalCycles,Motorcycles,CarsTaxis,BusesCoaches,LightGoodsVehicles,V2AxleRigidHGV,V3AxleRigidHGV,V4or5AxleRigidHGV,V3or4AxleArticHGV,V5AxleArticHGV,V6orMoreAxleArticHGV,AllHGVs,AllMotorVehicles
+2000,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,1169,2316,27527,1404,6861,1393,65,56,82,85,67,1748,39856
+2000,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,328,381,25665,1936,3528,946,41,19,39,30,33,1108,32618
+2000,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,462,1022,31083,1009,4419,766,38,19,27,16,17,883,38416
+2000,6634,Counted,Manual count,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,70,163,14984,577,1783,312,18,9,23,12,11,385,17892
+2000,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,947,2206,27638,1145,5559,953,61,54,59,94,89,1310,37858
+2000,8064,Counted,Manual count,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,467,417,18875,1005,2487,679,31,21,49,17,13,810,23594
+2000,8475,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,1577,4047,34250,678,7693,1356,121,77,83,97,161,1895,48563
+2000,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,381,579,15316,913,399,1340,1259,28,13,23,42,2705,19912
+2000,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,521,760,16831,354,442,1460,958,14,4,10,0,2446,20833
+2000,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,896,711,18978,1548,717,2066,1229,49,61,10,0,3415,25369
+2000,17689,Counted,Manual count,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,658,2097,16716,258,4112,1030,100,82,48,48,31,1339,24522
+2000,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,217,200,10331,1411,1236,186,5,4,3,4,8,210,13388
+2000,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,427,635,23461,1278,3859,761,60,47,58,40,13,979,30212
+2000,18456,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,634,1274,9846,317,1598,333,50,12,9,10,10,424,13459
+2000,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,651,2472,32275,1714,7035,1595,71,94,52,52,57,1921,45417
+2000,26646,Counted,Manual count,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,357,1287,32795,598,4474,877,56,26,21,14,17,1011,40165
+2000,26651,Counted,Manual count,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,730,239,12033,1809,1580,277,12,4,32,24,0,349,16010
+2000,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,336,1024,27075,1293,5773,1258,86,97,106,81,57,1685,36850
+2000,28092,Estimated,Estimated from nearby links,London,Hackney,A106,TA,536654,184727,A12,A12/A115,0.1,0.06,8,280,19643,88,3552,528,93,138,49,64,82,954,24517
+2000,28212,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,897,2634,25347,1326,6657,1181,67,68,38,35,67,1456,37420
+2000,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,148,308,4514,241,577,168,11,5,5,9,2,200,5840
+2000,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,731,1186,14488,840,3307,588,84,156,28,26,74,956,20777
+2000,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,TA,533680,188000,A107,LA Boundary,0.3,0.19,330,949,35926,1552,6585,1222,74,37,45,51,65,1494,46506
+2000,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,1735,1587,18300,1258,3236,778,25,43,11,7,14,878,25259
+2000,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,354,533,15433,330,2424,360,34,6,13,11,4,428,19148
+2000,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,127,265,9136,72,1362,415,62,144,18,5,3,647,11482
+2000,36668,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,149,330,22271,733,3409,928,36,41,58,24,33,1120,27863
+2000,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,839,570,17044,1617,2874,654,37,13,14,11,2,731,22836
+2000,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,271,237,12651,1340,1947,310,20,13,20,1,22,386,16561
+2000,38267,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,662,2206,19125,432,6127,1032,45,68,43,29,43,1260,29150
+2000,38434,Counted,Manual count,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,586,570,20439,563,2790,441,27,12,21,17,5,523,24885
+2000,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,180,445,9291,1009,1837,430,39,59,23,10,4,565,13147
+2000,46189,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,1088,1274,18850,882,3082,772,46,23,23,19,25,908,24996
+2000,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,573,683,14732,1514,2671,608,65,56,52,32,18,831,20431
+2000,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,TA,535000,184140,A107,A102,1.5,0.93,222,250,11891,555,1958,380,33,29,22,9,9,482,15136
+2000,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,529,374,15012,1578,2136,662,49,25,30,8,9,783,19883
+2000,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,492,1228,30605,1313,5026,1201,102,91,59,33,62,1548,39720
+2000,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,TA,536805,185028,A12/A115,A12,1,0.62,210,303,6455,53,1010,213,17,22,16,9,12,289,8110
+2000,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,304,634,18001,872,3292,575,35,34,20,12,17,693,23492
+2000,48540,Counted,Manual count,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,879,969,14786,633,2740,499,35,14,36,20,16,620,19748
+2000,48543,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,456,1862,25986,549,4297,1657,76,51,40,56,45,1925,34619
+2000,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,82,297,10609,103,2029,362,53,67,19,16,5,522,13560
+2000,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,423,371,17503,1344,2711,902,65,95,105,22,21,1210,23139
+2000,57754,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,TA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,8,280,19643,88,3552,528,93,138,49,64,82,954,24517
+2000,57755,Counted,Manual count,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,277,559,9012,585,1576,250,21,16,15,17,4,323,12055
+2000,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,225,410,11563,498,2283,438,44,11,13,12,8,526,15280
+2000,73558,Counted,Dependent on a neighbouring counted link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,774,335,11537,278,2397,280,26,4,12,7,3,332,14879
+2000,73560,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A115,PA,536830,184630,A106,LA Boundary,0.3,0.19,103,208,8988,234,2045,460,75,120,24,59,24,762,12237
+2000,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,TA,537400,185480,A106,LA Boundary,0.1,0.06,0,2335,46202,435,11494,1761,188,397,190,546,288,3370,63836
+2000,73563,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,221,845,21311,559,4503,897,66,96,98,76,69,1302,28520
+2000,73564,Counted,Manual count,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,526,1036,21335,302,2636,545,22,11,9,2,2,591,25900
+2000,73565,Counted,Dependent on a neighbouring counted link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,858,2490,21511,164,5107,1325,125,120,50,70,25,1715,30987
+2000,73566,Counted,Dependent on a neighbouring counted link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,813,743,12877,264,2433,651,39,28,27,1,13,759,17076
+2000,74529,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A12,TA,536820,184500,A106,LA Boundary,0.4,0.25,0,1672,65652,269,12289,2952,288,592,270,526,236,4864,84746
+2000,74530,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A12,TA,536692,185063,A106,A106,1.1,0.68,24,1251,61079,189,11368,2541,231,553,196,370,349,4240,78127
+2000,74906,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,TA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,115,608,41150,669,4636,993,93,313,61,48,14,1522,48585
+2000,74907,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,TA,537470,185700,A12,LA Boundary,0.4,0.25,203,409,22892,372,4140,1547,147,191,71,104,112,2172,29985
+2000,79992,Counted,Manual count,London,Hackney,A107,PA,534950,185100,Graham Road,Dalston Lane,0.3,0.19,250,37,1117,1259,164,48,3,0,3,1,0,55,2632
+2001,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,1331,2578,26894,1398,7012,1387,76,57,75,76,79,1750,39632
+2001,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,374,424,25075,1928,3605,943,48,19,35,26,38,1109,32141
+2001,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,526,1138,30368,1005,4517,763,45,19,25,14,20,886,37914
+2001,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,80,181,14639,575,1822,310,21,9,22,10,13,385,17602
+2001,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,1079,2455,27002,1140,5681,949,71,55,54,84,104,1317,37595
+2001,8064,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,532,464,18441,1001,2542,677,36,21,45,15,15,809,23257
+2001,8475,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,1796,4505,33462,676,7862,1351,141,78,76,87,189,1922,48427
+2001,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,434,644,14963,909,408,1335,1471,28,12,21,49,2916,19840
+2001,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,594,846,16443,352,451,1454,1119,14,4,9,0,2600,20692
+2001,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,1021,791,18541,1542,733,2058,1435,49,56,9,0,3607,25214
+2001,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,749,2334,16332,257,4202,1026,117,83,44,43,36,1349,24474
+2001,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,247,223,10094,1405,1263,186,6,4,3,4,10,213,13198
+2001,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,487,707,22921,1273,3944,757,71,47,54,36,16,981,29826
+2001,18456,Counted,Manual count,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,971,1428,10715,342,1691,288,15,25,8,4,2,342,14518
+2001,26182,Counted,Manual count,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,1647,2579,28804,987,4054,1847,108,133,54,44,30,2216,38640
+2001,26646,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,406,1432,32040,596,4573,873,66,26,20,12,20,1017,39658
+2001,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,832,266,11757,1802,1615,276,14,4,29,22,0,345,15785
+2001,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,383,1139,26453,1287,5900,1253,100,99,97,72,66,1687,36466
+2001,28092,Estimated,Estimated from nearby links,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,9,312,19192,88,3631,526,108,140,45,57,96,972,24195
+2001,28212,Counted,Manual count,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,735,2441,30145,880,6621,1677,88,121,53,53,54,2046,42133
+2001,28381,Counted,Manual count,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,169,343,4410,240,590,167,13,5,5,8,2,200,5783
+2001,28535,Counted,Dependent on a neighbouring counted link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,907,997,14199,758,2163,533,45,135,20,15,12,760,18877
+2001,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,376,1056,35100,1546,6730,1217,86,37,41,46,77,1504,45936
+2001,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,1798,1788,17110,1252,3226,718,27,40,10,6,17,818,24194
+2001,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,403,593,15078,328,2478,358,40,6,12,10,5,431,18908
+2001,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,145,295,8926,72,1392,413,72,146,17,4,4,656,11341
+2001,36668,Counted,Manual count,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,251,317,25881,575,2378,820,48,36,34,26,21,985,30136
+2001,36669,Counted,Manual count,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,259,316,17835,1533,2727,356,43,11,13,2,9,434,22845
+2001,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,309,264,12360,1335,1990,309,23,13,19,1,26,391,16340
+2001,38267,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,754,2455,18685,430,6262,1028,53,69,39,26,50,1265,29097
+2001,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,667,634,19969,561,2851,439,32,12,19,15,6,523,24538
+2001,38435,Counted,Manual count,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,151,415,8939,675,1520,450,57,125,7,13,4,656,12205
+2001,46189,Counted,Manual count,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,1222,935,19281,941,3540,662,30,41,36,29,19,817,25514
+2001,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,653,760,14393,1508,2730,606,76,56,47,28,22,835,20226
+2001,46659,Counted,Manual count,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,288,232,13514,429,1594,413,41,100,10,5,1,570,16339
+2001,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,603,417,14666,1572,2183,659,57,25,27,8,11,787,19625
+2001,47247,Counted,Manual count,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,495,1189,31888,994,4204,1199,101,169,50,50,47,1616,39891
+2001,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,239,337,6307,53,1032,212,20,22,15,8,14,291,8020
+2001,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,346,706,17587,869,3364,573,41,35,18,11,20,698,23224
+2001,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,1001,1078,14446,631,2801,497,41,14,33,18,19,622,19578
+2001,48543,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,520,2073,25388,547,4391,1650,89,51,37,51,53,1931,34330
+2001,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,93,331,10365,103,2074,361,62,68,17,14,6,528,13401
+2001,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,481,413,17100,1339,2770,898,76,97,96,20,25,1212,22834
+2001,57754,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,9,312,19192,88,3631,526,108,140,45,57,96,972,24195
+2001,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,316,622,8805,583,1611,249,25,16,14,15,5,324,11945
+2001,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,256,456,11297,496,2333,436,51,11,12,11,9,530,15112
+2001,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,881,372,11272,276,2449,278,30,4,11,7,3,333,14702
+2001,73560,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A115,PA,536830,184630,A106,LA Boundary,0.3,0.19,117,232,8781,234,2090,458,88,122,22,53,28,771,12108
+2001,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,3,1934,60884,344,14540,2609,323,543,374,852,656,5357,83059
+2001,73563,Counted,Dependent on a neighbouring counted link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,538,1166,20611,658,4141,812,50,90,73,67,57,1149,27725
+2001,73564,Counted,Manual count,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,358,632,21994,388,2955,547,11,24,28,11,5,626,26595
+2001,73565,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,978,2772,21016,164,5219,1319,146,122,46,63,29,1725,30896
+2001,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,927,827,12580,262,2487,649,45,28,25,1,16,764,16920
+2001,74529,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,1861,64142,267,12559,2940,336,602,248,472,276,4874,83703
+2001,74530,Counted,Manual count,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,27,1393,59674,189,11618,2531,270,562,180,332,409,4284,77158
+2001,74906,Counted,Manual count,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,130,677,40203,667,4738,989,108,318,56,44,17,1532,47817
+2001,74907,Counted,Manual count,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,231,455,22365,370,4231,1541,171,194,66,93,132,2197,29618
+2001,79992,Counted,Manual count,London,Hackney,A107,PA,534950,185100,Graham Road,Dalston Lane,0.3,0.19,238,52,854,984,118,77,3,1,3,0,0,84,2092
+2002,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,1355,2416,25388,1606,6535,1225,73,54,64,62,82,1560,37505
+2002,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,381,397,23671,2216,3360,832,46,18,30,22,39,987,30631
+2002,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,535,1066,28667,1155,4210,674,43,19,21,12,20,789,35887
+2002,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,82,170,13820,661,1699,274,20,9,19,8,13,343,16693
+2002,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,1098,2300,25490,1310,5295,838,68,53,46,69,107,1181,35576
+2002,8064,Counted,Manual count,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,305,481,23775,993,3394,442,56,53,43,32,26,652,29295
+2002,8475,Counted,Manual count,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,1079,2529,26717,428,6061,1356,86,118,92,98,34,1784,37519
+2002,16176,Counted,Manual count,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,531,613,16491,713,2468,388,50,21,18,22,10,509,20794
+2002,16616,Counted,Manual count,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,773,640,22535,640,1882,358,16,15,10,5,7,411,26108
+2002,16621,Counted,Manual count,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,400,693,19600,1714,3525,716,58,79,20,12,6,891,26423
+2002,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,762,2187,15417,295,3916,906,112,79,38,35,37,1207,23022
+2002,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,252,209,9529,1614,1178,165,6,4,3,4,10,192,12722
+2002,18336,Counted,Manual count,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,228,270,25282,1235,3181,536,54,76,25,32,142,865,30833
+2002,18456,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,988,1338,10115,393,1576,254,14,24,7,3,2,304,13726
+2002,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,1677,2417,27191,1134,3778,1631,103,127,46,36,31,1974,36494
+2002,26646,Counted,Manual count,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,590,863,34648,507,5498,943,115,61,12,15,13,1159,42675
+2002,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,847,249,11098,2071,1505,244,14,4,25,18,0,305,15228
+2002,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,390,1067,24972,1479,5499,1106,95,95,83,59,68,1506,34523
+2002,28092,Estimated,Estimated from nearby links,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,287,475,33010,714,4876,960,85,302,137,77,65,1626,40701
+2002,28212,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,748,2287,28457,1011,6171,1481,84,116,45,43,56,1825,39751
+2002,28381,Counted,Manual count,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,203,684,4601,286,947,153,21,13,4,4,3,198,6716
+2002,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,923,935,13404,871,2016,471,43,129,17,13,12,685,17911
+2002,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,383,990,33134,1777,6272,1075,82,35,35,38,79,1344,43517
+2002,36187,Counted,Dependent on a neighbouring counted link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,1540,1466,15141,1516,2142,617,45,55,8,3,4,732,20997
+2002,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,410,556,14234,377,2309,316,38,6,10,8,5,383,17859
+2002,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,148,276,8426,83,1297,365,69,139,15,3,4,595,10677
+2002,36668,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,255,297,24432,661,2216,724,46,34,29,21,21,875,28481
+2002,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,263,296,16837,1762,2542,314,41,11,11,2,9,388,21825
+2002,38148,Counted,Manual count,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,402,337,15430,1391,1371,326,46,5,18,12,19,426,18955
+2002,38267,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,768,2300,17639,494,5836,908,51,66,33,21,52,1131,27400
+2002,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,679,594,18851,645,2657,388,31,11,16,12,6,464,23211
+2002,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,153,389,8439,776,1417,397,55,120,6,11,4,593,11614
+2002,46189,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,1244,876,18201,1081,3299,585,28,39,31,24,19,726,24183
+2002,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,665,712,13587,1732,2544,535,72,54,40,23,22,746,19321
+2002,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,293,218,12757,493,1486,365,39,96,9,4,1,514,15468
+2002,46660,Counted,Manual count,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,126,194,12790,539,1503,360,23,31,35,34,19,502,15528
+2002,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,503,1114,30102,1142,3918,1058,97,161,43,41,48,1448,37724
+2002,48129,Counted,Manual count,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,305,330,9399,623,762,177,35,46,19,7,10,294,11408
+2002,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,352,662,16602,998,3135,506,39,33,15,9,21,623,22020
+2002,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,1019,1010,13637,725,2610,439,39,14,29,15,19,555,18537
+2002,48543,Counted,Manual count,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,2240,2432,21186,674,4620,575,54,51,12,70,67,829,29741
+2002,56619,Counted,Manual count,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,51,424,11305,74,1882,324,82,105,15,3,1,530,14215
+2002,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,490,387,16143,1539,2581,793,72,92,82,17,26,1082,21732
+2002,57754,Counted,Manual count,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,287,475,33010,714,4876,960,85,302,137,77,65,1626,40701
+2002,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,322,583,8312,670,1501,220,24,15,12,12,5,288,11354
+2002,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,261,427,10664,570,2174,385,49,11,10,9,9,473,14308
+2002,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,897,349,10641,317,2282,245,29,4,10,5,3,296,13885
+2002,73560,Counted,Dependent on a neighbouring counted link,London,Hackney,A115,PA,536830,184630,A106,LA Boundary,0.3,0.19,123,147,9544,180,1746,371,72,151,15,5,14,628,12245
+2002,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,5,1887,64617,199,10568,2358,257,437,417,483,423,4375,81646
+2002,73563,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,547,1092,19457,756,3859,717,48,86,62,55,59,1027,26191
+2002,73564,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,364,592,20762,445,2754,483,11,23,24,9,5,555,25108
+2002,73565,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,996,2598,19839,188,4864,1164,139,117,39,51,29,1539,29028
+2002,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,944,775,11876,301,2318,573,43,26,21,1,16,680,15950
+2002,74529,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,1744,60550,307,11705,2596,321,575,212,387,285,4376,78682
+2002,74530,Counted,Manual count,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,17,3591,71011,361,14099,2087,225,537,179,629,409,4066,93128
+2002,74906,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,133,635,37952,766,4416,874,103,303,48,36,17,1381,45150
+2002,74907,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,235,426,21113,425,3943,1361,163,185,56,76,136,1977,27884
+2002,79992,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,185100,Graham Road,Dalston Lane,0.3,0.19,242,49,806,1131,110,68,3,1,3,0,0,75,2171
+2003,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,1581,2517,24525,1942,6979,1090,69,52,70,63,103,1447,37410
+2003,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,445,413,22866,2679,3588,740,43,18,32,22,49,904,30450
+2003,6632,Counted,Manual count,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,1681,1194,26796,1133,4037,413,33,19,28,34,4,531,33691
+2003,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,96,177,13350,799,1814,244,19,9,20,8,17,317,16457
+2003,7716,Counted,Manual count,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,1099,1923,15504,819,4318,557,58,50,15,4,3,687,23251
+2003,8064,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,356,501,22966,1200,3624,394,53,51,47,32,32,609,28900
+2003,8475,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,1259,2635,25808,518,6474,1206,81,115,101,100,43,1646,37081
+2003,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,620,639,15930,862,2635,346,46,21,20,22,12,467,20533
+2003,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,902,667,21769,774,2010,319,15,15,11,5,9,374,25594
+2003,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,466,722,18934,2073,3765,638,54,77,22,12,7,810,26304
+2003,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,889,2279,14893,357,4182,806,105,77,41,36,47,1112,22823
+2003,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,294,218,9205,1951,1258,147,6,4,3,4,13,177,12809
+2003,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,266,281,24422,1493,3397,477,51,74,27,32,178,839,30432
+2003,18456,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,1153,1394,9771,475,1683,226,13,23,8,3,3,276,13599
+2003,26182,Counted,Manual count,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,1056,1249,12480,1506,2995,386,56,35,9,35,26,547,18777
+2003,26646,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,689,899,33470,613,5872,839,108,59,13,15,17,1051,41905
+2003,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,989,259,10721,2504,1607,217,14,4,28,18,0,281,15372
+2003,27239,Counted,Manual count,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,338,969,21994,1296,4045,801,87,121,42,47,72,1170,29474
+2003,28092,Estimated,Estimated from nearby links,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,335,495,31888,864,5208,854,80,294,150,78,82,1538,39993
+2003,28212,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,873,2383,27489,1222,6591,1318,79,113,49,44,71,1674,39359
+2003,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,237,713,4445,346,1011,136,20,13,4,4,4,181,6696
+2003,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,1078,974,12948,1053,2153,419,41,126,19,13,15,633,17761
+2003,36186,Counted,Manual count,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,176,694,31849,1660,4075,1008,77,31,39,24,40,1219,39497
+2003,36187,Counted,Dependent on a neighbouring counted link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,2120,1957,10535,2071,2269,473,31,15,6,6,4,535,17367
+2003,36663,Counted,Manual count,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,210,623,14353,623,2202,312,79,23,11,7,4,436,18237
+2003,36667,Counted,Manual count,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,157,701,8844,149,1591,233,50,72,11,7,0,373,11658
+2003,36668,Counted,Manual count,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,340,262,21407,782,2759,495,43,26,9,30,18,621,25831
+2003,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,307,309,16265,2130,2715,280,39,11,12,2,12,356,21775
+2003,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,470,351,14906,1682,1464,290,43,5,20,12,24,394,18797
+2003,38267,Counted,Manual count,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,747,2264,21489,43,6627,931,126,142,60,93,51,1403,31826
+2003,38434,Counted,Manual count,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,895,894,16710,451,3702,689,53,47,3,14,13,819,22576
+2003,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,179,405,8152,938,1513,353,52,117,6,11,5,544,11552
+2003,46189,Counted,Manual count,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,629,438,12923,954,2711,556,29,46,10,31,19,691,17717
+2003,46656,Counted,Manual count,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,668,726,13769,1716,2135,459,102,65,47,30,12,715,19061
+2003,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,342,227,12323,596,1587,325,37,93,10,4,1,470,15203
+2003,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,148,202,12355,652,1605,320,21,30,38,34,24,467,15281
+2003,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,587,1161,29079,1381,4185,941,92,156,47,41,61,1338,37144
+2003,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,356,344,9079,753,813,158,33,45,21,7,13,277,11266
+2003,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,411,690,16038,1207,3348,450,37,32,16,9,26,570,21853
+2003,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,1189,1053,13173,877,2787,391,37,14,32,15,24,513,18403
+2003,48543,Counted,Manual count,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,1600,3509,23010,769,4968,1200,204,162,39,58,40,1703,33959
+2003,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,60,442,10921,89,2010,288,77,102,16,3,1,487,13949
+2003,56661,Counted,Dependent on a neighbouring counted link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,694,987,14789,2025,2793,661,74,39,67,29,33,903,21497
+2003,57754,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,335,495,31887,864,5207,854,80,294,150,79,81,1538,39991
+2003,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,376,607,8029,810,1603,196,23,15,13,12,6,265,11314
+2003,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,305,445,10301,689,2322,343,46,11,11,9,11,431,14188
+2003,73558,Counted,Dependent on a neighbouring counted link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,376,244,11638,295,1722,220,37,19,1,2,0,279,14178
+2003,73560,Counted,Dependent on a neighbouring counted link,London,Hackney,A115,PA,536830,184630,A106,LA Boundary,0.3,0.19,242,174,8818,238,1267,260,69,57,11,19,45,461,10958
+2003,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,81,2428,64522,162,14378,4407,462,635,164,323,657,6648,88138
+2003,73563,Counted,Dependent on a neighbouring counted link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,342,1037,21906,473,4242,708,92,106,104,79,117,1206,28864
+2003,73564,Counted,Manual count,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,652,609,21542,497,2777,413,54,42,1,2,10,522,25947
+2003,73565,Counted,Dependent on a neighbouring counted link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,709,2192,23517,276,4618,936,108,128,56,60,55,1343,31946
+2003,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,1102,808,11473,364,2475,510,40,26,23,1,20,620,15740
+2003,74529,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,1416,84837,440,13545,2000,368,739,511,999,845,5462,105700
+2003,74530,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,20,3742,68597,437,15058,1858,212,522,195,638,515,3940,91774
+2003,74906,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,155,661,36662,926,4717,778,97,294,53,36,22,1280,44246
+2003,74907,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,274,444,20395,514,4211,1212,154,180,61,78,171,1856,27420
+2003,79992,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,185100,Graham Road,Dalston Lane,0.3,0.19,282,51,779,1367,117,61,3,1,3,0,0,68,2382
+2004,6190,Counted,Manual count,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,1585,1713,20340,1970,5892,703,71,58,55,15,4,906,30821
+2004,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,471,434,20557,2915,3753,838,51,21,32,20,55,1017,28676
+2004,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,1780,1255,24089,1233,4223,468,40,24,27,31,6,596,31396
+2004,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,102,186,12002,870,1898,276,23,11,20,8,19,357,15313
+2004,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,1164,2021,13938,891,4517,631,69,61,15,4,3,783,22150
+2004,8064,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,377,527,20647,1307,3792,446,62,64,46,29,37,684,26957
+2004,8475,Counted,Manual count,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,4714,6356,34431,540,9136,1856,181,301,36,49,26,2449,52912
+2004,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,656,671,14321,938,2757,391,56,25,19,20,14,525,19212
+2004,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,956,701,19571,842,2103,360,18,18,10,5,10,421,23638
+2004,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,494,759,17021,2255,3938,722,66,95,21,12,8,924,24897
+2004,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,942,2395,13389,388,4375,913,126,95,41,32,52,1259,21806
+2004,18046,Counted,Manual count,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,239,215,8294,1781,1041,181,9,22,10,11,2,235,11566
+2004,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,281,295,21956,1624,3553,540,61,92,27,29,201,950,28378
+2004,18456,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,1221,1465,8784,517,1761,256,16,29,7,3,3,314,12841
+2004,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,1118,1313,11219,1639,3133,437,67,44,9,32,29,618,17922
+2004,26646,Counted,Manual count,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,391,624,30202,822,4689,615,68,19,15,17,18,752,37089
+2004,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,1046,272,9638,2724,1681,246,16,5,26,16,0,309,14624
+2004,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,359,1019,19773,1409,4231,907,105,150,41,42,82,1327,27759
+2004,28092,Estimated,Estimated from nearby links,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,355,520,28667,940,5447,967,96,363,146,71,92,1735,37309
+2004,28212,Counted,Manual count,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,872,2283,25219,240,5743,1144,141,120,85,65,26,1581,35066
+2004,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,251,749,3996,376,1058,154,24,16,4,4,4,206,6385
+2004,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,1141,1024,11640,1146,2252,474,48,155,18,12,17,724,16786
+2004,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,186,730,28632,1806,4262,1142,92,38,37,22,45,1376,36806
+2004,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,3025,2540,11462,2234,2419,443,31,16,6,6,4,506,19161
+2004,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,223,654,12903,677,2303,354,94,29,11,5,4,497,17034
+2004,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,166,737,7951,162,1664,264,60,89,10,7,0,430,10944
+2004,36668,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,360,275,19246,850,2886,562,51,32,9,27,20,701,23958
+2004,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,325,324,14622,2318,2840,316,46,14,11,2,13,402,20506
+2004,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,497,369,13400,1830,1532,328,52,6,20,11,27,444,17575
+2004,38267,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,791,2379,19318,48,6932,1054,150,177,59,85,59,1584,30261
+2004,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,948,939,15022,491,3872,780,63,58,3,13,15,932,21256
+2004,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,189,426,7329,1021,1583,400,62,144,6,11,5,628,10987
+2004,46189,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,666,461,11618,1038,2836,630,35,57,10,28,22,782,16735
+2004,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,708,762,12379,1867,2234,520,123,80,46,26,14,809,18051
+2004,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,362,238,11079,649,1660,368,44,115,9,4,1,541,14167
+2004,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,155,212,11107,709,1679,362,26,38,37,31,27,521,14228
+2004,47247,Counted,Manual count,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,582,1329,33330,1494,5644,973,111,178,78,53,83,1476,43273
+2004,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,377,361,8163,819,851,178,39,55,21,7,14,314,10508
+2004,48418,Counted,Manual count,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,552,538,17295,1568,1961,447,30,12,12,9,7,517,21879
+2004,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,1259,1106,11843,954,2915,442,44,17,31,14,27,575,17393
+2004,48543,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,1695,3688,20686,836,5197,1359,245,200,37,52,46,1939,32346
+2004,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,63,464,9818,97,2102,326,92,126,16,3,1,564,13045
+2004,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,734,1037,13295,2202,2922,748,89,49,65,26,37,1014,20470
+2004,57754,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,354,520,28667,940,5447,967,95,363,146,71,92,1734,37308
+2004,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,398,638,7218,881,1677,222,27,18,13,11,7,298,10712
+2004,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,323,468,9261,750,2429,388,55,13,11,8,13,488,13396
+2004,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,398,257,10463,320,1801,248,45,24,1,2,0,320,13161
+2004,73560,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A115,PA,536830,184630,A106,LA Boundary,0.3,0.19,257,183,7927,259,1326,295,83,70,11,17,50,526,10221
+2004,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,26,1594,64452,301,10143,2144,217,497,259,418,374,3909,80399
+2004,73563,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,361,1090,19693,514,4437,801,110,130,102,72,132,1347,27081
+2004,73564,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,690,640,19366,541,2905,469,65,52,1,2,11,600,24052
+2004,73565,Counted,Dependent on a neighbouring counted link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,519,1349,22477,254,4432,796,73,61,90,85,56,1161,29673
+2004,73566,Counted,Dependent on a neighbouring counted link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,1722,1350,12848,477,2719,595,31,58,4,4,3,695,18089
+2004,74529,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,1489,76268,478,14169,2264,439,913,501,908,952,5977,98381
+2004,74530,Counted,Manual count,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,0,2980,73490,315,12533,2437,341,584,116,306,160,3944,93262
+2004,74906,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,165,695,32959,1008,4933,881,116,364,52,34,25,1472,41067
+2004,74907,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,291,466,18335,559,4405,1371,183,222,60,70,193,2099,25864
+2004,79992,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,185100,Graham Road,Dalston Lane,0.3,0.19,299,54,700,1488,123,69,3,1,3,0,0,76,2441
+2005,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,2046,1707,19933,1913,5922,724,71,64,46,12,4,921,30396
+2005,6629,Counted,Manual count,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,559,623,22041,2340,3550,857,86,75,27,82,27,1154,29708
+2005,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,2298,1251,23608,1198,4244,481,40,25,23,26,6,601,30902
+2005,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,131,186,11761,845,1907,284,23,12,16,6,18,359,15058
+2005,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,1502,2015,13659,865,4539,649,70,66,13,3,3,804,21882
+2005,8064,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,486,525,20234,1268,3811,458,64,69,38,24,37,690,26528
+2005,8475,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,6086,6336,33742,524,9182,1908,181,326,30,40,25,2510,52294
+2005,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,847,669,14035,911,2770,402,56,28,16,17,14,533,18918
+2005,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,1233,699,19178,817,2113,371,18,19,9,4,10,431,23238
+2005,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,638,757,16681,2189,3958,741,66,103,17,10,8,945,24530
+2005,17689,Counted,Manual count,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,2813,3640,20561,533,3055,705,208,131,39,16,7,1106,28895
+2005,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,308,214,8128,1729,1046,186,9,24,9,9,2,239,11356
+2005,18336,Counted,Manual count,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,784,1209,16617,1847,3577,844,52,39,39,18,6,998,24248
+2005,18456,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,1576,1461,8609,502,1769,263,16,31,6,2,3,321,12662
+2005,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,1444,1309,10995,1591,3148,449,67,47,8,26,29,626,17669
+2005,26646,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,505,622,29597,798,4713,632,68,21,12,14,18,765,36495
+2005,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,1351,272,9445,2645,1690,252,16,5,22,14,0,309,14361
+2005,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,463,1016,19377,1368,4252,932,105,162,35,35,80,1349,27362
+2005,28092,Estimated,Estimated from nearby links,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,458,519,28094,912,5474,994,96,394,121,58,91,1754,36753
+2005,28212,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,1125,2276,24715,234,5772,1175,141,130,70,53,25,1594,34591
+2005,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,324,747,3916,365,1063,158,24,17,4,3,4,210,6301
+2005,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,1472,1021,11408,1112,2264,487,49,168,15,10,17,746,16551
+2005,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,240,728,28060,1754,4284,1174,92,42,30,18,45,1401,36227
+2005,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,3410,2406,11497,2218,2700,488,33,19,5,4,4,553,19374
+2005,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,287,652,12645,657,2315,364,94,32,8,5,4,507,16776
+2005,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,214,735,7792,157,1673,272,60,96,9,5,0,442,10799
+2005,36668,Counted,Manual count,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,378,508,17729,1207,3564,526,84,48,18,8,10,694,23702
+2005,36669,Counted,Manual count,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,1580,454,14124,2055,2555,483,47,12,10,11,12,575,19763
+2005,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,641,368,13132,1777,1539,337,52,7,16,10,26,448,17264
+2005,38267,Counted,Manual count,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,1154,2401,26367,48,4887,1680,149,134,20,58,42,2083,35786
+2005,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,1224,936,14722,477,3892,802,63,63,3,11,15,957,20984
+2005,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,244,424,7183,991,1591,411,62,157,6,9,5,650,10839
+2005,46189,Counted,Manual count,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,1966,531,13146,1001,1691,594,62,15,5,9,8,693,17062
+2005,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,914,760,12131,1813,2245,535,123,86,38,22,13,817,17766
+2005,46659,Counted,Manual count,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,641,446,8356,445,1733,424,45,156,5,29,12,671,11651
+2005,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,201,212,10886,689,1687,373,26,40,31,26,27,523,13997
+2005,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,751,1325,32663,1450,5673,999,112,193,64,43,83,1494,42605
+2005,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,487,360,7999,796,856,184,39,60,17,6,14,320,10331
+2005,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,713,536,16949,1523,1971,459,30,13,10,7,7,526,21505
+2005,48540,Counted,Manual count,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,596,1464,11246,919,2215,438,18,19,11,10,4,500,16344
+2005,48543,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,2188,3677,20272,811,5222,1397,245,217,31,43,45,1978,31960
+2005,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,81,463,9621,95,2113,336,92,137,13,2,1,581,12873
+2005,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,949,1034,13030,2139,2937,769,89,52,54,21,37,1022,20162
+2005,57754,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,458,519,28094,912,5474,995,95,393,121,58,91,1753,36752
+2005,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,514,637,7074,856,1685,228,27,20,11,9,7,302,10554
+2005,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,416,466,9076,728,2441,399,55,14,9,7,13,497,13208
+2005,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,514,256,10254,311,1810,256,45,26,1,2,0,330,12961
+2005,73560,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A115,PA,536830,184630,A106,LA Boundary,0.3,0.19,331,182,7769,251,1333,302,83,76,9,14,50,534,10069
+2005,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,0,1561,71323,316,8147,3661,468,724,181,458,355,5847,87194
+2005,73563,Counted,Dependent on a neighbouring counted link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,636,1319,20753,766,4280,1000,154,220,47,60,84,1565,28683
+2005,73564,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,891,638,18978,525,2920,482,65,56,1,2,11,617,23678
+2005,73565,Counted,Dependent on a neighbouring counted link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,861,2102,20324,259,5773,1241,154,145,60,70,70,1740,30198
+2005,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,2223,1346,12591,463,2733,612,31,63,3,4,3,716,17849
+2005,74529,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,2190,66745,235,14526,3668,487,780,204,226,470,5835,89531
+2005,74530,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,0,2971,72019,307,12595,2505,342,634,96,250,158,3985,91877
+2005,74906,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,212,693,32300,979,4957,905,116,395,42,28,23,1509,40438
+2005,74907,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,375,466,17968,543,4427,1410,184,241,49,57,191,2132,25536
+2005,79992,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,185100,Graham Road,Dalston Lane,0.3,0.19,386,54,686,1445,123,70,3,1,3,0,0,77,2385
+2006,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,2657,1858,20701,2090,6278,688,66,64,45,12,5,880,31807
+2006,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,725,678,22890,2555,3762,816,80,75,26,79,31,1107,30992
+2006,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,2985,1361,24518,1308,4499,458,36,26,22,24,6,572,32258
+2006,6634,Counted,Manual count,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,240,411,11710,986,3268,366,37,53,6,13,6,481,16856
+2006,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,1951,2193,14185,945,4812,618,64,67,12,3,4,768,22903
+2006,8064,Counted,Manual count,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,625,794,22270,1487,5155,488,65,139,14,37,15,758,30464
+2006,8475,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,7902,6895,35043,572,9733,1816,168,328,28,38,29,2407,54650
+2006,16176,Counted,Manual count,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,1157,1101,10998,1245,3122,871,78,24,2,10,4,989,17455
+2006,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,1602,760,19918,893,2240,353,17,19,8,4,12,413,24224
+2006,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,828,824,17323,2391,4195,706,61,103,17,8,10,905,25638
+2006,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,3654,3961,21352,581,3238,671,193,132,38,16,9,1059,30191
+2006,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,400,233,8441,1889,1110,177,8,24,9,9,2,229,11902
+2006,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,1018,1316,17258,2017,3792,803,48,39,38,17,6,951,25334
+2006,18456,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,2047,1590,8940,548,1876,250,15,31,6,2,3,307,13261
+2006,26182,Counted,Manual count,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,1979,1381,9095,1298,3442,394,59,58,23,31,16,581,15797
+2006,26646,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,655,677,30738,872,4995,601,63,21,12,14,21,732,38014
+2006,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,1755,295,9809,2889,1791,241,14,5,21,13,0,294,15078
+2006,27239,Counted,Manual count,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,1049,1844,16715,1682,4701,896,136,196,50,53,54,1385,26327
+2006,28092,Estimated,Estimated from nearby links,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,595,564,29176,996,5803,946,89,396,118,56,106,1711,38250
+2006,28212,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,1460,2477,25667,255,6118,1119,130,130,68,51,30,1528,36045
+2006,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,421,813,4067,399,1127,151,22,17,3,3,5,201,6607
+2006,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,1912,1111,11847,1216,2400,464,45,169,15,9,19,721,17295
+2006,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,312,792,29141,1916,4541,1117,85,42,30,18,52,1344,37734
+2006,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,3889,2700,11831,2489,3411,447,29,18,4,4,4,506,20937
+2006,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,372,710,13132,718,2453,347,88,32,8,4,4,483,17496
+2006,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,278,800,8092,172,1773,258,56,97,8,5,0,424,11261
+2006,36668,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,491,552,18412,1318,3779,501,78,48,18,8,12,665,24726
+2006,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,2051,495,14668,2245,2709,460,44,12,9,11,13,549,20666
+2006,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,833,400,13637,1940,1631,321,48,7,16,8,31,431,18039
+2006,38267,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,1498,2612,27383,53,5181,1599,138,135,20,56,49,1997,37226
+2006,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,1590,1019,15289,521,4125,763,59,63,2,10,17,914,21868
+2006,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,317,462,7459,1083,1686,392,57,157,6,8,7,627,11317
+2006,46189,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,2552,578,13653,1093,1793,565,57,16,5,9,8,660,17777
+2006,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,1187,827,12598,1980,2379,509,114,86,37,22,16,784,18568
+2006,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,833,485,8678,486,1837,403,41,157,5,28,13,647,12133
+2006,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,261,231,11305,752,1789,355,24,41,30,24,31,505,14582
+2006,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,975,1442,33921,1585,6013,951,103,194,64,41,96,1449,44410
+2006,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,632,392,8308,869,907,175,36,60,17,5,16,309,10785
+2006,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,926,583,17602,1663,2090,437,28,13,9,7,8,502,22440
+2006,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,775,1594,11680,1005,2347,417,16,20,11,10,5,479,17105
+2006,48543,Counted,Manual count,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,1155,1984,21485,848,6500,1424,201,142,15,74,72,1928,32745
+2006,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,106,504,9992,103,2240,319,86,138,13,2,2,560,13399
+2006,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,1231,1125,13531,2335,3114,731,82,53,53,21,43,983,21088
+2006,57754,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,594,564,29176,997,5803,946,89,395,118,56,106,1710,38250
+2006,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,667,693,7347,935,1786,217,25,20,10,9,8,289,11050
+2006,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,541,507,9425,795,2587,379,51,14,9,7,15,475,13789
+2006,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,667,279,10649,340,1919,243,41,27,1,2,0,314,13501
+2006,73560,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A115,PA,536830,184630,A106,LA Boundary,0.3,0.19,430,198,8068,274,1413,288,77,77,9,14,58,523,10476
+2006,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,0,3020,64602,746,17849,2921,311,739,152,650,404,5177,91394
+2006,73563,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,826,1435,21553,836,4537,951,142,221,46,58,98,1516,29877
+2006,73564,Counted,Manual count,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,1169,1155,19741,700,4237,546,26,42,8,3,0,625,26458
+2006,73565,Counted,Dependent on a neighbouring counted link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,1314,1936,22879,342,6561,1365,147,152,70,83,80,1897,33615
+2006,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,2887,1465,13076,505,2897,582,29,63,3,4,3,684,18627
+2006,74529,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,2382,69316,257,15398,3490,451,784,199,217,546,5687,93040
+2006,74530,Counted,Manual count,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,0,2969,75059,679,21067,3628,495,579,164,579,413,5858,105632
+2006,74906,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,276,755,33544,1069,5255,862,107,397,41,26,28,1461,42084
+2006,74907,Counted,Manual count,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,596,590,23767,713,7164,1366,238,470,10,193,210,2487,34721
+2006,79992,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,185100,Graham Road,Dalston Lane,0.3,0.19,501,58,712,1578,131,67,3,1,3,0,0,74,2553
+2006,80388,Counted,Manual count,London,Hackney,A1208,PA,533620,182930,A10/A5201,Weymouth Terrace,0.6,0.37,1363,1351,11824,972,4124,611,121,158,8,13,13,924,19195
+2007,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,2628,1902,20454,2055,6423,629,61,64,37,11,5,807,31641
+2007,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,718,694,22615,2515,3850,746,72,76,22,73,31,1020,30694
+2007,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,2952,1393,24223,1287,4602,419,33,26,18,23,6,525,32030
+2007,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,237,421,11569,970,3343,336,35,53,6,11,6,447,16750
+2007,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,1930,2245,14015,929,4923,565,58,67,10,3,4,707,22819
+2007,8064,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,618,814,22002,1463,5273,447,60,140,11,34,15,707,30259
+2007,8475,Counted,Manual count,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,2977,3939,30902,712,10656,1710,210,160,76,84,105,2345,48554
+2007,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,1144,1127,10866,1225,3194,795,72,25,1,8,4,905,17317
+2007,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,1584,779,19678,879,2292,323,15,20,7,3,11,379,24007
+2007,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,819,843,17115,2353,4292,645,55,105,14,8,10,837,25440
+2007,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,3613,4056,21096,572,3312,613,176,132,32,15,9,977,30013
+2007,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,396,239,8339,1858,1134,161,8,24,7,8,2,210,11780
+2007,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,1007,1347,17050,1985,3879,734,44,40,31,16,6,871,25132
+2007,18456,Counted,Manual count,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,700,1394,7535,601,2211,322,42,46,8,5,5,428,12169
+2007,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,1958,1414,8987,1277,3522,360,54,59,19,28,16,536,15736
+2007,26646,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,648,693,30369,858,5110,550,58,21,10,13,21,673,37703
+2007,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,1736,303,9692,2843,1833,220,14,5,18,12,0,269,14940
+2007,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,1038,1888,16514,1656,4808,819,124,197,41,48,54,1283,26149
+2007,28092,Estimated,Estimated from nearby links,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,588,578,28826,980,5937,865,81,398,98,51,105,1598,37919
+2007,28212,Counted,Manual count,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,1800,2719,20547,98,6433,691,136,137,63,80,69,1176,30973
+2007,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,416,832,4018,393,1153,138,20,17,3,3,5,186,6582
+2007,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,1892,1138,11705,1195,2455,424,41,170,12,9,19,675,17168
+2007,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,309,811,28790,1885,4645,1021,78,42,25,16,52,1234,37365
+2007,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,3278,2240,10767,2594,3281,480,31,21,4,4,5,545,19427
+2007,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,369,727,12974,706,2510,317,79,32,7,4,4,443,17360
+2007,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,275,819,7995,169,1814,236,51,97,7,5,0,396,11193
+2007,36668,Counted,Manual count,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,188,230,20916,869,3917,962,43,53,11,1,11,1081,27013
+2007,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,2029,507,14492,2210,2771,420,40,12,8,10,13,503,20483
+2007,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,824,410,13474,1909,1669,294,44,7,12,8,31,396,17858
+2007,38267,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,1482,2675,27055,51,5299,1461,126,136,16,51,49,1839,36919
+2007,38434,Counted,Manual count,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,616,645,12291,798,2603,335,35,29,12,21,11,443,16780
+2007,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,314,473,7370,1066,1726,358,53,159,4,7,7,588,11223
+2007,46189,Counted,Manual count,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,1815,1403,11300,1191,3369,382,64,56,19,10,4,535,17798
+2007,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,1173,847,12447,1948,2434,465,104,88,31,20,16,724,18400
+2007,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,823,496,8574,478,1878,368,38,158,5,26,13,608,12034
+2007,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,258,236,11169,740,1830,324,22,41,25,22,30,464,14439
+2007,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,965,1477,33514,1558,6151,869,95,195,52,38,95,1344,44044
+2007,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,625,401,8208,855,928,160,33,61,13,4,16,287,10679
+2007,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,915,597,17391,1637,2138,399,25,13,8,6,8,459,22222
+2007,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,766,1632,11539,988,2401,381,16,20,10,9,5,441,17001
+2007,48543,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,1143,2031,21227,835,6649,1302,183,143,13,68,72,1781,32523
+2007,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,104,516,9872,102,2291,292,78,138,11,2,2,523,13304
+2007,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,1217,1152,13370,2299,3184,668,75,53,44,19,43,902,20907
+2007,57754,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,588,578,28826,980,5937,865,81,398,98,52,106,1600,37921
+2007,57755,Counted,Manual count,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,185,448,2910,270,1393,334,40,32,0,4,4,414,5435
+2007,58160,Counted,Manual count,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,268,376,9366,949,2011,518,47,15,13,1,4,598,13300
+2007,73558,Counted,Dependent on a neighbouring counted link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,530,568,13912,409,2618,220,47,55,12,1,2,337,17844
+2007,73560,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A115,PA,536830,184630,A106,LA Boundary,0.3,0.19,426,203,7972,270,1445,263,70,77,7,12,58,487,10377
+2007,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,2,2647,58590,487,15485,2140,301,563,199,579,412,4194,81403
+2007,73563,Counted,Dependent on a neighbouring counted link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,445,1156,17354,682,4658,793,88,198,35,51,30,1195,25045
+2007,73564,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,1156,1183,19504,689,4334,500,25,42,7,3,0,577,26287
+2007,73565,Counted,Dependent on a neighbouring counted link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,1264,2068,23262,372,6008,1089,151,164,13,69,70,1556,33266
+2007,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,2855,1500,12919,497,2963,533,26,63,3,3,3,631,18510
+2007,74529,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,2844,86056,391,18641,4103,536,907,499,449,588,7082,115014
+2007,74530,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,0,3040,74157,668,21551,3317,452,582,136,532,411,5430,104846
+2007,74906,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,273,772,33142,1051,5377,787,98,399,35,24,28,1371,41713
+2007,74907,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,589,604,23482,702,7329,1249,217,473,8,178,210,2335,34452
+2007,79992,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,185100,Graham Road,Dalston Lane,0.3,0.19,496,60,704,1553,134,61,3,1,2,0,0,67,2518
+2007,80388,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1208,PA,533620,182930,A10/A5201,Weymouth Terrace,0.6,0.37,1348,1383,11682,957,4219,559,110,159,7,12,13,860,19101
+2008,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,2696,1935,20024,2088,6416,636,69,69,35,10,5,824,31287
+2008,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,737,706,22140,2555,3846,755,82,81,20,69,33,1040,30287
+2008,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,3029,1418,23714,1308,4598,424,38,27,18,21,6,534,31572
+2008,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,244,429,11326,985,3340,339,39,57,4,11,6,456,16536
+2008,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,1980,2284,13720,945,4918,571,67,72,10,3,4,727,22594
+2008,8064,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,635,827,21540,1487,5269,451,68,150,11,32,16,728,29851
+2008,8475,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,3054,4006,30253,723,10645,1730,240,172,71,80,111,2404,48031
+2008,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,1174,1146,10639,1245,3191,805,82,27,1,8,4,927,17148
+2008,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,1625,792,19265,893,2289,327,17,21,7,3,12,387,23626
+2008,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,841,857,16756,2391,4288,653,63,112,13,8,11,860,25152
+2008,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,3707,4125,20653,581,3309,621,201,143,31,13,9,1018,29686
+2008,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,406,242,8164,1888,1134,163,9,26,6,8,2,214,11642
+2008,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,1032,1371,16692,2016,3876,743,50,42,29,15,6,885,24840
+2008,18456,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,718,1418,7376,611,2209,326,48,49,7,5,5,440,12054
+2008,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,2008,1438,8798,1298,3518,364,62,63,18,27,17,551,15603
+2008,26646,Counted,Manual count,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,345,512,29361,767,3347,590,190,172,31,42,63,1088,35075
+2008,26651,Counted,Manual count,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,921,358,8280,2575,1549,277,55,53,43,31,27,486,13248
+2008,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,1064,1920,16167,1682,4803,829,141,212,39,46,57,1324,25896
+2008,28092,Estimated,Estimated from nearby links,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,603,588,28221,996,5931,875,92,428,93,49,111,1648,37384
+2008,28212,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,1846,2766,20116,100,6426,700,155,147,59,76,73,1210,30618
+2008,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,427,846,3933,399,1152,139,23,18,3,3,5,191,6521
+2008,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,1941,1157,11459,1214,2452,429,47,182,12,8,21,699,16981
+2008,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,316,824,28186,1915,4641,1033,88,45,23,15,55,1259,36825
+2008,36187,Counted,Dependent on a neighbouring counted link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,4560,1599,8690,2424,2156,587,43,101,10,15,13,769,15638
+2008,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,378,739,12701,718,2508,321,91,34,7,4,4,461,17127
+2008,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,282,833,7827,172,1812,239,58,105,6,5,0,413,11057
+2008,36668,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,193,234,20477,883,3913,974,50,57,9,1,11,1102,26609
+2008,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,2081,515,14187,2245,2768,426,45,13,8,10,15,517,20232
+2008,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,845,417,13191,1940,1667,297,50,7,12,7,33,406,17621
+2008,38267,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,1521,2721,26487,53,5294,1479,144,146,16,49,52,1886,36441
+2008,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,632,656,12032,811,2600,339,40,31,12,20,12,454,16553
+2008,38435,Counted,Manual count,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,461,437,5953,1240,1206,416,48,94,15,5,18,596,9432
+2008,46189,Counted,Manual count,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,1894,1121,12640,1270,2750,735,80,59,9,8,28,919,18700
+2008,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,1204,861,12185,1979,2432,470,119,94,29,18,16,746,18203
+2008,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,845,505,8394,486,1877,374,44,170,5,24,14,631,11893
+2008,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,265,241,10935,751,1828,328,25,43,24,22,33,475,14230
+2008,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,990,1501,32811,1583,6145,880,107,210,50,36,101,1384,43424
+2008,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,641,408,8035,869,927,161,38,65,13,4,17,298,10537
+2008,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,939,608,17026,1663,2136,404,29,14,7,6,9,469,21902
+2008,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,786,1660,11297,1004,2399,386,18,21,9,9,5,448,16808
+2008,48543,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,1172,2066,20781,847,6643,1317,209,154,12,65,76,1833,32170
+2008,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,107,525,9665,103,2289,295,89,149,10,2,2,547,13129
+2008,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,1250,1171,13088,2335,3182,677,86,58,41,18,45,925,20701
+2008,57754,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,603,588,28221,995,5931,875,92,428,93,48,111,1647,37382
+2008,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,190,456,2849,274,1391,338,45,34,0,4,4,425,5395
+2008,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,275,382,9170,964,2009,524,53,16,12,1,4,610,13135
+2008,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,544,578,13620,415,2615,223,53,59,12,1,2,350,17578
+2008,73560,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A115,PA,536830,184630,A106,LA Boundary,0.3,0.19,437,207,7804,274,1443,267,80,83,7,12,61,510,10238
+2008,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,0,2248,57480,625,11027,3490,309,436,270,392,985,5882,77262
+2008,73563,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,456,1176,16991,693,4653,802,100,213,33,48,32,1228,24741
+2008,73564,Counted,Manual count,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,727,621,16454,487,1910,306,37,22,6,16,9,396,19868
+2008,73565,Counted,Dependent on a neighbouring counted link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,1076,2196,25091,334,5202,971,121,71,65,36,75,1339,34162
+2008,73566,Counted,Dependent on a neighbouring counted link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,1056,468,11177,654,2038,389,30,12,2,5,0,438,14775
+2008,74529,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,2893,84249,397,18622,4151,612,975,469,427,620,7254,113415
+2008,74530,Counted,Manual count,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,0,2294,78102,508,17006,3698,595,735,410,260,561,6259,104169
+2008,74906,Counted,Manual count,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,260,885,37935,879,5822,1066,185,301,38,20,98,1708,47229
+2008,74907,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,604,614,22989,713,7321,1264,248,509,8,169,220,2418,34055
+2008,79992,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,185100,Graham Road,Dalston Lane,0.3,0.19,509,61,689,1577,134,62,3,1,2,0,0,68,2529
+2008,80388,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1208,PA,533620,182930,A10/A5201,Weymouth Terrace,0.6,0.37,1382,1407,11437,972,4215,565,125,171,6,10,15,892,18923
+2009,6190,Counted,Manual count,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,4041,2351,18525,2605,4376,1063,182,103,8,42,135,1533,29390
+2009,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,730,686,21542,2616,3727,755,89,84,19,61,33,1041,29612
+2009,6632,Counted,Manual count,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,941,878,17404,959,3032,491,60,54,14,17,41,677,22950
+2009,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,242,417,11020,1008,3236,339,42,59,4,10,6,460,16141
+2009,7716,Counted,Manual count,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,1820,1773,15692,1124,4287,964,94,104,18,20,43,1243,24119
+2009,8064,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,629,804,20959,1523,5106,451,74,156,11,29,16,737,29129
+2009,8475,Counted,Manual count,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,3549,2963,34776,863,8249,1233,88,302,102,16,149,1890,48741
+2009,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,1164,1114,10351,1275,3092,805,90,28,1,7,4,935,16767
+2009,16616,Counted,Manual count,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,1286,627,14365,1395,2251,625,35,47,4,6,19,736,19374
+2009,16621,Counted,Manual count,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,857,646,13362,2008,2421,679,60,54,3,7,13,816,19253
+2009,17689,Counted,Manual count,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,1501,1534,14020,911,2709,636,90,77,16,21,4,844,20018
+2009,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,402,235,7944,1934,1098,163,10,27,6,7,2,215,11426
+2009,18336,Counted,Manual count,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,849,852,16225,1934,2600,573,52,49,7,10,27,718,22329
+2009,18456,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,712,1378,7177,626,2141,326,52,51,7,4,5,445,11767
+2009,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,1990,1397,8560,1329,3409,364,67,65,17,24,17,554,15249
+2009,26646,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,342,498,28568,785,3244,590,206,178,30,37,63,1104,34199
+2009,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,913,348,8056,2637,1501,277,60,55,41,27,27,487,13029
+2009,27239,Counted,Manual count,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,1159,1075,18308,1303,3834,934,85,140,7,22,60,1248,25768
+2009,28092,Estimated,Estimated from nearby links,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,762,1483,39236,1188,6315,1646,212,250,75,40,86,2309,50531
+2009,28212,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,1830,2688,19573,102,6227,700,168,153,57,67,73,1218,29808
+2009,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,423,822,3827,409,1116,139,25,19,3,3,5,194,6368
+2009,28535,Counted,Dependent on a neighbouring counted link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,2336,925,10229,1386,2461,429,55,56,37,21,11,609,15610
+2009,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,313,801,27425,1960,4497,1032,96,47,22,14,55,1266,35949
+2009,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,4633,1492,8420,2531,2018,542,43,97,9,12,12,715,15176
+2009,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,375,719,12358,735,2430,321,98,36,7,4,4,470,16712
+2009,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,279,810,7616,176,1756,239,63,109,6,4,0,421,10779
+2009,36668,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,191,228,19924,904,3792,973,54,59,9,1,11,1107,25955
+2009,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,2062,501,13804,2299,2682,426,49,13,8,9,15,520,19806
+2009,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,837,405,12835,1986,1615,297,54,7,12,6,33,409,17250
+2009,38267,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,1507,2644,25772,55,5130,1477,156,151,15,44,52,1895,35496
+2009,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,626,638,11707,830,2519,339,43,32,11,18,12,455,16149
+2009,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,457,425,5792,1269,1169,416,52,97,15,5,18,603,9258
+2009,46189,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,1877,1090,12299,1300,2665,735,87,61,9,7,28,927,18281
+2009,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,1194,837,11856,2027,2357,470,129,98,28,16,16,757,17834
+2009,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,837,491,8167,498,1819,374,48,176,5,21,14,638,11613
+2009,46660,Counted,Manual count,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,711,306,10663,2014,1511,335,41,14,1,8,8,407,14901
+2009,47247,Counted,Manual count,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,698,1353,31323,1744,5525,1371,115,156,23,18,94,1777,41722
+2009,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,636,396,7818,890,898,161,41,67,13,4,17,303,10305
+2009,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,931,591,16566,1703,2070,404,31,15,7,5,9,471,21401
+2009,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,778,1614,10992,1029,2324,386,20,22,9,8,5,450,16409
+2009,48543,Counted,Manual count,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,1493,1566,22294,995,4418,904,211,114,53,22,70,1374,30647
+2009,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,106,510,9404,105,2218,295,97,155,10,2,2,561,12798
+2009,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,1239,1138,12735,2391,3083,677,94,60,39,16,45,931,20278
+2009,57754,Counted,Manual count,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,762,1483,39236,1188,6316,1645,211,250,75,40,86,2307,50530
+2009,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,188,443,2772,281,1348,338,49,35,0,4,4,430,5274
+2009,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,273,371,8922,987,1947,523,58,17,11,1,4,614,12841
+2009,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,539,562,13252,425,2534,223,58,61,11,1,2,356,17129
+2009,73560,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A115,PA,536830,184630,A106,LA Boundary,0.3,0.19,433,201,7593,280,1398,267,87,87,7,11,61,520,9992
+2009,73561,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,0,2125,57020,659,10740,3270,315,425,222,301,850,5383,75927
+2009,73563,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,452,1143,16532,709,4509,801,109,221,32,42,32,1237,24130
+2009,73564,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,720,604,16010,499,1851,306,40,23,6,14,9,398,19362
+2009,73565,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,1066,2135,24413,342,5041,970,131,73,62,32,75,1343,33274
+2009,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,1047,455,10876,670,1974,389,33,12,2,5,0,441,14416
+2009,74529,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,2261,79519,933,14498,3287,536,764,183,364,829,5963,103174
+2009,74530,Counted,Manual count,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,0,2333,83548,688,15032,3135,381,814,60,199,763,5352,106953
+2009,74906,Counted,Manual count,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,368,1147,37339,1046,6564,1176,119,257,49,57,38,1696,47792
+2009,74907,Counted,Manual count,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,1065,678,29839,483,5821,1670,320,475,188,158,477,3288,40109
+2009,79992,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,185100,Graham Road,Dalston Lane,0.3,0.19,504,59,670,1615,130,62,3,1,2,0,0,68,2542
+2009,80388,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1208,PA,533620,182930,A10/A5201,Weymouth Terrace,0.6,0.37,1369,1368,11129,995,4084,565,136,178,6,9,15,909,18485
+2010,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,4458,2325,18229,2626,4298,1109,181,89,9,38,130,1556,29034
+2010,6629,Counted,Manual count,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,548,502,14496,2265,2096,425,105,45,7,20,34,636,19995
+2010,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,1038,868,17125,967,2978,512,60,46,16,15,40,689,22627
+2010,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,267,413,10844,1016,3178,354,42,50,4,9,6,465,15916
+2010,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,2008,1754,15441,1133,4210,1006,94,89,20,18,41,1268,23806
+2010,8064,Counted,Manual count,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,700,570,18611,1082,3476,799,99,79,0,23,15,1015,24754
+2010,8475,Counted,Manual count,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,3214,2741,23619,1449,8811,2272,630,676,170,159,133,4040,40660
+2010,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,1284,1101,10186,1285,3037,841,90,24,1,6,4,966,16575
+2010,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,1418,620,14135,1406,2211,653,35,40,4,5,18,755,19127
+2010,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,945,639,13148,2024,2377,709,60,47,3,7,13,839,19027
+2010,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,1656,1518,13795,918,2660,664,90,66,18,19,4,861,19752
+2010,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,443,233,7817,1949,1078,171,10,23,7,7,2,220,11297
+2010,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,937,843,15966,1950,2553,598,52,42,8,9,26,735,22047
+2010,18456,Estimated,Estimated from nearby links,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,547,1003,7141,539,1437,250,11,15,7,4,5,292,10412
+2010,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,2195,1381,8423,1340,3347,380,67,56,19,22,16,560,15051
+2010,26646,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,377,493,28111,791,3185,616,204,153,34,33,61,1101,33681
+2010,26651,Counted,Manual count,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,941,294,7899,2557,1823,194,18,0,0,5,0,217,12790
+2010,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,1279,1064,18015,1313,3765,975,85,120,8,20,58,1266,25423
+2010,28092,Estimated,Estimated from nearby links,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,807,1256,37381,1283,6801,1199,189,301,30,35,28,1782,48503
+2010,28212,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,2018,2659,19260,102,6115,730,167,131,63,60,71,1222,29358
+2010,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,467,813,3766,412,1096,145,25,16,3,3,5,197,6284
+2010,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,2577,915,10065,1397,2416,448,55,48,41,19,11,622,15415
+2010,36186,Counted,Manual count,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,663,573,23907,2011,3413,771,89,41,9,25,19,954,30858
+2010,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,5040,1401,8168,2698,1943,570,43,84,10,11,12,730,14940
+2010,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,413,711,12160,740,2387,335,98,31,8,4,4,480,16478
+2010,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,308,801,7494,177,1724,250,63,94,7,4,0,418,10614
+2010,36668,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,211,226,19606,911,3724,1016,54,50,10,1,11,1142,25609
+2010,36669,Counted,Manual count,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,1070,440,11593,1779,2104,443,47,22,2,10,6,530,16446
+2010,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,923,400,12629,2001,1586,310,54,6,14,6,31,421,17037
+2010,38267,Counted,Manual count,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,871,864,37214,194,5818,890,87,58,46,52,48,1181,45271
+2010,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,690,631,11520,837,2474,354,43,27,12,16,12,464,15926
+2010,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,504,421,5700,1279,1148,434,52,84,17,5,18,610,9158
+2010,46189,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,2070,1078,12102,1311,2617,767,87,53,10,7,26,950,18058
+2010,46656,Counted,Manual count,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,1099,362,12101,1577,2051,640,65,57,0,12,9,783,16874
+2010,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,923,486,8036,502,1786,391,48,151,5,19,13,627,11437
+2010,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,785,302,10493,2030,1484,350,41,12,1,8,8,420,14729
+2010,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,770,1338,30822,1758,5426,1431,115,134,26,16,90,1812,41156
+2010,48129,Counted,Manual count,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,563,376,8250,431,1487,247,31,46,0,4,8,336,10880
+2010,48418,Counted,Manual count,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,716,609,18222,1333,2081,478,40,18,18,4,9,567,22812
+2010,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,858,1596,10816,1037,2283,403,20,19,10,8,5,465,16197
+2010,48543,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,1647,1549,21937,1003,4338,944,209,98,59,20,68,1398,30225
+2010,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,117,504,9254,106,2178,308,96,133,11,2,2,552,12594
+2010,56661,Counted,Dependent on a neighbouring counted link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,1179,918,19114,2022,2702,736,83,135,36,17,26,1033,25789
+2010,57754,Counted,Manual count,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,807,1256,37381,1283,6801,1198,189,301,30,35,28,1781,48502
+2010,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,207,438,2728,283,1324,353,49,30,0,4,4,440,5213
+2010,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,301,367,8779,995,1912,546,58,15,12,1,4,636,12689
+2010,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,594,556,13040,429,2489,233,58,52,12,1,2,358,16872
+2010,73560,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A115,PA,536830,184630,A106,LA Boundary,0.3,0.19,477,199,7472,282,1373,279,87,75,7,10,59,517,9843
+2010,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,26,1636,66048,202,12186,3047,250,643,25,167,722,4854,84926
+2010,73563,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,499,1130,16267,715,4428,836,109,189,36,38,30,1238,23778
+2010,73564,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,795,598,15754,503,1818,319,40,20,7,12,9,407,19080
+2010,73565,Counted,Dependent on a neighbouring counted link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,1587,1039,19452,150,6116,2247,108,176,9,38,98,2676,29433
+2010,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,1154,450,10702,675,1938,406,33,10,2,5,0,456,14221
+2010,74529,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,105,2069,71370,309,16322,3522,239,749,46,67,258,4881,94951
+2010,74530,Counted,Manual count,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,40,3589,91977,833,12876,10174,1078,1522,1103,299,515,14691,123966
+2010,74906,Counted,Manual count,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,239,884,45728,794,7653,1330,99,300,0,15,47,1791,56850
+2010,74907,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,1175,671,29362,487,5716,1743,318,408,210,143,460,3282,39518
+2010,79992,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,185100,Graham Road,Dalston Lane,0.3,0.19,556,58,659,1628,128,65,3,1,2,0,0,71,2544
+2010,80388,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1208,PA,533620,182930,A10/A5201,Weymouth Terrace,0.6,0.37,1510,1353,10951,1003,4010,590,136,153,6,8,15,908,18225
+2011,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,4382,2286,17974,2661,4225,1089,192,98,7,38,137,1561,28707
+2011,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,538,494,14293,2294,2060,417,111,50,5,20,36,639,19780
+2011,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,1020,853,16886,979,2928,503,63,51,12,15,43,687,22333
+2011,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,263,406,10693,1029,3124,347,44,55,4,9,6,465,15717
+2011,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,1974,1724,15225,1147,4138,987,100,98,15,18,43,1261,23495
+2011,8064,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,688,560,18351,1096,3417,784,104,88,0,23,16,1015,24439
+2011,8475,Counted,Manual count,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,5046,3167,29759,990,7903,1192,169,339,53,82,74,1909,43728
+2011,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,1262,1082,10043,1302,2985,826,96,26,1,6,4,959,16371
+2011,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,1393,609,13937,1424,2174,641,37,44,3,5,19,749,18893
+2011,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,928,628,12964,2050,2336,696,63,52,2,7,13,833,18811
+2011,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,1627,1492,13602,930,2614,652,95,73,14,19,4,857,19495
+2011,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,436,229,7707,1974,1060,167,11,25,6,7,2,218,11188
+2011,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,921,829,15742,1975,2509,587,55,46,6,9,28,731,21786
+2011,18456,Estimated,Estimated from nearby links,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,538,986,7041,546,1413,246,12,17,5,4,5,289,10275
+2011,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,2158,1357,8305,1358,3290,373,71,62,15,22,17,560,14870
+2011,26646,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,370,485,27717,802,3131,605,216,169,26,33,65,1114,33249
+2011,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,925,289,7788,2590,1792,191,19,0,0,5,0,215,12674
+2011,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,1257,1046,17763,1330,3701,957,90,133,6,20,62,1268,25108
+2011,28092,Estimated,Estimated from nearby links,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,779,1032,29238,1219,5188,1080,154,357,5,7,43,1646,38323
+2011,28212,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,1984,2614,18990,104,6011,717,177,145,49,60,75,1223,28942
+2011,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,459,799,3713,417,1077,142,26,18,2,3,5,196,6202
+2011,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,2533,900,9924,1415,2375,440,58,53,31,19,11,612,15226
+2011,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,651,564,23573,2037,3355,757,94,45,7,25,20,948,30477
+2011,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,4999,1390,8102,2773,1927,568,47,94,8,11,13,741,14933
+2011,36663,Counted,Manual count,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,849,520,8523,448,1769,494,30,43,0,11,7,585,11845
+2011,36667,Counted,Manual count,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,454,541,8933,338,1731,480,45,58,1,4,8,596,12139
+2011,36668,Counted,Manual count,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,273,295,16248,955,2494,629,24,13,6,12,6,690,20682
+2011,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,1052,432,11431,1802,2069,435,50,24,2,10,6,527,16261
+2011,38148,Counted,Manual count,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,721,299,11495,2164,1603,407,22,14,1,11,5,460,16021
+2011,38267,Counted,Manual count,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,1348,1706,26494,283,3812,630,97,53,20,21,33,854,33149
+2011,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,678,620,11359,848,2432,348,45,30,9,16,13,461,15720
+2011,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,495,414,5620,1296,1128,426,55,93,13,5,19,611,9069
+2011,46189,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,2035,1060,11932,1328,2573,753,92,59,7,7,28,946,17839
+2011,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,1080,356,11932,1598,2017,629,69,63,0,12,10,783,16686
+2011,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,907,478,7924,509,1756,384,50,167,4,19,14,638,11305
+2011,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,772,297,10346,2056,1458,344,44,13,1,8,8,418,14575
+2011,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,757,1315,30390,1781,5334,1405,121,148,20,16,95,1805,40625
+2011,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,553,369,8135,436,1462,242,32,51,0,4,8,337,10739
+2011,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,704,599,17967,1350,2046,469,42,20,14,4,10,559,22521
+2011,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,844,1569,10665,1050,2245,396,22,21,7,8,5,459,15988
+2011,48543,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,1619,1523,21629,1016,4264,927,221,109,46,20,72,1395,29827
+2011,56619,Counted,Manual count,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,133,273,8915,163,1422,223,29,56,4,1,0,313,11086
+2011,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,1159,902,18847,2048,2656,723,88,149,28,17,28,1033,25486
+2011,57754,Counted,Manual count,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,779,1031,29239,1219,5188,1080,154,357,5,7,44,1647,38324
+2011,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,203,431,2690,287,1301,347,52,33,0,4,4,440,5149
+2011,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,296,361,8656,1008,1879,536,61,17,9,1,4,628,12532
+2011,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,584,547,12858,435,2447,229,61,57,9,1,2,359,16646
+2011,73561,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,26,1628,65849,208,12125,3050,270,725,20,168,778,5011,84821
+2011,73563,Counted,Dependent on a neighbouring counted link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,490,585,13079,640,3073,575,124,121,111,125,209,1265,18642
+2011,73564,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,781,588,15534,509,1787,314,43,22,5,12,9,405,18823
+2011,73565,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,1560,1022,19180,152,6012,2206,114,195,7,38,104,2664,29030
+2011,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,1134,442,10552,684,1906,398,35,11,2,5,0,451,14035
+2011,74529,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,11,1756,83298,429,17203,3280,543,1222,89,98,455,5687,108373
+2011,74530,Counted,Manual count,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,0,2802,90008,577,16896,3890,631,1457,188,421,454,7041,117324
+2011,74906,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,235,869,45087,804,7523,1306,104,332,0,15,50,1807,56090
+2011,79992,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,185100,Graham Road,Dalston Lane,0.3,0.19,547,57,650,1649,126,64,3,1,2,0,0,70,2552
+2011,80388,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1208,PA,533620,182930,A10/A5201,Weymouth Terrace,0.6,0.37,1484,1330,10798,1016,3942,579,144,169,5,8,16,921,18007
+2012,6190,Counted,Manual count,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,5196,1890,13515,2484,3492,945,156,155,0,28,61,1344,22724
+2012,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,553,470,13826,2417,1994,439,126,59,4,20,38,686,19392
+2012,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,1048,812,16334,1031,2834,529,71,61,9,15,46,731,21742
+2012,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,270,386,10343,1084,3024,365,50,65,3,9,6,499,15336
+2012,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,2028,1640,14727,1208,4005,1039,113,116,12,18,46,1343,22924
+2012,8064,Counted,Manual count,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,436,302,15738,700,3493,537,59,39,8,5,5,654,20888
+2012,8475,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,5185,3013,28786,1043,7649,1254,192,402,41,81,78,2049,42540
+2012,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,1297,1029,9715,1372,2889,869,109,31,1,6,4,1020,16025
+2012,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,1431,579,13481,1500,2104,675,42,52,2,5,20,796,18461
+2012,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,954,597,12540,2160,2261,732,71,62,2,7,14,888,18446
+2012,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,1672,1420,13157,980,2530,686,108,87,11,19,4,914,19001
+2012,18046,Counted,Manual count,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,554,179,7191,1383,1671,206,20,35,13,18,23,314,10738
+2012,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,946,789,15227,2081,2428,618,62,55,5,9,30,778,21303
+2012,18456,Estimated,Estimated from nearby links,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,553,938,6811,575,1368,259,14,20,4,4,5,306,9997
+2012,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,2217,1291,8033,1431,3184,392,81,74,12,22,18,598,14538
+2012,26646,Counted,Manual count,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,1109,376,18581,1346,3884,890,101,282,11,20,265,1569,25756
+2012,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,950,275,7533,2729,1734,201,22,0,0,5,0,227,12499
+2012,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,1292,995,17182,1401,3582,1007,102,158,5,20,66,1357,24518
+2012,28092,Counted,Dependent on a neighbouring counted link,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,182,493,25329,934,3674,852,47,274,59,34,71,1337,31767
+2012,28212,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,2039,2487,18369,110,5818,754,201,172,38,59,80,1304,28088
+2012,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,472,760,3592,439,1042,149,29,21,2,3,5,210,6044
+2012,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,2603,856,9599,1491,2299,463,66,63,24,19,12,646,14891
+2012,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,669,537,22802,2146,3247,797,107,53,5,25,21,1008,29740
+2012,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,5059,1323,7444,2675,1888,611,54,114,6,11,13,809,14140
+2012,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,872,495,8244,472,1712,520,34,51,0,11,7,623,11546
+2012,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,466,515,8641,356,1675,505,51,69,1,4,8,638,11825
+2012,36668,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,281,281,15717,1006,2414,662,27,15,5,12,6,727,20145
+2012,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,1081,411,11057,1899,2003,458,57,28,2,10,6,561,15930
+2012,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,741,284,11119,2280,1551,428,25,17,1,11,5,487,15722
+2012,38267,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,1385,1623,25628,298,3689,663,110,63,16,21,35,907,32145
+2012,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,697,590,10988,893,2354,366,51,36,7,16,14,489,15314
+2012,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,509,394,5436,1365,1092,448,62,110,10,5,20,656,8944
+2012,46189,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,2091,1008,11542,1399,2490,792,104,70,5,7,30,1009,17449
+2012,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,1110,339,11542,1684,1952,662,78,75,0,12,11,837,16354
+2012,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,932,455,7665,536,1700,404,57,198,3,19,15,696,11051
+2012,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,793,283,10008,2166,1411,362,50,15,1,8,8,445,14312
+2012,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,778,1251,29396,1876,5163,1478,137,176,16,16,101,1923,39610
+2012,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,568,351,7869,459,1415,255,36,61,0,4,8,364,10458
+2012,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,723,570,17379,1422,1980,494,48,24,11,4,11,590,21942
+2012,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,867,1493,10316,1106,2173,417,25,25,5,8,5,485,15573
+2012,48543,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,1663,1449,20922,1070,4127,975,251,129,36,20,76,1487,29055
+2012,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,137,260,8623,172,1376,235,33,66,3,1,0,338,10769
+2012,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,1191,858,18231,2158,2571,761,100,177,22,17,30,1106,24923
+2012,57754,Counted,Manual count,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,182,493,25329,934,3674,852,47,274,59,34,71,1337,31767
+2012,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,209,410,2602,302,1259,365,59,39,0,4,4,471,5045
+2012,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,304,343,8373,1062,1819,564,69,20,7,1,4,666,12263
+2012,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,600,520,12437,458,2368,241,69,68,7,1,2,388,16172
+2012,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,0,1859,59160,726,13900,3265,189,504,107,260,773,5098,80744
+2012,73563,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,503,557,12651,674,2974,605,141,144,86,124,222,1321,18177
+2012,73564,Counted,Manual count,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,875,376,11474,570,2057,430,18,0,0,0,1,449,14926
+2012,73565,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,1603,972,18553,160,5819,2321,129,231,5,38,110,2835,28339
+2012,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,1165,421,10207,721,1845,419,40,13,2,5,0,478,13671
+2012,74529,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,2562,88885,635,16497,2487,381,804,96,205,565,4537,113116
+2012,74530,Counted,Manual count,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,0,2224,89529,607,18710,4552,849,1122,117,400,1234,8274,119344
+2012,74906,Counted,Manual count,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,276,621,29432,967,6811,1104,179,306,14,23,58,1684,39515
+2012,80388,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1208,PA,533620,182930,A10/A5201,Weymouth Terrace,0.6,0.37,1525,1265,10445,1070,3815,609,163,201,4,8,17,1002,17598
+2013,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,4950,1739,13425,2625,3520,971,172,179,0,29,68,1420,22729
+2013,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,527,433,13734,2554,2010,451,140,69,3,21,43,726,19456
+2013,6632,Counted,Manual count,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,2050,1227,23408,1043,2150,563,45,59,17,14,24,722,28550
+2013,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,257,356,10275,1146,3048,375,55,76,3,9,7,525,15349
+2013,7716,Counted,Manual count,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,3233,1360,15086,962,2898,658,115,387,2,12,35,1209,21514
+2013,8064,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,416,278,15634,740,3521,552,66,45,7,5,5,681,20853
+2013,8475,Counted,Manual count,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,6704,3728,29546,1303,6525,1262,191,334,13,35,78,1914,43017
+2013,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,1235,948,9650,1450,2912,893,121,36,1,6,5,1061,16021
+2013,16616,Counted,Manual count,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,1690,939,12220,1038,2385,582,65,20,4,3,19,693,17275
+2013,16621,Counted,Manual count,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,682,259,12103,2501,2646,879,147,131,0,20,22,1198,18708
+2013,17689,Counted,Manual count,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,1802,853,7206,711,2540,416,63,348,8,2,4,842,12152
+2013,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,528,164,7143,1462,1684,211,22,41,11,18,26,329,10782
+2013,18336,Counted,Manual count,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,1704,998,18029,1625,2967,452,57,62,2,19,29,621,24240
+2013,18456,Estimated,Estimated from nearby links,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,355,972,8264,545,1486,290,13,9,2,2,1,317,11584
+2013,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,2113,1188,7980,1512,3209,403,89,85,10,23,20,631,14521
+2013,26646,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,1057,346,18458,1423,3915,915,112,327,9,21,298,1681,25822
+2013,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,906,253,7483,2883,1748,207,24,0,0,5,0,236,12604
+2013,27239,Counted,Manual count,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,1554,1174,13075,1625,3701,944,80,63,0,23,109,1220,20794
+2013,28092,Counted,Dependent on a neighbouring counted link,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,384,919,25772,833,6092,439,49,230,13,9,25,764,34381
+2013,28212,Counted,Manual count,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,2448,2405,20658,557,4226,1050,155,289,0,43,109,1646,29491
+2013,28381,Counted,Manual count,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,196,349,2453,653,678,109,20,3,0,0,9,140,4274
+2013,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,2480,788,9536,1575,2317,476,73,73,20,20,13,674,14890
+2013,36186,Counted,Manual count,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,1022,839,27499,1825,3712,728,65,93,7,19,12,925,34800
+2013,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,4177,1269,7163,2601,1969,647,62,136,6,14,18,883,13886
+2013,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,831,455,8190,499,1726,534,38,59,0,11,8,651,11520
+2013,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,444,474,8584,376,1689,519,57,80,1,4,10,670,11792
+2013,36668,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,267,258,15612,1063,2433,680,30,18,4,12,7,752,20119
+2013,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,1030,378,10984,2006,2018,470,63,33,1,10,7,585,15972
+2013,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,706,262,11045,2409,1564,440,28,19,1,11,6,505,15785
+2013,38267,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,1320,1494,25457,315,3719,681,122,73,13,22,39,950,31935
+2013,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,664,543,10915,944,2372,376,57,41,6,17,15,512,15286
+2013,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,485,363,5400,1443,1100,461,69,128,8,5,23,694,9000
+2013,46189,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,1992,928,11465,1478,2510,814,116,81,4,7,33,1056,17438
+2013,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,1057,312,11465,1779,1968,680,87,87,0,12,12,878,16402
+2013,46659,Counted,Manual count,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,307,125,9355,756,2214,426,41,187,11,20,39,724,13173
+2013,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,756,260,9941,2289,1422,372,55,18,1,8,10,464,14376
+2013,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,741,1152,29201,1983,5203,1520,152,203,13,17,113,2018,39557
+2013,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,541,323,7817,485,1426,262,40,70,0,4,10,386,10437
+2013,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,689,525,17264,1503,1996,507,53,27,9,4,12,613,21900
+2013,48540,Counted,Manual count,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,643,1729,14652,895,2642,470,22,15,9,3,4,523,20442
+2013,48543,Counted,Manual count,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,1874,1951,18219,1127,4909,714,117,400,22,39,43,1335,27540
+2013,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,130,239,8566,181,1387,241,36,77,3,1,0,358,10732
+2013,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,1135,790,18110,2280,2591,782,111,205,18,18,33,1166,24937
+2013,57754,Counted,Manual count,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,384,919,25772,833,6092,439,49,230,13,9,25,764,34381
+2013,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,199,377,2585,320,1269,375,65,45,0,4,5,495,5046
+2013,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,290,316,8317,1122,1833,580,77,23,6,1,5,691,12280
+2013,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,572,479,12355,484,2387,248,77,78,6,1,2,412,16117
+2013,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,0,2346,74451,394,14594,2951,357,955,58,282,743,5346,97131
+2013,73563,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,480,512,12567,713,2998,622,156,166,71,130,249,1394,18184
+2013,73564,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,834,346,11398,602,2073,442,20,0,0,0,1,463,14883
+2013,73565,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,1527,895,18430,169,5865,2386,143,268,4,40,124,2965,28324
+2013,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,1110,387,10139,762,1859,430,44,15,1,5,0,496,13643
+2013,74529,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,1648,67335,551,18773,1775,477,1157,7,260,502,4179,92485
+2013,74530,Counted,Manual count,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,0,2301,66532,328,18606,1539,328,731,73,194,496,3360,91127
+2013,74906,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,263,572,29237,1022,6865,1134,199,355,12,24,65,1789,39484
+2013,80388,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1208,PA,533620,182930,A10/A5201,Weymouth Terrace,0.6,0.37,1453,1165,10376,1131,3846,626,181,232,3,8,19,1070,17587
+2014,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,5327,1784,13624,2553,3587,854,164,168,0,25,66,1278,22826
+2014,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,567,444,13938,2484,2048,397,133,65,3,17,42,656,19570
+2014,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,2206,1258,23755,1014,2190,495,43,56,16,12,23,645,28863
+2014,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,277,365,10427,1114,3106,330,53,71,2,8,7,471,15483
+2014,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,3479,1395,15310,936,2953,579,109,364,2,10,34,1098,21691
+2014,8064,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,447,285,15866,720,3588,486,62,43,6,4,5,607,21066
+2014,8475,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,7213,3823,29985,1268,6650,1111,182,314,12,30,76,1725,43450
+2014,16176,Counted,Manual count,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,3625,962,7093,1355,1956,408,28,19,5,2,1,463,11829
+2014,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,1818,963,12401,1010,2431,512,62,18,4,3,18,617,17422
+2014,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,734,266,12283,2433,2696,773,140,123,0,17,21,1074,18752
+2014,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,1939,874,7313,692,2589,366,60,327,7,2,4,767,12234
+2014,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,568,169,7249,1422,1716,186,21,38,10,16,26,296,10851
+2014,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,1834,1024,18297,1580,3024,398,54,59,2,16,28,556,24481
+2014,18456,Estimated,Estimated from nearby links,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,382,996,8387,530,1514,255,12,8,2,2,1,281,11708
+2014,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,2273,1219,8098,1471,3271,355,85,80,9,19,20,568,14626
+2014,26646,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,1137,355,18732,1384,3989,805,106,307,8,18,288,1533,25992
+2014,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,974,260,7594,2805,1781,182,23,0,0,4,0,209,12649
+2014,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,1672,1204,13269,1580,3772,831,76,60,0,19,106,1092,20917
+2014,28092,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,413,943,26154,811,6208,386,46,216,11,8,24,692,34807
+2014,28212,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,2634,2466,20964,542,4307,924,148,272,0,36,105,1485,29764
+2014,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,211,358,2489,636,691,96,19,3,0,0,8,126,4300
+2014,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,2668,808,9677,1532,2361,419,69,68,18,17,13,604,14983
+2014,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,1099,860,27907,1775,3783,641,62,88,6,16,12,825,35150
+2014,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,4191,1292,7407,2520,2051,643,67,144,6,12,19,890,14161
+2014,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,894,467,8311,485,1759,470,36,56,0,10,8,579,11601
+2014,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,478,486,8711,366,1721,457,54,75,1,3,9,599,11883
+2014,36668,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,288,265,15844,1034,2479,599,29,17,3,10,7,665,20288
+2014,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,1108,388,11147,1952,2057,414,60,31,1,9,7,522,16065
+2014,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,760,269,11209,2344,1594,387,26,18,1,10,6,448,15863
+2014,38267,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,1420,1532,25835,306,3790,600,116,68,12,18,38,852,32316
+2014,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,714,557,11076,918,2418,331,54,39,5,14,15,458,15428
+2014,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,521,372,5480,1404,1121,405,66,120,8,4,22,625,9002
+2014,46189,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,2144,952,11635,1438,2558,717,110,76,4,6,32,946,17529
+2014,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,1138,320,11635,1731,2005,599,83,81,0,10,12,785,16476
+2014,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,330,128,9493,736,2256,375,39,176,10,17,38,654,13267
+2014,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,813,267,10089,2227,1449,327,53,17,1,7,9,414,14445
+2014,47247,Counted,Manual count,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,1434,1415,24408,1653,5787,1405,129,155,71,47,92,1898,35161
+2014,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,583,331,7933,472,1453,230,38,66,0,3,9,347,10537
+2014,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,742,538,17520,1462,2034,446,50,26,8,3,12,546,22100
+2014,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,692,1773,14870,871,2692,414,21,14,8,3,4,464,20670
+2014,48543,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,2017,2001,18489,1097,5002,629,112,376,20,32,42,1210,27799
+2014,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,140,245,8693,177,1414,212,35,72,2,1,0,323,10851
+2014,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,1221,810,18378,2218,2640,688,105,193,16,15,32,1050,25096
+2014,57754,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,413,943,26154,811,6208,386,46,216,11,8,24,692,34807
+2014,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,214,387,2623,311,1293,330,62,43,0,3,5,443,5058
+2014,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,312,324,8441,1092,1868,510,73,22,5,1,5,616,12341
+2014,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,615,491,12538,471,2433,218,73,74,5,1,2,373,16306
+2014,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,0,2070,72102,421,15569,2501,290,474,159,339,371,4133,94296
+2014,73563,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,516,525,12754,693,3055,547,149,156,64,109,241,1267,18294
+2014,73564,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,898,355,11567,586,2113,389,19,0,0,0,1,409,15030
+2014,73565,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,1643,918,18703,165,5977,2100,137,252,4,33,120,2646,28408
+2014,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,1195,397,10290,741,1895,379,42,14,1,4,0,441,13763
+2014,74529,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,2015,64817,304,21533,2727,540,720,358,293,387,5026,93695
+2014,74530,Counted,Manual count,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,0,2309,61796,398,15728,3709,124,559,50,412,279,5132,85364
+2014,74906,Counted,Manual count,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,309,1035,32762,939,8151,1230,90,220,34,48,37,1659,44546
+2014,80388,Counted,Manual count,London,Hackney,A1208,PA,533620,182930,A10/A5201,Weymouth Terrace,0.6,0.37,4707,1290,8850,988,2866,574,46,170,6,15,13,824,14817
+2014,84097,Estimated,Estimated from nearby links,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,0,828,28841,168,6228,1000,116,190,63,136,148,1653,37718
+2015,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,5386,1776,13828,2618,3519,813,169,160,0,27,73,1243,22983
+2015,6629,Counted,Manual count,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,1544,807,16761,3033,3125,618,47,64,16,6,15,765,24492
+2015,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,2231,1253,24110,1040,2149,471,44,53,21,13,26,629,29180
+2015,6634,Counted,Manual count,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,486,353,10277,966,1659,276,29,27,5,6,11,355,13609
+2015,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,3518,1388,15538,959,2898,551,112,347,3,11,38,1061,21845
+2015,8064,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,452,284,16103,738,3521,463,64,41,9,5,6,586,21231
+2015,8475,Counted,Manual count,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,7388,3976,27772,1425,7045,2015,161,495,80,63,70,2882,43100
+2015,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,3665,958,7199,1389,1920,388,29,18,6,3,1,445,11910
+2015,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,1839,959,12586,1036,2385,487,64,18,5,3,20,597,17562
+2015,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,742,265,12466,2494,2646,736,144,117,0,18,23,1039,18910
+2015,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,1961,870,7422,709,2540,349,62,312,10,2,5,738,12280
+2015,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,574,168,7357,1458,1684,177,21,36,13,17,28,293,10960
+2015,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,1855,1019,18570,1620,2967,379,56,56,3,17,31,541,24717
+2015,18456,Estimated,Estimated from nearby links,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,386,992,8512,543,1486,243,13,8,3,2,1,270,11802
+2015,26182,Counted,Manual count,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,4988,876,7511,1666,2092,296,32,62,9,11,7,418,12562
+2015,26646,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,1150,353,19011,1419,3914,766,109,293,11,20,317,1516,26214
+2015,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,985,258,7708,2876,1748,173,23,0,0,5,0,201,12791
+2015,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,1691,1198,13467,1620,3701,791,78,57,0,21,116,1064,21050
+2015,28092,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,417,939,26544,831,6091,367,48,206,16,8,27,672,35077
+2015,28212,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,2663,2455,21277,555,4226,879,152,259,0,40,116,1446,29959
+2015,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,213,357,2526,652,678,91,20,3,0,0,9,123,4336
+2015,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,2698,805,9822,1571,2317,399,71,65,24,18,14,592,15106
+2015,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,1111,856,28323,1820,3712,610,64,84,8,18,13,797,35508
+2015,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,3953,1343,7835,2363,1970,599,67,135,7,12,18,838,14349
+2015,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,904,465,8435,497,1726,448,37,53,0,11,9,557,11680
+2015,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,484,484,8841,375,1689,435,55,71,1,4,10,576,11965
+2015,36668,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,291,264,16080,1060,2433,570,30,16,5,11,8,639,20477
+2015,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,1121,386,11313,2001,2018,394,62,30,2,10,8,504,16222
+2015,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,768,267,11376,2403,1564,369,27,17,1,11,6,431,16041
+2015,38267,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,1436,1525,26220,314,3719,571,119,65,16,20,42,833,32612
+2015,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,722,554,11242,942,2372,315,55,37,7,15,17,447,15557
+2015,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,527,370,5562,1439,1100,386,68,115,10,5,24,607,9079
+2015,46189,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,2168,948,11809,1475,2510,682,113,73,6,7,36,916,17657
+2015,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,1150,318,11809,1774,1968,570,85,78,0,11,13,757,16626
+2015,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,334,128,9635,754,2214,357,40,167,14,18,41,638,13368
+2015,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,822,266,10239,2283,1422,312,54,16,1,8,10,400,14610
+2015,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,1450,1408,24773,1695,5679,1337,133,148,96,51,101,1865,35420
+2015,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,589,330,8051,484,1426,219,39,63,0,4,10,335,10627
+2015,48418,Counted,Manual count,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,1091,694,13612,1477,2645,427,40,37,7,6,10,526,18954
+2015,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,699,1765,15092,893,2642,394,21,14,11,3,5,447,20838
+2015,48543,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,2039,1991,18765,1124,4908,598,115,358,27,36,46,1180,27969
+2015,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,142,244,8823,181,1387,202,36,69,3,1,0,311,10946
+2015,56661,Counted,Dependent on a neighbouring counted link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,1509,952,11614,2047,2804,602,56,234,36,24,22,973,18391
+2015,57754,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,417,939,26544,831,6091,367,48,206,16,8,27,672,35077
+2015,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,216,385,2662,319,1269,314,64,41,0,4,5,428,5063
+2015,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,315,323,8567,1119,1833,486,75,21,7,1,5,595,12436
+2015,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,622,489,12725,483,2387,207,75,70,7,1,3,363,16448
+2015,73561,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,1,2336,63233,514,15964,2982,256,626,127,277,480,4748,86795
+2015,73563,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,522,523,12944,711,2998,521,153,149,88,120,266,1295,18471
+2015,73564,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,907,353,11740,601,2073,370,19,0,0,0,1,391,15158
+2015,73565,Counted,Dependent on a neighbouring counted link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,4019,2567,16734,362,4835,1282,111,172,48,50,44,1707,26206
+2015,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,1208,395,10443,760,1859,361,43,14,2,5,0,424,13881
+2015,74529,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,2323,79080,397,21640,3929,390,818,100,237,334,5808,109248
+2015,74530,Counted,Manual count,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,0,2062,64185,476,15287,3810,40,544,27,635,131,5188,87198
+2015,74906,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,313,1030,33251,963,7999,1171,92,210,46,53,41,1613,44855
+2015,80388,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1208,PA,533620,182930,A10/A5201,Weymouth Terrace,0.6,0.37,4759,1284,8982,1013,2812,546,48,162,9,17,14,795,14885
+2015,84097,Counted,Manual count,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,998,535,17262,618,3607,1027,72,191,24,154,138,1605,23626
+2016,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,5571,1905,13542,2768,3630,799,159,225,0,27,83,1293,23139
+2016,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,1597,865,16415,3208,3223,607,44,90,16,6,16,780,24492
+2016,6632,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,2307,1344,23612,1100,2217,463,41,75,22,13,29,643,28916
+2016,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,502,379,10064,1022,1711,271,28,38,5,6,12,361,13537
+2016,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,3638,1490,15217,1014,2989,541,106,486,3,11,43,1190,21900
+2016,8064,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,468,304,15770,780,3631,455,60,57,9,5,7,592,21078
+2016,8475,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,7641,4267,27198,1507,7267,1980,151,694,81,63,79,3049,43287
+2016,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,3791,1027,7050,1469,1980,382,27,25,6,3,1,444,11971
+2016,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,1902,1029,12326,1095,2460,479,60,25,6,3,23,595,17505
+2016,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,768,284,12209,2638,2729,723,135,164,0,18,27,1068,18927
+2016,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,2028,934,7269,750,2620,343,58,437,10,2,5,855,12428
+2016,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,594,180,7205,1542,1737,174,20,51,13,17,32,308,10972
+2016,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,1918,1093,18186,1714,3060,372,52,78,3,17,35,558,24611
+2016,18456,Estimated,Estimated from nearby links,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,399,1064,8336,574,1533,239,12,11,3,2,1,268,11775
+2016,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,5159,939,7356,1762,2157,291,31,86,9,11,9,437,12652
+2016,26646,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,1190,379,18619,1500,4037,753,103,410,11,20,360,1657,26192
+2016,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,1019,277,7548,3041,1803,170,22,0,0,5,0,197,12867
+2016,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,1749,1286,13189,1714,3817,777,74,80,0,22,132,1084,21089
+2016,28092,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,432,1007,25996,879,6283,361,45,289,16,9,30,750,34915
+2016,28212,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,2754,2634,20838,587,4359,864,143,363,0,40,131,1542,29960
+2016,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,220,383,2474,689,699,90,18,4,0,0,10,122,4368
+2016,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,2791,863,9619,1662,2390,392,67,92,25,18,16,610,15143
+2016,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,1150,919,27739,1924,3828,599,60,117,9,18,15,818,35228
+2016,36187,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,4089,1441,7673,2499,2032,588,63,189,7,12,21,881,14526
+2016,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,935,499,8261,526,1780,440,35,74,0,11,10,570,11635
+2016,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,500,519,8658,397,1742,427,52,100,1,4,12,596,11912
+2016,36668,Counted,Manual count,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,613,477,18098,996,3360,330,49,45,3,18,10,456,23387
+2016,36669,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,1159,414,11079,2116,2082,387,58,41,2,10,9,507,16198
+2016,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,794,287,11141,2541,1613,362,25,24,1,11,7,431,16013
+2016,38267,Counted,Manual count,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,2305,2178,17399,462,5560,457,118,168,61,68,47,919,26518
+2016,38434,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,747,595,11010,996,2447,310,52,52,7,15,19,455,15502
+2016,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,545,397,5447,1522,1135,379,64,161,10,5,27,646,9147
+2016,46189,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,2242,1017,11565,1559,2589,670,107,102,6,7,40,932,17662
+2016,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,1190,342,11565,1876,2029,560,80,109,0,12,14,775,16587
+2016,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,345,137,9436,798,2283,351,37,235,14,19,47,703,13357
+2016,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,850,285,10028,2414,1467,306,51,22,1,8,12,400,14594
+2016,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,1500,1511,24261,1792,5857,1314,125,207,98,52,115,1910,35332
+2016,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,609,354,7885,512,1471,215,37,88,0,4,12,356,10578
+2016,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,1119,745,13331,1562,2728,420,37,51,7,6,11,533,18898
+2016,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,723,1894,14780,944,2725,387,20,19,11,3,5,445,20788
+2016,48543,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,2109,2137,18377,1189,5062,588,108,502,28,36,52,1314,28080
+2016,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,147,262,8641,191,1431,199,34,97,3,1,0,333,10858
+2016,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,1560,1022,11374,2165,2892,591,53,328,37,24,25,1058,18511
+2016,57754,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,432,1007,25996,879,6283,361,45,289,16,9,30,750,34915
+2016,57755,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,224,413,2607,337,1309,309,60,57,0,4,6,436,5103
+2016,58160,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,326,346,8390,1184,1890,477,71,29,7,1,6,591,12401
+2016,73558,Counted,Dependent on a neighbouring counted link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,1178,307,9134,578,1956,133,20,23,6,1,6,189,12162
+2016,73561,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,1,2507,61927,543,16466,2930,241,879,130,280,544,5003,86446
+2016,73563,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,540,561,12677,752,3092,512,144,209,90,121,301,1376,18457
+2016,73564,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,939,379,11497,635,2138,364,18,0,0,0,2,384,15034
+2016,73565,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,4156,2755,16389,383,4987,1260,105,241,50,50,49,1755,26269
+2016,73566,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,1249,424,10227,803,1918,354,41,19,2,5,0,420,13793
+2016,74529,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,0,2492,77447,420,22320,3861,367,1147,102,239,379,6095,108774
+2016,74530,Counted,Manual count,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,2,1740,66995,375,18454,1363,260,467,75,91,332,2588,90151
+2016,74906,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,324,1105,32564,1018,8250,1150,87,295,47,53,47,1678,44616
+2016,80388,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1208,PA,533620,182930,A10/A5201,Weymouth Terrace,0.6,0.37,4922,1378,8796,1071,2901,537,45,227,9,17,16,850,14995
+2016,84097,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,1032,574,16906,654,3720,1009,67,268,25,155,156,1680,23533
+2017,6190,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533470,182230,A1202,A1209,0.1,0.06,5441,1975,13538,2657,3600,786,169,193,0,27,81,1256,23025
+2017,6629,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534880,186000,Downs Rd,Lea Bridge Rd,0.3,0.19,1560,897,16410,3079,3197,597,47,77,15,6,16,758,24341
+2017,6632,Counted,Manual count,London,Hackney,A105,PA,532000,187600,A503,LA Boundary,0.4,0.25,1671,1247,24046,1160,5129,407,46,16,21,14,16,519,32102
+2017,6634,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,533000,187960,A503,LA Boundary,1,0.62,491,392,10061,981,1697,267,29,33,4,6,12,352,13483
+2017,7716,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533330,182670,A1202,A10/A1208,0.2,0.12,3554,1544,15213,974,2964,532,112,417,2,11,42,1117,21810
+2017,8064,Counted,Automatic counter,London,Hackney,A102,PA,536000,185157,A106,A107,1.6,0.99,453,315,15701,746,3578,449,64,48,8,4,7,580,20920
+2017,8475,Counted,Manual count,London,Hackney,A5201,PA,532929,182545,A501,A1202,0.2,0.12,5841,4340,34606,1261,8928,1056,152,323,44,53,45,1672,50808
+2017,16176,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533540,185000,A104,Evering Rd,1.3,0.81,3703,1065,7048,1410,1963,375,29,21,6,3,1,435,11922
+2017,16616,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533980,184900,A1207,A107,0.9,0.56,1858,1066,12322,1051,2439,471,64,21,5,3,22,586,17465
+2017,16621,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534860,184000,A106,A106,0.5,0.31,750,294,12205,2532,2706,711,144,141,0,18,26,1040,18778
+2017,17689,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A5201,PA,533150,182610,A1202,A1202,0.3,0.19,1981,968,7267,720,2598,337,62,375,9,2,5,789,12342
+2017,18046,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534800,185199,A104,A107 Mare St,0.3,0.19,580,187,7203,1480,1723,171,21,44,12,17,31,296,10889
+2017,18336,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533650,187000,A10 Rectory Rd,A107 Clapton Common,1.1,0.68,1874,1133,18181,1645,3035,366,56,67,3,17,34,542,24536
+2017,18456,Estimated,Estimated from nearby links,London,Hackney,A1200,PA,532740,182750,City Road,Vestry Srreet,0.3,0.19,390,1103,8334,551,1520,235,13,9,2,2,1,263,11771
+2017,26182,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533450,182500,A1209,A1208/A5201,0.4,0.25,5039,974,7354,1691,2139,286,32,74,8,11,8,421,12579
+2017,26646,Counted,Manual count,London,Hackney,A104,PA,535000,186220,A107 Lower Clapton Rd,LA Boundary,0.8,0.5,1109,693,15906,828,4346,395,58,27,18,16,6,520,22293
+2017,26651,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535050,185300,A107 Mare St,A102,0.3,0.19,995,287,7546,2919,1788,167,23,0,0,5,0,195,12736
+2017,27239,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532000,187400,A1201,A105,0.9,0.56,1708,1332,13185,1645,3786,764,78,68,0,22,129,1061,21008
+2017,28092,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536654,184727,A12,A12/A115,0.1,0.06,422,1044,25988,844,6230,355,48,248,14,8,30,703,34809
+2017,28212,Counted,Manual count,London,Hackney,A1202,PA,533360,182270,A10,A1202 Curtain Rd,0.3,0.19,2839,2384,18548,312,5266,609,158,130,45,50,35,1028,27538
+2017,28381,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532700,182820,City Road,East Road,0.3,0.19,215,397,2473,662,694,88,20,3,0,0,10,121,4346
+2017,28535,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533500,184780,LA Boundary,A10 Kingsland High St,0.1,0.06,2726,895,9616,1595,2370,385,71,78,23,18,15,591,15067
+2017,36186,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533680,188000,A107,LA Boundary,0.3,0.19,1123,952,27730,1847,3796,589,64,101,8,18,15,794,35120
+2017,36187,Counted,Automatic counter,London,Hackney,A10,PA,533430,182100,LA Boundary,A1202 Commercial Street,0.2,0.12,6469,2419,12390,3887,3266,938,109,259,10,20,32,1369,23331
+2017,36663,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,534730,185500,A107,A107,0.8,0.5,914,517,8258,505,1765,432,37,64,0,11,10,553,11599
+2017,36667,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,183720,A107,A1205,0.9,0.56,489,538,8656,381,1727,420,55,86,1,4,11,577,11879
+2017,36668,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534550,187000,A104 roundabout,A10,2.2,1.37,598,494,18093,956,3332,325,52,39,3,18,10,446,23321
+2017,36669,Counted,Automatic counter,London,Hackney,A107,PA,534950,184500,Well St,Graham Rd,0.8,0.5,1064,403,10387,1906,1935,358,58,33,1,9,8,467,15098
+2017,38148,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534874,185000,A1207,A104,0.4,0.25,776,297,11138,2439,1599,356,27,21,1,11,7,422,15896
+2017,38267,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533124,182475,A1202 Curtain Rd,A5201,0.4,0.25,2251,2257,17394,444,5514,450,125,144,55,68,45,887,26496
+2017,38434,Counted,Manual count,London,Hackney,A10,PA,533950,186110,A10 Stoke Newington High St,B111,1,0.62,1029,703,12102,671,3217,150,29,17,3,2,1,203,16896
+2017,38435,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1207,PA,534000,184800,B108,A107,1,0.62,533,412,5445,1461,1125,373,68,138,9,5,27,619,9063
+2017,46189,Counted,Automatic counter,London,Hackney,A10,PA,533480,184000,A1208/A5201,A104,2.1,1.3,2045,982,10795,1397,2401,621,105,81,5,6,37,855,16431
+2017,46656,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A104,PA,533700,184800,A10,A1207,0.4,0.25,1162,354,11561,1801,2012,551,85,93,0,12,14,754,16483
+2017,46659,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,535000,184140,A107,A102,1.5,0.93,337,142,9433,766,2264,345,40,201,13,19,46,663,13268
+2017,46660,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,535000,185740,A102,A104,0.6,0.37,831,295,10025,2318,1455,301,54,19,1,8,11,394,14486
+2017,47247,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532500,187730,A105,A107,0.8,0.5,1465,1566,24254,1721,5808,1292,133,178,88,52,112,1854,35202
+2017,48129,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536805,185028,A12/A115,A12,1,0.62,595,367,7882,491,1459,212,39,76,0,4,11,342,10541
+2017,48418,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A10,PA,533700,186680,B111 Northwold Rd,A10 Stoke Newington High St,0.2,0.12,1093,772,13327,1499,2705,413,40,44,7,6,11,520,18822
+2017,48540,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1200,PA,532840,183000,Vestry St,B102,0.9,0.56,706,1963,14775,907,2702,380,21,16,10,3,5,436,20783
+2017,48543,Counted,Manual count,London,Hackney,A501,PA,532467,182779,LA Boundary,A1200,0.5,0.31,1684,1790,17346,1074,4477,608,77,156,60,48,41,991,25679
+2017,56619,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536000,184140,A1205,A106 Wick Rd,1.1,0.68,143,271,8638,184,1419,195,36,83,3,1,0,318,10830
+2017,56661,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A107,PA,534848,183562,LA Boundary,Victoria Park Road,0.1,0.06,1524,1059,11370,2078,2868,581,56,281,33,24,24,1000,18376
+2017,57754,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,536538,184718,A106 Victoria Park Rd,A12,0.2,0.12,422,1044,25988,844,6230,355,48,248,14,8,30,703,34809
+2017,57755,Counted,Manual count,London,Hackney,A1202,PA,533265,182510,A1202 Great Eastern St,A5201,0.3,0.19,271,437,3296,212,1897,125,21,19,14,6,1,186,6029
+2017,58160,Counted,Manual count,London,Hackney,A10,PA,533610,186380,Evering Road,Rectory Road,0.7,0.43,1059,554,10416,746,2279,150,28,10,9,3,5,205,14200
+2017,73558,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1205,PA,535710,183850,LA Boundary,A106,0.2,0.12,1150,318,9131,554,1939,131,22,20,5,1,6,184,12126
+2017,73561,Counted,Automatic counter,London,Hackney,A12,PA,537400,185480,A106,LA Boundary,0.1,0.06,1,2965,70610,597,18686,3297,292,862,133,318,604,5507,98365
+2017,73563,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A503,PA,532736,187950,A107,LA Boundary,0.1,0.06,527,582,12673,721,3066,503,153,179,81,121,294,1330,18372
+2017,73564,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A105,PA,532360,186640,LA boundary,A503,2.3,1.43,917,393,11494,610,2120,357,19,0,0,0,2,378,14996
+2017,73565,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1202,PA,533505,182140,LA Boundary,A10,0.1,0.06,4060,2855,16384,368,4946,1239,111,207,45,50,48,1700,26252
+2017,73566,Counted,Automatic counter,London,Hackney,A1209,PA,533545,182280,A10,LA Boundary,0.1,0.06,1380,488,11751,889,2218,406,52,20,2,6,0,485,15832
+2017,74529,Counted,Dependent on a neighbouring counted link,London,Hackney,A12,PA,536820,184500,A106,LA Boundary,0.4,0.25,1,2298,77396,327,20104,2850,369,768,97,61,475,4620,104745
+2017,74530,Counted,Automatic counter,London,Hackney,A12,PA,536692,185063,A106,A106,1.1,0.68,1,1688,62731,337,17140,1255,258,375,63,85,303,2340,84237
+2017,74906,Counted,Manual count,London,Hackney,A106,PA,536325,184749,Victoria Park Road,Cassland Road,0.2,0.12,392,1311,36067,908,10535,706,113,343,47,52,33,1294,50114
+2017,80388,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A1208,PA,533620,182930,A10/A5201,Weymouth Terrace,0.6,0.37,4808,1428,8793,1028,2877,528,48,194,8,17,15,810,14936
+2017,84097,Estimated,Estimated using previous year's AADF on this link,London,Hackney,A106,PA,537470,185700,A12,LA Boundary,0.4,0.25,1036,558,16885,636,3937,1039,70,278,25,155,161,1727,23743

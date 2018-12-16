@@ -1,0 +1,945 @@
+AADFYear,CP,Estimation_method,Estimation_method_detailed,Region,LocalAuthority,Road,RoadCategory,Easting,Northing,StartJunction,EndJunction,LinkLength_km,LinkLength_miles,PedalCycles,Motorcycles,CarsTaxis,BusesCoaches,LightGoodsVehicles,V2AxleRigidHGV,V3AxleRigidHGV,V4or5AxleRigidHGV,V3or4AxleArticHGV,V5AxleArticHGV,V6orMoreAxleArticHGV,AllHGVs,AllMotorVehicles
+2000,6071,Counted,Manual count,London,Tower Hamlets,A12,TA,538180,181800,A13,A11,2.1,1.3,30,1130,57030,499,11467,2245,337,704,168,521,213,4188,74314
+2000,6201,Counted,Manual count,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,1020,1481,38506,524,7178,1339,130,97,145,63,76,1850,49539
+2000,6216,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,TA,538200,181030,A1206,A102,0.2,0.12,482,4286,37360,613,1596,4472,3089,183,286,87,19,8136,51991
+2000,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,562,563,16416,785,2920,452,34,48,23,8,6,571,21255
+2000,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,318,469,14891,644,451,1338,1197,57,32,8,0,2632,19087
+2000,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,114,361,7244,130,1543,439,34,22,9,15,8,527,9805
+2000,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,TA,536100,181139,A126,A101,0.2,0.12,417,1323,25335,432,811,2755,1684,137,90,72,1,4739,32640
+2000,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,320,438,5667,413,381,818,500,33,25,47,0,1423,8322
+2000,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,72,48,17493,0,3317,511,1072,486,138,626,0,2833,23691
+2000,16203,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,TA,536500,181120,A101,A1261,0.8,0.5,248,1443,31570,763,4291,1081,85,71,42,76,59,1414,39481
+2000,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,239,951,14250,124,3314,912,45,27,44,20,9,1057,19696
+2000,17498,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1208,PA,534000,183100,A10/A5201,A107,1.7,1.06,292,820,18025,787,3232,572,29,53,46,16,26,742,23606
+2000,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,620,1835,16665,360,769,2394,1825,46,43,17,0,4325,23954
+2000,18467,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,581,3872,39070,226,1861,4244,2940,213,307,69,5,7778,52807
+2000,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,423,371,17503,1344,2711,902,65,95,105,22,21,1210,23139
+2000,18736,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,93,1705,19362,336,3767,622,186,293,53,127,110,1391,26561
+2000,19035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,TA,537150,180780,A1206,A1203,0.5,0.31,189,817,18389,801,4122,641,80,50,10,13,19,813,24942
+2000,26217,Counted,Manual count,London,Tower Hamlets,A13,TA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,356,4044,62064,765,12404,1452,536,742,397,264,360,3751,83028
+2000,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,91,188,2983,51,833,154,7,4,7,4,0,176,4231
+2000,27582,Counted,Manual count,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,774,335,11537,278,2397,280,26,4,12,7,3,332,14879
+2000,27917,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,TA,537550,183276,A11,B142,0.5,0.31,21,1166,49298,647,8962,2661,316,645,110,123,126,3981,64054
+2000,28521,Counted,Manual count,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,463,1223,37564,962,5359,1473,38,10,9,11,0,1541,46649
+2000,28878,Counted,Manual count,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,93,128,8732,313,875,146,8,7,9,16,8,194,10242
+2000,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,318,5303,40618,670,7149,2162,170,398,89,110,69,2998,56738
+2000,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,TA,537000,181040,A1261,A1206,1.3,0.81,197,1188,16152,1132,3747,534,46,96,52,103,123,954,23173
+2000,37619,Counted,Manual count,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,813,743,12877,264,2433,651,39,28,27,1,13,759,17076
+2000,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,311,1015,12984,826,2628,680,42,25,13,21,35,816,18269
+2000,39035,Counted,Manual count,London,Tower Hamlets,A1203,TA,536066,180909,A126/A101,A1206,1.3,0.81,11,5195,59732,935,6491,1590,247,637,64,175,186,2899,75252
+2000,46218,Counted,Manual count,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,190,915,26161,671,4547,904,133,119,80,135,44,1415,33709
+2000,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,106,610,6909,30,1607,193,21,24,4,2,2,246,9402
+2000,48161,Counted,Manual count,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,858,2490,21511,164,5107,1325,125,120,50,70,25,1715,30987
+2000,48814,Counted,Manual count,London,Tower Hamlets,A1261,TA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,112,2070,58842,766,11622,1752,366,631,138,317,241,3445,76745
+2000,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,TA,537030,180900,A13,A1206,0.3,0.19,448,680,19234,1044,3997,394,125,95,21,23,39,697,25652
+2000,49035,Counted,Manual count,London,Tower Hamlets,A1261,TA,537950,180570,A1261,A1206,0.9,0.56,133,5697,59810,665,13130,2470,287,783,98,139,90,3867,83169
+2000,56175,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,405,1314,28417,443,6083,1336,107,103,39,59,47,1691,37948
+2000,56506,Counted,Manual count,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,326,465,16381,654,3307,712,31,18,11,25,13,810,21617
+2000,56909,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,689,5109,32815,962,8609,1113,208,178,85,79,129,1792,49287
+2000,58445,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,48,730,25846,487,6309,988,121,187,70,144,122,1632,35004
+2000,58446,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,TA,538450,181080,A102,A1263,0.6,0.37,216,1201,31880,369,7417,2105,215,508,104,229,290,3451,44318
+2000,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,140,558,14722,332,2763,446,180,69,40,29,26,790,19165
+2000,70002,Counted,Manual count,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,160,777,15431,345,3391,521,36,64,19,27,27,694,20638
+2000,70003,Counted,Manual count,London,Tower Hamlets,A1203,TA,537100,180730,A1206,A1261,0.6,0.37,78,3784,36216,568,8795,2136,531,332,245,179,158,3581,52944
+2000,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,431,1739,27082,656,4125,1685,161,149,41,62,26,2124,35726
+2000,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,TA,538410,180850,LA Boundary,A13,1,0.62,11,3165,62457,668,11545,3033,345,878,278,679,311,5524,83359
+2000,73821,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A115,PA,537270,184510,LA Boundary,LA Boundary,0.8,0.5,103,208,8988,234,2045,460,75,120,24,59,24,762,12237
+2000,73961,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,33,773,29529,151,4813,203,0,0,0,0,0,203,35469
+2000,74527,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,TA,537300,183460,B142,B142,0.3,0.19,21,1166,49298,647,8962,2661,316,645,110,123,126,3981,64054
+2000,74528,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,TA,537000,184000,LA Boundary,B142,1,0.62,0,1672,65652,269,12289,2952,288,592,270,526,236,4864,84746
+2000,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,20,651,25457,332,5239,934,154,383,62,218,131,1882,33561
+2000,74905,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,470,1411,19219,778,3031,608,45,52,41,49,15,810,25249
+2000,75425,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,TA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,168,2840,60846,722,13359,2106,268,951,169,438,266,4198,81965
+2000,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,TA,538930,181200,Aspen Way,A13,0.5,0.31,56,1035,29422,382,5811,876,183,316,69,158,120,1722,38372
+2000,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,TA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,56,1035,29422,382,5811,876,183,316,69,158,120,1722,38372
+2001,6071,Counted,Manual count,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,31,1095,49087,346,11490,2642,342,739,245,515,510,4993,67011
+2001,6201,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,1162,1648,37620,522,7336,1334,152,99,133,56,89,1863,48989
+2001,6216,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,549,4770,36501,611,1631,4454,3608,186,263,78,23,8612,52125
+2001,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,640,627,16038,782,2984,450,40,48,21,7,7,573,21004
+2001,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,363,522,14549,642,461,1332,1398,58,29,7,0,2824,18998
+2001,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,129,402,7077,129,1577,438,40,22,8,13,9,530,9715
+2001,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,475,1473,24752,430,828,2744,1967,139,83,64,1,4998,32481
+2001,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,365,487,5537,411,389,814,584,33,23,42,0,1496,8320
+2001,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,82,54,17091,0,3390,509,1252,494,127,562,0,2944,23479
+2001,16203,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,283,1606,30843,760,4386,1077,100,73,39,69,69,1427,39022
+2001,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,272,1058,13922,124,3387,908,53,27,40,18,11,1057,19548
+2001,17498,Counted,Manual count,London,Tower Hamlets,A1208,PA,534000,183100,A10/A5201,A107,1.7,1.06,515,1002,18082,551,3433,694,85,84,7,11,6,887,23955
+2001,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,706,2042,16282,359,786,2384,2132,47,39,15,0,4617,24086
+2001,18467,Counted,Manual count,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,320,3581,47862,1084,7797,1528,172,487,89,110,75,2461,62785
+2001,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,481,413,17100,1339,2770,898,76,97,96,20,25,1212,22834
+2001,18736,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,106,1898,18917,334,3850,620,217,297,49,114,129,1426,26425
+2001,19035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,215,909,17966,798,4213,639,94,50,10,11,22,826,24712
+2001,26217,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,405,4501,60637,762,12677,1446,626,754,365,237,423,3851,82428
+2001,27581,Counted,Manual count,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,340,212,1584,15,450,248,18,5,3,3,1,278,2539
+2001,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,881,372,11272,276,2449,278,30,4,11,7,3,333,14702
+2001,27917,Counted,Manual count,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,30,1667,84730,464,14604,2709,281,707,177,442,282,4598,106063
+2001,28521,Counted,Manual count,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,1402,2672,28042,611,4293,1921,37,56,9,9,4,2036,37654
+2001,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,106,142,8531,311,894,146,10,7,8,14,9,194,10072
+2001,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,266,3044,40446,642,7731,2414,227,307,328,227,114,3617,55480
+2001,36218,Counted,Manual count,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,233,749,20771,692,3427,920,62,50,88,168,163,1451,27090
+2001,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,927,827,12580,262,2487,649,45,28,25,1,16,764,16920
+2001,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,354,1130,12685,823,2686,677,49,25,12,19,41,823,18147
+2001,39035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,13,5782,58358,931,6634,1583,289,648,59,157,218,2954,74659
+2001,46218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,216,1019,25559,669,4647,900,155,121,74,121,51,1422,33316
+2001,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,121,679,6750,30,1642,193,25,24,4,2,2,250,9351
+2001,48161,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,978,2772,21016,164,5219,1319,146,122,46,63,29,1725,30896
+2001,48814,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,127,2304,57489,763,11877,1745,427,642,126,285,283,3508,75941
+2001,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,510,756,18792,1040,4085,392,146,97,20,21,46,722,25395
+2001,49035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,53,2793,58911,629,11147,1402,222,625,254,202,196,2901,76381
+2001,56175,Counted,Manual count,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,589,1387,24745,393,4854,939,97,238,36,42,51,1403,32782
+2001,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,371,518,16005,652,3380,709,36,18,10,23,15,811,21366
+2001,56909,Counted,Manual count,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,313,3901,42679,511,7670,1402,158,295,71,103,82,2111,56872
+2001,58445,Counted,Manual count,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,63,497,26675,324,4424,1028,108,136,74,209,158,1713,33633
+2001,58446,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,246,1337,31147,367,7580,2096,251,516,95,205,341,3504,43935
+2001,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,159,622,14383,330,2824,444,210,70,37,26,31,818,18977
+2001,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,183,864,15076,344,3466,519,42,65,18,24,32,700,20450
+2001,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,89,4211,35383,566,8989,2128,621,338,224,161,185,3657,52806
+2001,70193,Counted,Manual count,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,491,1935,26459,653,4216,1678,188,151,38,56,30,2141,35404
+2001,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,8,4157,57499,503,14854,3662,367,929,241,638,327,6164,83177
+2001,73821,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A115,PA,537270,184510,LA Boundary,LA Boundary,0.8,0.5,117,232,8781,234,2090,458,88,122,22,53,28,771,12108
+2001,73961,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,38,860,28850,151,4919,203,0,0,0,0,0,203,34983
+2001,74527,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,30,1667,84730,464,14604,2709,281,707,177,442,282,4598,106063
+2001,74528,Counted,Manual count,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,1861,64142,267,12559,2940,336,602,248,472,276,4874,83703
+2001,74545,Counted,Manual count,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,23,724,24872,331,5354,930,180,389,57,196,154,1906,33187
+2001,74905,Counted,Manual count,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,535,1570,18777,775,3098,606,53,53,38,44,18,812,25032
+2001,75425,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,192,3161,59446,720,13653,2098,313,966,155,393,311,4236,81216
+2001,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,64,1152,28745,382,5938,873,214,321,62,142,142,1754,37971
+2001,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,64,1152,28745,382,5938,873,214,321,62,142,142,1754,37971
+2002,6071,Counted,Manual count,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,50,1379,63412,455,10690,2125,450,769,342,364,497,4547,80483
+2002,6201,Counted,Manual count,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,453,1574,41270,618,5432,1012,121,164,21,29,45,1392,50286
+2002,6216,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,559,4470,34457,702,1520,3933,3445,178,226,64,23,7869,49018
+2002,6636,Counted,Manual count,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,213,415,18495,744,2666,479,45,25,28,23,16,616,22936
+2002,7540,Counted,Manual count,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,308,338,15396,593,1671,250,198,47,9,11,12,527,18525
+2002,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,132,376,6681,148,1470,387,38,21,7,11,9,473,9148
+2002,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,483,1380,23366,494,771,2423,1878,133,72,53,1,4560,30571
+2002,8754,Counted,Manual count,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,467,179,7124,466,1232,145,41,22,3,19,75,305,9306
+2002,16188,Counted,Manual count,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,1937,1993,23648,871,4631,911,90,158,30,28,17,1234,32377
+2002,16203,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,288,1505,29116,873,4088,951,96,69,34,57,71,1278,36860
+2002,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,277,991,13142,142,3157,802,51,26,34,15,11,939,18371
+2002,17498,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1208,PA,534000,183100,A10/A5201,A107,1.7,1.06,524,939,17069,633,3199,613,81,80,6,9,6,795,22635
+2002,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,719,1913,15370,412,733,2105,2036,45,33,12,0,4231,22659
+2002,18467,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,326,3355,45182,1245,7267,1349,165,465,76,90,77,2222,59271
+2002,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,490,387,16143,1539,2581,793,72,92,82,17,26,1082,21732
+2002,18736,Counted,Manual count,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,58,1833,29400,440,4916,1134,234,598,24,163,134,2287,38876
+2002,19035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,219,851,16960,917,3927,564,90,48,8,9,22,741,23396
+2002,26217,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,412,4217,57242,875,11815,1277,598,721,312,194,437,3539,77688
+2002,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,346,199,1495,17,419,219,17,5,3,2,1,247,2377
+2002,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,897,349,10641,317,2282,245,29,4,10,5,3,296,13885
+2002,27917,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,30,1562,79986,534,13611,2392,269,675,151,362,292,4141,99834
+2002,28521,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,2121,1926,27210,964,4613,1039,33,25,11,5,4,1117,35830
+2002,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,108,133,8053,357,833,129,10,7,7,11,9,173,9549
+2002,29037,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,271,2852,38181,738,7206,2132,217,294,280,186,118,3227,52204
+2002,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,238,701,19608,796,3194,812,59,48,76,138,169,1302,25601
+2002,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,944,775,11876,301,2318,573,43,26,21,1,16,680,15950
+2002,38270,Counted,Manual count,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,532,1476,16319,688,3208,719,46,56,25,16,13,875,22566
+2002,39035,Counted,Manual count,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,40,7183,52646,750,9582,2101,451,826,115,126,187,3806,73967
+2002,46218,Counted,Manual count,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,477,1963,23880,723,4568,1565,263,227,88,42,58,2243,33377
+2002,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,123,636,6372,35,1530,171,24,23,4,2,2,226,8799
+2002,48161,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,996,2598,19839,188,4864,1164,139,117,39,51,29,1539,29028
+2002,48814,Counted,Manual count,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,36,2192,63705,851,7953,1732,286,602,112,120,257,3109,77810
+2002,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,519,708,17740,1195,3807,346,140,93,17,17,48,661,24111
+2002,49035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,95,6764,52357,395,13973,2401,298,926,246,129,203,4203,77692
+2002,56175,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,599,1299,23360,452,4524,829,93,228,31,35,53,1269,30904
+2002,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,377,485,15109,749,3150,626,34,17,9,19,15,720,20213
+2002,56909,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,319,3655,40289,587,7148,1238,151,281,61,84,85,1900,53579
+2002,58445,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,64,466,25181,372,4124,908,103,130,64,171,163,1539,31682
+2002,58446,Counted,Manual count,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,186,1047,33491,515,6511,1683,279,650,85,290,419,3406,44970
+2002,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,162,582,13578,380,2632,393,201,67,32,21,32,746,17918
+2002,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,186,810,14232,395,3231,458,40,62,15,20,33,628,19296
+2002,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,91,3946,33401,651,8377,1879,594,323,191,132,191,3310,49685
+2002,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,500,1813,24977,750,3929,1482,180,144,33,46,31,1916,33385
+2002,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,3,2112,58171,579,16302,2706,335,920,253,771,623,5608,82772
+2002,73821,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A115,PA,537270,184510,LA Boundary,LA Boundary,0.8,0.5,123,147,9544,180,1746,371,72,151,15,5,14,628,12245
+2002,73961,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,38,805,27234,174,4584,180,0,0,0,0,0,180,32977
+2002,74527,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,30,1562,79986,534,13611,2392,269,675,151,362,292,4141,99834
+2002,74528,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,1744,60550,307,11705,2596,321,575,212,387,285,4376,78682
+2002,74545,Counted,Manual count,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,85,1825,23905,347,5304,1183,216,610,71,86,101,2267,33648
+2002,74905,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,545,1471,17725,890,2887,535,51,51,33,36,19,725,23698
+2002,75425,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,195,2961,56117,827,12725,1852,299,923,132,322,321,3849,76479
+2002,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,18,1096,31853,426,3976,866,143,301,56,60,128,1554,38905
+2002,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,18,1096,31853,426,3976,866,143,301,56,60,128,1554,38905
+2003,6071,Counted,Manual count,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,21,1291,58011,369,12853,3000,469,1206,347,651,621,6294,78818
+2003,6201,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,528,1640,39866,747,5802,901,114,159,23,29,57,1283,49338
+2003,6216,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,652,4658,33286,848,1623,3500,3238,173,247,65,29,7252,47667
+2003,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,248,432,17866,900,2848,427,42,25,31,23,21,569,22615
+2003,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,360,352,14873,717,1785,222,186,46,10,11,15,490,18217
+2003,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,154,392,6454,179,1570,345,36,20,8,11,11,431,9026
+2003,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,564,1438,22572,598,824,2157,1765,130,79,54,1,4186,29618
+2003,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,545,186,6882,563,1315,129,39,22,3,19,95,307,9253
+2003,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,2260,2077,22844,1053,4946,810,84,153,33,28,21,1129,32049
+2003,16203,Counted,Manual count,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,407,2129,22875,923,5735,659,78,82,45,77,47,988,32650
+2003,17496,Counted,Manual count,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,335,1055,11196,131,2988,639,37,65,32,22,9,804,16174
+2003,17498,Counted,Manual count,London,Tower Hamlets,A1208,PA,534000,183100,A10/A5201,A107,1.7,1.06,1008,657,18011,719,3310,550,91,96,13,23,8,781,23478
+2003,18436,Counted,Manual count,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,1506,2111,17853,731,4210,528,31,36,44,18,10,667,25572
+2003,18467,Counted,Manual count,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,1084,4742,34289,1136,7144,1455,339,609,101,111,141,2756,50067
+2003,18497,Counted,Manual count,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,694,987,14789,2025,2793,661,74,39,67,29,33,903,21497
+2003,18736,Counted,Manual count,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,47,2661,25967,259,5822,924,164,286,47,103,93,1617,36326
+2003,19035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,255,887,16384,1109,4194,502,84,46,8,9,28,677,23251
+2003,26217,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,480,4394,55296,1057,12619,1137,562,700,341,197,550,3487,76853
+2003,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,404,207,1444,21,447,195,16,5,3,2,1,222,2341
+2003,27582,Counted,Manual count,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,376,244,11638,295,1722,220,37,19,1,2,0,279,14178
+2003,27917,Counted,Manual count,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,14,2867,77417,547,17095,2720,244,680,140,441,452,4677,102603
+2003,28521,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,1172,1708,28872,1312,5341,1114,39,31,8,9,2,1203,38436
+2003,28878,Counted,Manual count,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,454,187,7565,423,905,131,33,12,0,14,5,195,9275
+2003,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,436,6869,33685,613,9363,1747,248,733,70,102,107,3007,53537
+2003,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,278,731,18941,963,3412,723,56,46,83,140,212,1260,25307
+2003,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,1102,808,11473,364,2475,510,40,26,23,1,20,620,15740
+2003,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,621,1538,15764,832,3426,640,43,54,27,16,16,796,22356
+2003,39035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,46,7485,50856,907,10234,1870,424,803,126,128,235,3586,73068
+2003,46218,Counted,Manual count,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,636,3279,22354,684,4713,914,166,450,23,58,23,1634,32664
+2003,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,143,663,6156,42,1634,152,23,22,4,2,2,205,8700
+2003,48161,Counted,Manual count,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,709,2192,23517,276,4618,936,108,128,56,60,55,1343,31946
+2003,48814,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,42,2284,61539,1029,8494,1542,269,585,122,122,323,2963,76309
+2003,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,606,738,17137,1445,4066,308,132,91,18,17,60,626,24012
+2003,49035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,111,7049,50577,477,14923,2137,280,900,269,131,256,3973,76999
+2003,56175,Counted,Manual count,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,972,1515,25509,572,4303,804,137,197,32,36,22,1228,33127
+2003,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,440,506,14596,906,3364,557,32,17,10,19,19,654,20026
+2003,56909,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,372,3808,38919,710,7634,1102,142,273,67,85,107,1776,52847
+2003,58445,Counted,Manual count,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,35,853,32305,292,5203,1073,187,286,69,168,155,1938,40591
+2003,58446,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,217,1091,32352,622,6953,1498,262,632,93,295,527,3307,44325
+2003,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,189,606,13116,460,2811,349,189,65,35,21,40,699,17692
+2003,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,217,844,13748,478,3451,408,38,60,16,20,42,584,19105
+2003,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,106,4112,32266,787,8947,1673,558,314,208,134,241,3128,49240
+2003,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,584,1889,24128,907,4196,1319,169,140,36,47,39,1750,32870
+2003,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,0,3563,70697,453,12137,3137,345,1040,138,352,275,5287,92137
+2003,73821,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A115,PA,537270,184510,LA Boundary,LA Boundary,0.8,0.5,242,174,8818,238,1267,260,69,57,11,19,45,461,10958
+2003,73961,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,200,1422,30019,96,5862,108,13,0,0,0,0,121,37520
+2003,74527,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,14,2867,77417,547,17095,2720,244,680,140,441,452,4677,102603
+2003,74528,Counted,Manual count,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,1416,84837,440,13545,2000,368,739,511,999,845,5462,105700
+2003,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,99,1902,23093,420,5664,1053,203,593,77,87,127,2140,33219
+2003,74905,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,636,1533,17122,1076,3083,476,48,50,36,37,24,671,23485
+2003,75425,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,227,3085,54209,1000,13590,1649,281,897,144,327,404,3702,75586
+2003,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,21,1142,30770,514,4247,771,134,293,61,61,162,1482,38155
+2003,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,21,1142,30770,514,4247,771,134,293,61,61,162,1482,38155
+2004,6071,Counted,Manual count,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,55,1268,67597,684,10083,2992,370,671,246,347,270,4896,84528
+2004,6201,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,560,1724,35840,813,6069,1020,136,197,23,27,64,1467,45913
+2004,6216,Counted,Manual count,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,428,5386,41477,584,7717,1723,218,422,90,120,74,2647,57811
+2004,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,264,454,16062,979,2978,483,50,30,30,21,23,637,21110
+2004,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,381,370,13370,780,1866,252,222,56,9,10,17,566,16952
+2004,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,163,412,5802,194,1642,390,43,26,7,10,13,489,8539
+2004,8489,Counted,Manual count,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,743,2613,17536,773,3641,796,116,75,36,57,30,1110,25673
+2004,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,577,196,6187,613,1377,146,46,26,3,18,106,345,8718
+2004,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,2394,2183,20537,1146,5173,918,101,190,32,25,24,1290,30329
+2004,16203,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,431,2238,20565,1004,5999,747,93,101,45,71,52,1109,30915
+2004,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,355,1109,10065,143,3126,724,44,80,31,20,10,909,15352
+2004,17498,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1208,PA,534000,183100,A10/A5201,A107,1.7,1.06,1067,691,16192,783,3461,623,108,119,12,20,9,891,22018
+2004,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,1595,2218,16050,795,4404,597,38,44,43,16,12,750,24217
+2004,18467,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,1148,4983,30826,1237,7474,1646,406,753,98,101,158,3162,47682
+2004,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,734,1037,13295,2202,2922,748,89,49,65,26,37,1014,20470
+2004,18736,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,50,2796,23345,281,6090,1046,195,354,47,94,105,1841,34353
+2004,19035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,271,932,14729,1206,4387,568,101,58,8,9,31,775,22029
+2004,26217,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,510,4618,49711,1151,13199,1286,673,866,333,179,621,3958,72637
+2004,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,428,218,1298,22,468,221,19,6,3,2,1,252,2258
+2004,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,398,257,10463,320,1801,248,45,24,1,2,0,320,13161
+2004,27917,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,15,3013,69598,595,17882,3078,291,841,137,401,509,5257,96345
+2004,28521,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,1241,1795,25956,1427,5586,1262,47,39,8,8,2,1366,36130
+2004,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,481,196,6801,460,947,149,39,15,0,12,7,222,8626
+2004,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,584,8804,40345,584,9962,2353,208,437,73,76,93,3240,62935
+2004,36218,Counted,Manual count,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,222,1278,15539,841,2573,544,62,46,27,46,38,763,20994
+2004,37619,Counted,Manual count,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,1722,1350,12848,477,2719,595,31,58,4,4,3,695,18089
+2004,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,657,1616,14172,905,3584,724,52,67,27,15,18,903,21180
+2004,39035,Counted,Manual count,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,23,4187,58814,882,6449,2139,321,450,86,91,151,3238,73570
+2004,46218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,673,3447,20095,744,4930,1034,197,555,23,53,26,1888,31104
+2004,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,152,697,5533,46,1709,173,27,28,4,2,2,236,8221
+2004,48161,Counted,Manual count,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,519,1349,22477,254,4432,796,73,61,90,85,56,1161,29673
+2004,48814,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,44,2400,55323,1119,8884,1745,322,723,120,110,365,3385,71111
+2004,48815,Counted,Manual count,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,248,613,18767,779,3020,372,52,22,10,8,3,467,23646
+2004,49035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,155,5483,60266,569,12846,2581,312,525,90,92,145,3745,82909
+2004,56175,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,1029,1592,22933,622,4500,909,164,244,31,32,25,1405,31052
+2004,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,466,531,13121,985,3519,631,39,21,9,17,21,738,18894
+2004,56909,Counted,Manual count,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,435,3984,39014,833,8152,1974,196,234,106,51,121,2682,54665
+2004,58445,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,37,896,29042,319,5442,1215,223,353,67,152,174,2184,37883
+2004,58446,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,230,1147,29084,678,7274,1696,314,781,91,268,595,3745,41928
+2004,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,200,638,11791,500,2940,396,226,80,34,19,45,800,16669
+2004,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,230,887,12360,520,3610,462,45,75,16,18,47,663,18040
+2004,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,113,4322,29006,856,9358,1893,667,388,204,122,271,3545,47087
+2004,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,618,1985,21691,987,4389,1493,202,173,35,42,44,1989,31041
+2004,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,0,3127,65566,664,11900,2233,320,630,222,535,425,4365,85622
+2004,73821,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A115,PA,537270,184510,LA Boundary,LA Boundary,0.8,0.5,257,183,7927,259,1326,295,83,70,11,17,50,526,10221
+2004,73961,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,58,601,30307,83,5586,48,0,0,0,0,0,48,36625
+2004,74527,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,15,3013,69598,595,17882,3078,291,841,137,401,509,5257,96345
+2004,74528,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,1489,76268,478,14169,2264,439,913,501,908,952,5977,98381
+2004,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,105,1999,20759,457,5925,1192,242,733,76,79,143,2465,31605
+2004,74905,Counted,Manual count,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,671,1518,13334,803,2643,427,42,73,15,25,18,600,18898
+2004,75425,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,241,3243,48734,1088,14216,1866,336,1109,141,297,455,4204,71485
+2004,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,22,1200,27662,560,4442,872,161,362,60,55,182,1692,35556
+2004,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,22,1200,27662,560,4442,872,161,362,60,55,182,1692,35556
+2005,6071,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,70,1264,66245,664,10133,3076,370,729,203,285,266,4929,83235
+2005,6201,Counted,Manual count,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,745,1477,30876,879,5366,1302,115,79,67,29,23,1615,40213
+2005,6216,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,552,5371,40648,568,7756,1770,219,458,75,98,72,2692,57035
+2005,6636,Counted,Manual count,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,555,534,16232,781,2954,484,54,26,21,9,5,599,21100
+2005,7540,Counted,Manual count,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,562,381,17791,829,2554,577,79,39,18,11,8,732,22287
+2005,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,210,411,5686,189,1651,401,43,27,6,8,13,498,8435
+2005,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,959,2605,17186,751,3659,819,117,81,29,46,30,1122,25323
+2005,8754,Counted,Manual count,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,495,231,8238,415,1166,202,28,5,0,8,11,254,10304
+2005,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,3091,2176,20126,1113,5199,944,102,206,26,21,24,1323,29937
+2005,16203,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,557,2231,20154,974,6029,767,93,110,37,57,52,1116,30504
+2005,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,459,1105,9864,139,3141,744,45,87,26,16,10,928,15177
+2005,17498,Counted,Manual count,London,Tower Hamlets,A1208,PA,534000,183100,Weymouth Terrace/LA Boundary,A107,1.1,0.68,1537,1298,17073,933,5626,659,67,135,22,11,15,909,25839
+2005,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,2059,2211,15729,772,4426,614,38,48,36,13,11,760,23898
+2005,18467,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,1482,4969,30209,1201,7511,1693,406,816,81,82,157,3235,47125
+2005,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,949,1034,13030,2139,2937,769,89,52,54,21,37,1022,20162
+2005,18736,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,64,2788,22877,273,6120,1074,196,384,39,77,103,1873,33931
+2005,19035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,134,628,22023,235,4116,538,62,79,79,88,53,899,27901
+2005,26217,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,658,4605,48716,1117,13265,1323,674,939,276,146,614,3972,71675
+2005,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,552,217,1272,22,470,227,19,7,3,2,1,259,2240
+2005,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,514,256,10254,311,1810,256,45,26,1,2,0,330,12961
+2005,27917,Counted,Manual count,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,18,2248,80616,808,15203,6220,891,937,30,426,437,8941,107816
+2005,28521,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,1602,1791,25437,1386,5614,1297,47,43,6,7,2,1402,35630
+2005,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,621,196,6665,446,951,153,39,17,0,10,7,226,8484
+2005,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,454,4969,34283,850,7514,1784,223,373,131,96,206,2813,50429
+2005,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,286,1274,15228,816,2586,559,62,50,22,37,38,768,20672
+2005,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,2223,1346,12591,463,2733,612,31,63,3,4,3,716,17849
+2005,38270,Counted,Manual count,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,832,1924,12541,654,3543,801,57,66,24,15,9,972,19634
+2005,39035,Counted,Manual count,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,8,7330,48219,559,12584,3323,405,561,130,134,82,4635,73327
+2005,46218,Counted,Manual count,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,619,2723,22227,1164,5144,1001,116,172,56,73,59,1477,32735
+2005,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,196,694,5423,45,1718,177,27,30,4,2,2,242,8122
+2005,48161,Counted,Manual count,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,861,2102,20324,259,5773,1241,154,145,60,70,70,1740,30198
+2005,48814,Counted,Manual count,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,316,2737,64359,1031,9704,1540,406,454,16,132,243,2791,80622
+2005,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,320,611,18392,756,3036,382,52,24,9,7,3,477,23272
+2005,49035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,200,5466,59060,552,12910,2654,312,570,75,75,144,3830,81818
+2005,56175,Counted,Manual count,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,1958,1649,23679,751,4291,1125,105,113,81,31,22,1477,31847
+2005,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,601,529,12859,956,3536,649,39,22,8,14,21,753,18633
+2005,56909,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,562,3971,38234,809,8193,2030,196,254,88,43,120,2731,53938
+2005,58445,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,47,894,28461,309,5469,1250,223,384,56,124,173,2210,37343
+2005,58446,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,297,1144,28503,658,7310,1743,314,847,76,219,589,3788,41403
+2005,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,258,636,11556,486,2955,407,226,87,29,16,45,810,16443
+2005,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,297,884,12113,505,3628,474,45,81,14,15,46,675,17805
+2005,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,145,4308,28426,832,9405,1946,669,421,169,100,268,3573,46544
+2005,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,798,1980,21257,958,4411,1535,203,188,29,35,44,2034,30640
+2005,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,5,2946,67565,640,13266,3005,402,1405,209,478,343,5842,90259
+2005,73821,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A115,PA,537270,184510,LA Boundary,LA Boundary,0.8,0.5,331,182,7769,251,1333,302,83,76,9,14,50,534,10069
+2005,73961,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,108,680,27987,63,6951,288,0,0,0,0,0,288,35969
+2005,74527,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,18,2248,80616,808,15203,6220,891,937,30,426,437,8941,107816
+2005,74528,Counted,Manual count,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,2190,66745,235,14526,3668,487,780,204,226,470,5835,89531
+2005,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,136,1993,20344,443,5955,1226,244,795,63,65,142,2535,31270
+2005,74905,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,867,1514,13067,780,2657,439,42,79,13,21,18,612,18630
+2005,75425,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,311,3233,47759,1056,14287,1918,336,1203,117,243,451,4268,70603
+2005,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,158,1369,32180,515,4852,770,203,227,8,66,122,1396,40312
+2005,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,158,1369,32180,515,4852,770,203,227,8,66,122,1396,40312
+2006,6071,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,91,1376,68797,726,10742,2928,344,732,198,273,309,4784,86425
+2006,6201,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,968,1607,32067,960,5689,1240,107,79,64,28,27,1545,41868
+2006,6216,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,718,5843,42214,620,8222,1685,203,460,73,94,84,2599,59498
+2006,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,721,581,16858,852,3132,461,50,26,21,9,6,573,21996
+2006,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,729,414,18476,905,2708,548,73,39,18,11,9,698,23201
+2006,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,273,446,5905,206,1749,382,39,28,6,8,15,478,8784
+2006,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,1246,2835,17847,821,3879,779,108,82,29,45,35,1078,26460
+2006,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,644,251,8555,453,1236,193,26,5,0,7,12,243,10738
+2006,16188,Counted,Manual count,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,2077,2412,19510,1517,5375,1032,125,130,7,56,16,1366,30180
+2006,16203,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,723,2428,20929,1065,6392,730,87,111,36,55,60,1079,31893
+2006,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,596,1203,10244,151,3330,708,41,88,25,16,12,890,15818
+2006,17498,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1208,PA,534000,183100,Weymouth Terrace/LA Boundary,A107,1.1,0.68,1996,1412,17731,1019,5963,627,62,136,21,10,17,873,26998
+2006,18436,Counted,Manual count,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,1013,1788,17511,681,5774,1197,66,92,54,31,14,1454,27208
+2006,18467,Counted,Manual count,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,1047,5008,32281,1419,10584,1472,251,469,122,76,141,2531,51823
+2006,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,1231,1125,13531,2335,3114,731,82,53,53,21,43,983,21088
+2006,18736,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,83,3034,23759,298,6488,1023,182,385,37,73,120,1820,35399
+2006,19035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,153,779,18730,179,4166,787,86,81,73,65,36,1128,24982
+2006,26217,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,854,5010,50593,1221,14061,1259,625,944,269,140,713,3950,74835
+2006,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,717,236,1321,24,499,216,18,7,3,1,2,247,2327
+2006,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,667,279,10649,340,1919,243,41,27,1,2,0,314,13501
+2006,27917,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,23,2447,83722,883,16116,5919,826,941,30,409,506,8631,111799
+2006,28521,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,3043,2068,25207,1329,8529,1296,21,10,2,16,2,1347,38480
+2006,28878,Counted,Manual count,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,663,235,9693,517,1529,117,12,3,0,6,6,144,12118
+2006,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,696,5332,39491,779,12334,2986,283,873,83,134,132,4491,62427
+2006,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,372,1386,15815,891,2740,532,58,51,22,36,44,743,21575
+2006,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,2887,1465,13076,505,2897,582,29,63,3,4,3,684,18627
+2006,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,1081,2094,13024,714,3755,762,53,66,23,14,10,928,20515
+2006,39035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,11,7976,50077,611,13340,3163,376,564,127,128,96,4454,76458
+2006,46218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,804,2963,23084,1271,5453,952,107,172,55,71,68,1425,34196
+2006,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,255,755,5632,49,1821,169,25,30,4,2,4,234,8491
+2006,48161,Counted,Manual count,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,1314,1936,22879,342,6561,1365,147,152,70,83,80,1897,33615
+2006,48814,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,409,2979,66839,1125,10287,1465,377,456,15,127,283,2723,83953
+2006,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,416,665,19100,826,3217,364,48,24,9,7,3,455,24263
+2006,49035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,47,4415,66047,798,15777,2326,294,703,141,126,261,3851,90888
+2006,56175,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,2542,1796,24591,820,4549,1071,97,114,79,31,26,1418,33174
+2006,56506,Counted,Manual count,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,606,596,16947,1144,4150,850,79,71,29,27,21,1077,23914
+2006,56909,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,730,4322,39707,884,8685,1932,182,255,85,41,139,2634,56232
+2006,58445,Counted,Manual count,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,158,468,21630,124,3245,881,143,223,50,111,73,1481,26948
+2006,58446,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,385,1244,29601,719,7749,1659,291,851,74,210,683,3768,43081
+2006,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,335,692,12001,530,3133,388,210,88,27,15,52,780,17136
+2006,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,386,963,12579,552,3845,451,42,81,13,15,54,656,18595
+2006,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,188,4688,29522,908,9970,1852,621,423,165,96,311,3468,48556
+2006,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,1036,2154,22076,1046,4676,1461,188,189,28,33,51,1950,31902
+2006,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,6,4140,63367,817,19262,2479,458,1035,265,731,478,5446,93032
+2006,73821,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A115,PA,537270,184510,LA Boundary,LA Boundary,0.8,0.5,430,198,8068,274,1413,288,77,77,9,14,58,523,10476
+2006,73961,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,87,957,26218,42,7537,518,4,0,11,0,0,533,35287
+2006,74527,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,23,2447,83722,883,16116,5919,826,941,30,409,506,8631,111799
+2006,74528,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,2382,69316,257,15398,3490,451,784,199,217,546,5687,93040
+2006,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,176,2168,21129,485,6312,1166,226,799,61,62,164,2478,32572
+2006,74905,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,1125,1647,13570,851,2816,418,39,80,12,20,20,589,19473
+2006,75425,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,328,4878,78889,1020,20008,4685,704,1451,214,566,436,8056,112851
+2006,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,205,1489,33420,563,5144,733,189,228,8,63,141,1362,41978
+2006,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,205,1489,33420,563,5144,733,189,228,8,63,141,1362,41978
+2007,6071,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,90,1409,67972,714,10989,2676,315,736,165,251,307,4450,85534
+2007,6201,Counted,Manual count,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,1355,1970,33739,910,7223,843,125,138,72,84,28,1290,45132
+2007,6216,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,710,5984,41707,610,8410,1540,185,462,60,86,84,2417,59128
+2007,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,713,595,16656,839,3203,421,46,26,17,8,6,524,21817
+2007,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,721,424,18255,891,2770,502,66,39,14,9,9,639,22979
+2007,8284,Counted,Manual count,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,290,570,6353,110,1710,274,31,34,2,4,4,349,9092
+2007,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,1232,2903,17633,807,3968,712,98,82,24,41,35,992,26303
+2007,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,636,257,8452,446,1265,176,24,5,0,6,12,223,10643
+2007,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,2054,2470,19276,1493,5498,943,114,131,6,52,16,1262,29999
+2007,16203,Counted,Manual count,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,864,2592,23459,1460,7406,660,119,107,78,95,38,1097,36014
+2007,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,589,1232,10121,149,3406,647,38,88,21,14,12,820,15728
+2007,17498,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1208,PA,534000,183100,Weymouth Terrace/LA Boundary,A107,1.1,0.68,1973,1446,17518,1003,6100,573,56,137,18,9,17,810,26877
+2007,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,1002,1831,17301,670,5907,1094,60,93,45,29,14,1335,27044
+2007,18467,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,1035,5128,31894,1395,10827,1345,229,472,101,71,141,2359,51603
+2007,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,1217,1152,13370,2299,3184,668,75,53,44,19,43,902,20907
+2007,18736,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,83,3107,23474,293,6637,935,166,389,32,68,120,1710,35221
+2007,19035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,152,797,18504,175,4262,720,79,81,61,59,36,1036,24774
+2007,26217,Counted,Manual count,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,208,2434,63014,1162,10489,3078,1193,1097,925,929,1145,8367,85466
+2007,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,709,242,1306,23,510,197,16,7,2,1,2,225,2306
+2007,27582,Counted,Manual count,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,530,568,13912,409,2618,220,47,55,12,1,2,337,17844
+2007,27917,Counted,Manual count,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,33,3533,81263,1154,21713,3073,529,1244,248,555,545,6194,113857
+2007,28521,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,3009,2117,24905,1307,8725,1185,18,10,1,14,2,1230,38284
+2007,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,656,241,9576,509,1564,107,10,3,0,6,6,132,12022
+2007,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,660,5834,37271,718,10675,2142,265,629,131,149,248,3564,58062
+2007,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,368,1420,15625,877,2804,486,52,51,19,33,44,685,21411
+2007,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,2855,1500,12919,497,2963,533,26,63,3,3,3,631,18510
+2007,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,1069,2144,12868,703,3842,697,49,67,19,13,10,855,20412
+2007,39035,Counted,Manual count,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,160,6718,56835,723,13629,1511,261,802,112,121,155,2962,80867
+2007,46218,Counted,Manual count,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,696,2242,25101,864,6436,1154,129,174,54,43,58,1612,36255
+2007,47580,Counted,Manual count,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,558,700,8283,13,3103,353,47,56,1,1,1,459,12558
+2007,48161,Counted,Manual count,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,1264,2068,23262,372,6008,1089,151,164,13,69,70,1556,33266
+2007,48814,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,405,3051,66037,1108,10524,1339,345,459,13,116,281,2553,83273
+2007,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,411,681,18871,813,3291,332,44,24,7,6,3,416,24072
+2007,49035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,46,4522,65255,785,16140,2126,268,707,118,115,261,3595,90297
+2007,56175,Counted,Manual count,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,1048,1602,20277,926,4651,1136,150,138,87,55,47,1613,29069
+2007,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,600,610,16744,1125,4245,776,72,71,25,25,21,990,23714
+2007,56909,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,721,4425,39231,870,8884,1765,167,256,72,37,139,2436,55846
+2007,58445,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,156,478,21370,122,3320,805,130,224,42,102,72,1375,26665
+2007,58446,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,382,1274,29246,707,7928,1516,267,857,61,194,679,3574,42729
+2007,59036,Counted,Manual count,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,207,944,15620,455,3719,396,66,238,33,28,14,775,21513
+2007,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,381,986,12429,542,3933,413,38,81,11,13,54,610,18500
+2007,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,187,4801,29168,894,10199,1693,567,426,137,88,309,3220,48282
+2007,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,1024,2206,21811,1030,4784,1335,172,190,24,31,50,1802,31633
+2007,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,6,3580,55121,707,16905,2277,357,1385,279,565,395,5258,81571
+2007,73821,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A115,PA,537270,184510,LA Boundary,LA Boundary,0.8,0.5,426,203,7972,270,1445,263,70,77,7,12,58,487,10377
+2007,73961,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,64,924,25824,90,7788,434,6,0,2,0,0,442,35068
+2007,74527,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,33,3533,81263,1154,21713,3073,529,1244,248,555,545,6194,113857
+2007,74528,Counted,Manual count,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,2844,86056,391,18641,4103,536,907,499,449,588,7082,115014
+2007,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,174,2220,20875,476,6458,1066,206,803,50,57,164,2346,32375
+2007,74905,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,1113,1687,13408,838,2881,382,36,80,10,18,20,546,19360
+2007,75425,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,325,4995,77942,1005,20469,4282,643,1460,178,521,434,7518,111929
+2007,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,202,1525,33019,554,5262,670,172,229,6,58,141,1276,41636
+2007,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,202,1525,33019,554,5262,670,172,229,6,58,141,1276,41636
+2008,6071,Counted,Manual count,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,47,1809,56803,641,12246,2932,466,885,460,414,594,5751,77250
+2008,6201,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,1390,2003,33030,924,7215,854,142,148,68,80,30,1322,44494
+2008,6216,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,728,6086,40831,620,8402,1559,211,497,56,82,89,2494,58433
+2008,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,732,605,16306,852,3201,426,52,28,16,8,6,536,21500
+2008,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,740,432,17872,905,2767,507,76,42,14,9,10,658,22634
+2008,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,298,580,6219,112,1709,277,36,36,2,3,4,358,8978
+2008,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,1264,2952,17263,820,3964,721,113,88,22,39,37,1020,26019
+2008,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,653,261,8274,453,1264,179,28,6,0,6,13,232,10484
+2008,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,2108,2512,18871,1517,5493,955,130,141,5,49,17,1297,29690
+2008,16203,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,886,2636,22965,1483,7400,667,135,115,74,90,40,1121,35605
+2008,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,604,1253,9909,151,3403,655,43,95,20,14,12,839,15555
+2008,17498,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1208,PA,534000,183100,Weymouth Terrace/LA Boundary,A107,1.1,0.68,2025,1471,17150,1019,6094,580,64,148,17,9,18,836,26570
+2008,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,1028,1862,16937,681,5901,1107,68,100,42,27,15,1359,26740
+2008,18467,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,1063,5215,31224,1418,10817,1361,262,507,96,66,148,2440,51114
+2008,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,1250,1171,13088,2335,3182,677,86,58,41,18,45,925,20701
+2008,18736,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,85,3159,22981,298,6630,947,189,417,29,64,126,1772,34840
+2008,19035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,142,530,23697,168,3677,749,160,381,25,12,69,1396,29468
+2008,26217,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,214,2475,61690,1180,10479,3114,1360,1180,872,883,1206,8615,84439
+2008,27581,Counted,Manual count,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,1340,93,1511,6,544,76,3,1,0,1,2,83,2237
+2008,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,544,578,13620,415,2615,223,53,59,12,1,2,350,17578
+2008,27917,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,35,3593,79556,1172,21691,3110,603,1338,234,526,575,6386,112398
+2008,28521,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,3087,2153,24382,1328,8716,1199,21,12,1,13,2,1248,37827
+2008,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,673,245,9376,517,1562,108,12,4,0,6,7,137,11837
+2008,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,549,2606,35158,452,5316,1692,355,404,172,128,172,2923,46455
+2008,36218,Counted,Manual count,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,351,814,10940,641,2417,770,108,19,2,10,75,984,15796
+2008,37619,Counted,Manual count,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,1056,468,11177,654,2038,389,30,12,2,5,0,438,14775
+2008,38270,Counted,Manual count,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,877,1012,17999,909,3928,833,79,34,27,7,53,1033,24881
+2008,39035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,164,6832,55641,735,13617,1530,298,863,106,115,163,3075,79900
+2008,46218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,714,2281,24574,878,6429,1169,147,187,50,42,61,1656,35818
+2008,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,572,712,8109,13,3100,357,53,61,1,1,1,474,12408
+2008,48161,Counted,Manual count,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,1076,2196,25091,334,5202,971,121,71,65,36,75,1339,34162
+2008,48814,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,416,3102,64650,1125,10513,1355,393,493,12,111,297,2661,82051
+2008,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,422,693,18475,826,3288,336,51,26,6,6,3,428,23710
+2008,49035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,57,4374,61039,444,9975,1954,482,681,289,143,179,3728,79560
+2008,56175,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,1076,1629,19851,940,4646,1150,171,149,82,52,49,1653,28719
+2008,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,615,620,16392,1144,4242,786,82,76,23,24,22,1013,23411
+2008,56909,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,740,4501,38406,884,8876,1786,190,276,67,35,146,2500,55167
+2008,58445,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,160,487,20922,124,3317,814,148,241,38,97,76,1414,26264
+2008,58446,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,391,1296,28631,719,7920,1535,303,921,57,183,716,3715,42281
+2008,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,213,960,15292,463,3716,401,75,255,31,26,15,803,21234
+2008,70002,Counted,Manual count,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,1619,971,17038,947,2659,541,132,156,4,17,52,902,22517
+2008,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,191,4883,28555,908,10189,1713,646,458,129,84,326,3356,47891
+2008,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,1051,2243,21353,1046,4779,1351,196,204,22,29,53,1855,31276
+2008,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,1,3640,61972,586,16147,1917,372,1855,238,406,578,5366,87711
+2008,73821,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A115,PA,537270,184510,LA Boundary,LA Boundary,0.8,0.5,437,207,7804,274,1443,267,80,83,7,12,61,510,10238
+2008,73961,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,156,1070,26983,13,6762,501,0,0,0,0,0,501,35329
+2008,74527,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,35,3593,79556,1172,21691,3110,603,1338,234,526,575,6386,112398
+2008,74528,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,2893,84249,397,18622,4151,612,975,469,427,620,7254,113415
+2008,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,179,2258,20436,483,6452,1079,235,864,48,55,173,2454,32083
+2008,74905,Counted,Manual count,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,929,1556,10394,1580,2634,700,151,87,11,9,49,1007,17171
+2008,75425,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,332,5080,76305,1020,20448,4333,732,1569,168,495,458,7755,110608
+2008,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,208,1551,32325,563,5257,678,196,247,6,55,148,1330,41026
+2008,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,208,1551,32325,563,5257,678,196,247,6,55,148,1330,41026
+2009,6071,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,47,1758,55269,657,11866,2929,506,919,438,367,592,5751,75301
+2009,6201,Counted,Manual count,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,1037,1342,25151,622,3854,654,147,54,29,14,34,932,31901
+2009,6216,Counted,Manual count,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,567,3414,45077,790,8241,2039,231,303,5,110,246,2934,60456
+2009,6636,Counted,Manual count,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,263,244,10120,675,1673,207,49,15,1,3,14,289,13001
+2009,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,733,420,17389,927,2681,507,82,44,14,8,10,665,22082
+2009,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,296,563,6051,115,1656,277,39,38,2,3,4,363,8748
+2009,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,1252,2870,16796,839,3842,721,123,92,21,35,37,1029,25376
+2009,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,647,254,8051,463,1225,179,31,6,0,5,13,234,10227
+2009,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,2090,2442,18361,1554,5323,954,141,147,5,44,17,1308,28988
+2009,16203,Counted,Manual count,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,817,2239,23070,1084,4770,755,146,89,57,54,84,1185,32348
+2009,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,599,1218,9641,155,3298,654,47,99,19,12,12,843,15155
+2009,17498,Counted,Manual count,London,Tower Hamlets,A1208,PA,534000,183100,Weymouth Terrace/LA Boundary,A107,1.1,0.68,2438,1119,14930,1280,3829,851,117,138,8,17,10,1141,22299
+2009,18436,Counted,Manual count,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,768,922,13389,1108,2261,834,206,79,0,11,24,1154,18834
+2009,18467,Counted,Manual count,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,2176,4910,32108,1341,7556,1825,329,585,63,80,182,3064,48979
+2009,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,1239,1138,12735,2391,3083,677,94,60,39,16,45,931,20278
+2009,18736,Counted,Manual count,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,91,1081,21163,546,3399,1104,154,204,293,87,89,1931,28120
+2009,19035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,140,515,23057,172,3563,749,173,396,24,10,69,1421,28728
+2009,26217,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,212,2405,60025,1208,10155,3111,1477,1226,830,782,1202,8628,82421
+2009,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,1328,90,1470,6,527,76,3,1,0,1,2,83,2176
+2009,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,539,562,13252,425,2534,223,58,61,11,1,2,356,17129
+2009,27917,Counted,Manual count,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,7,1593,87077,1098,14362,3963,511,1185,25,208,651,6543,110673
+2009,28521,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,4464,2175,27137,1239,7006,1286,23,6,7,4,0,1326,38883
+2009,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,667,238,9123,530,1514,108,14,4,0,5,7,138,11543
+2009,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,665,4264,46988,802,11522,1935,240,593,1,72,257,3098,66674
+2009,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,348,791,10644,656,2342,770,117,20,2,9,75,993,15426
+2009,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,1047,455,10876,670,1974,389,33,12,2,5,0,441,14416
+2009,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,869,984,17513,931,3806,832,86,35,26,6,53,1038,24272
+2009,39035,Counted,Manual count,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,577,3374,65338,997,11013,2846,270,285,26,97,308,3832,84554
+2009,46218,Counted,Manual count,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,575,2643,24945,1067,3499,818,100,148,20,15,76,1177,33331
+2009,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,567,692,7890,13,3004,357,58,64,1,1,1,482,12081
+2009,48161,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,1066,2135,24413,342,5041,970,131,73,62,32,75,1343,33274
+2009,48814,Counted,Manual count,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,151,3343,102187,966,12648,2771,330,765,23,40,266,4195,123339
+2009,48815,Counted,Manual count,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,679,737,22838,1281,3588,540,70,76,0,13,25,724,29168
+2009,49035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,15,3710,70661,656,12326,3013,374,591,16,51,283,4328,91681
+2009,56175,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,1066,1583,19315,962,4502,1149,186,155,78,46,49,1663,28025
+2009,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,609,602,15949,1171,4110,786,89,79,22,21,22,1019,22851
+2009,56909,Counted,Manual count,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,1323,4591,38793,716,6921,1792,96,263,48,20,38,2257,53278
+2009,58445,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,159,473,20358,127,3214,814,161,250,36,86,76,1423,25595
+2009,58446,Counted,Manual count,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,217,808,28667,663,6786,2230,274,865,58,80,632,4139,41063
+2009,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,211,933,14879,474,3601,401,81,265,29,24,15,815,20702
+2009,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,1604,944,16578,970,2577,541,144,162,4,15,52,918,21987
+2009,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,189,4746,27784,930,9873,1711,702,476,122,75,325,3411,46744
+2009,70193,Counted,Manual count,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,1837,2687,17741,2300,4640,1036,184,74,35,12,8,1349,28717
+2009,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,3,3550,65988,717,16311,1929,330,945,190,448,491,4333,90899
+2009,73821,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A115,PA,537270,184510,LA Boundary,LA Boundary,0.8,0.5,433,201,7593,280,1398,267,87,87,7,11,61,520,9992
+2009,73961,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,155,1040,26254,13,6552,501,0,0,0,0,0,501,34360
+2009,74527,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,7,1593,87077,1098,14362,3963,511,1185,25,208,651,6543,110673
+2009,74528,Counted,Manual count,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,2261,79519,933,14498,3287,536,764,183,364,829,5963,103174
+2009,74545,Counted,Manual count,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,88,420,14587,280,2611,808,143,283,45,73,138,1490,19388
+2009,74905,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,921,1512,10113,1618,2552,699,164,90,10,8,49,1020,16815
+2009,75425,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,489,2096,79916,998,13651,2848,547,969,275,258,614,5511,102172
+2009,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,76,1672,51094,483,6324,1385,165,382,11,20,133,2096,61669
+2009,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,76,1672,51094,483,6324,1385,165,382,11,20,133,2096,61669
+2010,6071,Counted,Manual count,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,39,1264,94693,424,11079,2598,518,918,12,160,459,4665,112125
+2010,6201,Counted,Manual count,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,1884,1836,38321,1451,6240,834,109,64,0,29,67,1103,48951
+2010,6216,Counted,Manual count,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,525,3473,40946,767,8294,1879,317,383,1,149,236,2965,56445
+2010,6636,Counted,Manual count,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,637,432,12253,744,2839,362,60,36,0,18,41,517,16785
+2010,7540,Counted,Manual count,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,294,378,11738,734,2496,787,62,33,3,17,6,908,16254
+2010,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,327,556,5954,116,1626,290,39,33,2,3,4,371,8623
+2010,8489,Counted,Manual count,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,647,1758,21259,1123,3529,912,101,88,5,16,118,1240,28909
+2010,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,714,252,7922,467,1203,187,31,5,0,5,13,241,10085
+2010,16188,Counted,Manual count,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,1875,1659,14050,1319,3664,799,53,67,0,8,11,938,21630
+2010,16203,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,901,2214,22701,1092,4684,789,146,76,64,48,81,1204,31895
+2010,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,661,1205,9487,156,3239,683,47,85,21,11,12,859,14946
+2010,17498,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1208,PA,534000,183100,Weymouth Terrace/LA Boundary,A107,1.1,0.68,2689,1107,14691,1290,3760,888,117,118,9,16,10,1158,22006
+2010,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,847,912,13175,1117,2220,871,205,68,0,10,23,1177,18601
+2010,18467,Counted,Manual count,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,925,2697,44236,1197,4833,1709,150,261,257,128,235,2740,55703
+2010,18497,Counted,Manual count,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,1179,918,19114,2022,2702,736,83,135,36,17,26,1033,25789
+2010,18736,Counted,Manual count,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,147,1413,28370,674,3626,1057,81,110,181,25,39,1493,35576
+2010,19035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,240,477,25002,201,3239,701,74,79,36,29,52,971,29890
+2010,26217,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,234,2378,59064,1218,9973,3248,1468,1052,927,709,1158,8562,81195
+2010,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,1465,89,1446,6,518,79,3,1,0,1,2,86,2145
+2010,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,594,556,13040,429,2489,233,58,52,12,1,2,358,16872
+2010,27917,Counted,Manual count,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,69,1303,67628,362,16228,2893,472,583,300,120,630,4998,90519
+2010,28521,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,4924,2151,26703,1249,6879,1342,23,5,7,4,0,1381,38363
+2010,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,735,235,8977,534,1487,113,14,4,0,5,7,143,11376
+2010,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,611,3176,36084,823,7342,3397,233,476,104,132,129,4471,51896
+2010,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,384,782,10473,662,2300,804,117,17,2,9,72,1021,15238
+2010,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,1154,450,10702,675,1938,406,33,10,2,5,0,456,14221
+2010,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,959,973,17233,938,3737,869,85,30,29,5,51,1069,23950
+2010,39035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,636,3337,64293,1005,10815,2971,268,245,29,87,297,3897,83347
+2010,46218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,634,2614,24546,1076,3436,854,100,127,23,14,73,1191,32863
+2010,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,626,685,7764,13,2950,373,58,55,1,1,1,489,11901
+2010,48161,Counted,Manual count,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,1587,1039,19452,150,6116,2247,108,176,9,38,98,2676,29433
+2010,48814,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,167,3306,100552,974,12421,2893,328,657,26,36,257,4197,121450
+2010,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,749,729,22473,1291,3524,564,70,65,0,11,24,734,28751
+2010,49035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,61,3745,104410,629,9631,2879,283,589,394,85,140,4370,122785
+2010,56175,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,1175,1566,19006,969,4421,1200,184,133,87,42,47,1693,27655
+2010,56506,Counted,Manual count,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,570,354,13335,1009,2266,527,122,46,9,31,26,761,17725
+2010,56909,Counted,Manual count,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,934,2673,39060,674,5924,1889,136,681,4,83,142,2935,51266
+2010,58445,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,176,468,20032,128,3156,849,160,214,40,78,73,1414,25198
+2010,58446,Counted,Manual count,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,186,599,40126,612,5732,2344,447,335,424,173,201,3924,50993
+2010,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,233,923,14641,477,3536,418,81,227,32,22,15,795,20372
+2010,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,1769,934,16313,978,2531,565,143,139,4,14,50,915,21671
+2010,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,209,4694,27339,938,9696,1786,698,408,136,68,313,3409,46076
+2010,70193,Counted,Manual count,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,1222,1858,21241,2644,4542,979,107,31,1,14,3,1135,31420
+2010,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,0,3135,58854,620,16591,1851,294,944,195,364,457,4105,83305
+2010,73821,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A115,PA,537270,184510,LA Boundary,LA Boundary,0.8,0.5,477,199,7472,282,1373,279,87,75,7,10,59,517,9843
+2010,73961,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,237,1188,26393,4,6174,412,0,0,45,0,0,457,34216
+2010,74527,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,69,1303,67628,362,16228,2893,472,583,300,120,630,4998,90519
+2010,74528,Counted,Manual count,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,105,2069,71370,309,16322,3522,239,749,46,67,258,4881,94951
+2010,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,97,415,14353,282,2564,843,142,243,50,66,133,1477,19091
+2010,74905,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,1016,1495,9951,1631,2506,730,163,77,11,7,47,1035,16618
+2010,75425,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,539,2073,78638,1006,13406,2973,544,831,307,234,592,5481,100604
+2010,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,83,1653,50276,487,6210,1446,164,328,13,18,128,2097,60723
+2010,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,83,1653,50276,487,6210,1446,164,328,13,18,128,2097,60723
+2011,6071,Counted,Manual count,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,7,582,61335,409,12357,2648,729,631,103,382,349,4842,79525
+2011,6201,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,1851,1804,37784,1470,6134,819,116,71,0,29,71,1106,48298
+2011,6216,Counted,Manual count,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,718,2757,35129,834,6307,857,288,169,98,96,109,1617,46644
+2011,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,626,425,12081,753,2791,355,64,40,0,18,44,521,16571
+2011,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,289,372,11574,744,2454,773,65,36,2,17,6,899,16043
+2011,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,321,546,5870,118,1598,285,42,36,2,3,4,372,8504
+2011,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,636,1729,20961,1138,3469,895,107,98,4,16,125,1245,28542
+2011,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,701,248,7811,473,1182,183,33,6,0,5,13,240,9954
+2011,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,1843,1631,13853,1336,3602,785,57,74,0,8,12,936,21358
+2011,16203,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,886,2176,22383,1106,4605,774,155,84,49,48,86,1196,31466
+2011,17496,Counted,Manual count,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,1318,1050,9860,59,2115,267,80,35,1,5,0,388,13472
+2011,17498,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1208,PA,534000,183100,Weymouth Terrace/LA Boundary,A107,1.1,0.68,2643,1088,14486,1306,3696,872,124,131,7,16,10,1160,21736
+2011,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,833,896,12991,1132,2182,855,217,75,0,10,24,1181,18382
+2011,18467,Counted,Manual count,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,915,3757,30152,1054,7134,873,378,619,24,66,103,2063,44160
+2011,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,1159,902,18847,2048,2656,723,88,149,28,17,28,1033,25486
+2011,18736,Counted,Manual count,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,74,1355,25505,361,5047,984,163,256,30,31,84,1548,33816
+2011,19035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,236,469,24652,203,3184,688,79,87,27,29,55,965,29473
+2011,26217,Counted,Manual count,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,515,2669,51664,373,11106,2489,323,891,173,165,314,4355,70167
+2011,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,1440,87,1426,6,509,78,3,1,0,1,2,85,2113
+2011,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,584,547,12858,435,2447,229,61,57,9,1,2,359,16646
+2011,27917,Counted,Manual count,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,0,3058,84140,934,18035,3806,589,608,117,398,536,6054,112221
+2011,28521,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,4840,2114,26330,1265,6762,1318,25,6,5,4,0,1358,37829
+2011,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,723,231,8851,541,1462,111,14,4,0,5,7,141,11226
+2011,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,375,3154,32290,691,8820,1807,171,1281,99,65,130,3553,48508
+2011,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,377,768,10327,670,2261,790,124,18,2,9,76,1019,15045
+2011,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,1134,442,10552,684,1906,398,35,11,2,5,0,451,14035
+2011,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,943,956,16992,950,3673,853,90,33,22,5,54,1057,23628
+2011,39035,Counted,Manual count,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,0,3516,53818,827,10857,2129,326,783,60,37,62,3397,72415
+2011,46218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,623,2570,24202,1090,3378,838,106,141,18,14,77,1194,32434
+2011,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,615,673,7655,13,2900,367,61,61,1,1,1,492,11733
+2011,48161,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,1560,1022,19180,152,6012,2206,114,195,7,38,104,2664,29030
+2011,48814,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,164,3250,99145,987,12209,2840,347,727,20,36,271,4241,119832
+2011,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,736,716,22159,1308,3464,554,74,72,0,11,25,736,28383
+2011,49035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,60,2643,69671,625,13121,3964,485,1999,171,168,235,7022,93082
+2011,56175,Counted,Manual count,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,2159,1371,16836,884,2978,877,69,76,12,27,52,1113,23182
+2011,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,561,348,13149,1023,2227,517,129,51,7,31,27,762,17509
+2011,56909,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,918,2628,38513,683,5824,1855,144,754,3,82,150,2988,50636
+2011,58445,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,174,460,19752,130,3103,833,170,237,30,77,77,1424,24869
+2011,58446,Counted,Manual count,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,391,1004,38717,670,7691,1983,308,952,123,68,627,4061,52143
+2011,59036,Counted,Manual count,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,422,759,15963,305,3033,581,143,235,13,12,66,1050,21110
+2011,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,1739,918,16084,991,2488,555,152,154,3,14,53,931,21412
+2011,70003,Counted,Manual count,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,128,1900,36007,553,7354,1471,175,215,230,154,223,2468,48282
+2011,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,1201,1826,20944,2679,4465,962,113,34,1,14,3,1127,31041
+2011,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,0,2266,58777,432,12981,2799,530,908,52,363,647,5299,79755
+2011,73961,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,233,1168,26023,4,6069,405,0,0,35,0,0,440,33704
+2011,74527,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,0,3058,84140,934,18035,3806,589,608,117,398,536,6054,112221
+2011,74528,Counted,Manual count,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,11,1756,83298,429,17203,3280,543,1222,89,98,455,5687,108373
+2011,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,96,408,14152,286,2521,827,151,269,39,65,140,1491,18858
+2011,74905,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,999,1470,9812,1652,2463,717,172,85,8,7,50,1039,16436
+2011,75425,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,0,2562,65081,161,11736,2263,387,1029,314,126,466,4585,84125
+2011,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,82,1625,49572,493,6105,1420,174,364,10,18,136,2122,59917
+2011,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,82,1625,49572,493,6105,1420,174,364,10,18,136,2122,59917
+2012,6071,Counted,Manual count,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,0,1216,59279,340,11667,2826,401,1262,129,147,420,5184,77686
+2012,6201,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,1902,1716,36548,1549,5937,862,132,84,0,29,75,1182,46932
+2012,6216,Counted,Manual count,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,703,1772,31853,686,6793,2187,377,432,25,61,289,3372,44475
+2012,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,643,404,11686,793,2701,374,73,47,0,18,47,558,16143
+2012,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,297,354,11195,784,2375,813,74,43,2,17,6,955,15663
+2012,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,330,519,5678,124,1547,300,48,43,2,3,4,399,8267
+2012,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,653,1645,20276,1199,3358,942,121,116,3,16,133,1331,27808
+2012,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,720,236,7556,498,1144,193,37,7,0,5,14,256,9690
+2012,16188,Counted,Manual count,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,1394,1005,12018,1521,1948,903,158,150,65,110,76,1462,17954
+2012,16203,Counted,Manual count,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,729,1785,17801,772,4446,880,99,64,0,7,43,1093,25897
+2012,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,1354,999,9538,62,2047,281,91,42,1,5,0,419,13065
+2012,17498,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1208,PA,534000,183100,Weymouth Terrace/LA Boundary,A107,1.1,0.68,2716,1035,14012,1376,3577,918,141,155,5,16,11,1246,21246
+2012,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,856,852,12566,1193,2112,900,246,89,0,10,25,1270,17993
+2012,18467,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,940,3574,29166,1111,6905,919,429,734,19,65,109,2275,43031
+2012,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,1191,858,18231,2158,2571,761,100,177,22,17,30,1106,24923
+2012,18736,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,76,1289,24671,380,4885,1035,185,304,23,31,89,1667,32892
+2012,19035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,242,446,23846,214,3082,724,90,103,21,29,58,1025,28612
+2012,26217,Counted,Manual count,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,489,2651,46530,559,10426,3008,382,1204,220,203,434,5451,65618
+2012,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,1480,83,1379,6,493,82,3,1,0,1,2,90,2051
+2012,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,600,520,12437,458,2368,241,69,68,7,1,2,388,16172
+2012,27917,Counted,Manual count,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,8,2409,69731,747,17521,1816,439,804,47,164,439,3709,94117
+2012,28521,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,3034,1343,18703,1210,5084,1405,57,51,0,2,16,1531,27871
+2012,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,743,220,8562,570,1415,117,16,5,0,5,7,150,10916
+2012,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,223,2812,33002,828,9137,3360,362,1388,80,84,175,5450,51228
+2012,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,387,731,9989,706,2188,831,141,21,2,9,81,1084,14699
+2012,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,1165,421,10207,721,1845,419,40,13,2,5,0,478,13671
+2012,38270,Counted,Manual count,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,588,371,12884,650,3651,553,63,37,0,18,2,673,18229
+2012,39035,Counted,Manual count,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,0,2968,41617,779,8205,2584,422,1560,34,149,385,5134,58703
+2012,46218,Counted,Manual count,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,1118,1343,14980,947,2583,1074,103,305,2,17,23,1525,21378
+2012,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,632,640,7405,14,2807,386,69,72,1,1,1,531,11396
+2012,48161,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,1603,972,18553,160,5819,2321,129,231,5,38,110,2835,28339
+2012,48814,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,169,3092,95903,1040,11817,2988,394,863,16,36,287,4583,116434
+2012,48815,Counted,Manual count,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,941,824,17460,994,3541,402,89,383,33,14,29,950,23769
+2012,49035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,18,3615,55203,377,12001,2713,357,1842,12,146,320,5390,76585
+2012,56175,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,2218,1304,16285,931,2882,923,78,90,9,27,55,1182,22586
+2012,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,576,331,12719,1078,2155,544,146,61,5,31,29,816,17099
+2012,56909,Counted,Manual count,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,263,1260,28502,667,7875,1848,548,1058,92,114,246,3906,42209
+2012,58445,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,179,438,19106,137,3003,877,193,281,23,76,82,1532,24216
+2012,58446,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,402,955,37451,706,7444,2087,349,1129,95,67,665,4393,50949
+2012,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,434,722,15441,321,2936,611,162,279,10,12,70,1144,20564
+2012,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,1787,873,15558,1044,2408,584,172,183,2,14,56,1012,20895
+2012,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,132,1808,34829,583,7118,1548,199,255,178,153,236,2569,46906
+2012,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,1234,1737,20259,2823,4322,1012,128,40,1,14,3,1199,30339
+2012,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,0,2833,47709,778,12930,2339,384,1240,37,493,501,4994,69243
+2012,73961,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,239,1111,25172,4,5874,426,0,0,27,0,0,453,32615
+2012,74527,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,8,2409,69731,747,17521,1816,439,804,47,164,439,3709,94117
+2012,74528,Counted,Manual count,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,2562,88885,635,16497,2487,381,804,96,205,565,4537,113116
+2012,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,99,388,13689,301,2440,870,171,319,30,64,148,1604,18422
+2012,74905,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,1026,1399,9491,1741,2384,754,195,101,6,7,53,1117,16131
+2012,75425,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,0,2601,63330,382,13657,2036,473,1310,150,287,585,4841,84811
+2012,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,84,1546,47951,520,5908,1494,197,431,8,18,144,2292,58217
+2012,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,84,1546,47951,520,5908,1494,197,431,8,18,144,2292,58217
+2013,6071,Counted,Manual count,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,5,1045,65153,453,13336,1899,389,861,48,111,537,3846,83833
+2013,6201,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,1812,1580,36306,1637,5984,886,146,98,0,30,85,1244,46750
+2013,6216,Counted,Manual count,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,714,3050,34188,794,6548,1547,257,485,17,53,213,2572,47152
+2013,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,613,372,11608,838,2723,384,80,55,0,19,52,591,16132
+2013,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,283,326,11121,828,2394,836,82,49,1,18,7,993,15663
+2013,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,314,478,5640,131,1559,308,53,49,1,3,5,420,8229
+2013,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,623,1514,20141,1267,3384,968,134,135,3,17,149,1405,27712
+2013,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,686,217,7505,527,1153,198,41,8,0,5,15,268,9671
+2013,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,1328,926,11938,1607,1964,929,175,173,53,116,86,1531,17966
+2013,16203,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,695,1643,17682,815,4482,905,109,74,0,8,49,1144,25767
+2013,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,1290,920,9474,66,2063,289,101,48,1,5,0,443,12966
+2013,17498,Counted,Manual count,London,Tower Hamlets,A1208,PA,534000,183100,Weymouth Terrace/LA Boundary,A107,1.1,0.68,1861,601,9109,877,2926,573,56,168,11,17,35,860,14373
+2013,18436,Counted,Manual count,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,1304,919,11432,580,3709,572,112,113,0,9,32,837,17476
+2013,18467,Counted,Manual count,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,2293,2613,29410,1735,6567,2258,373,1388,0,135,113,4267,44593
+2013,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,1135,790,18110,2280,2591,782,111,205,18,18,33,1166,24937
+2013,18736,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,72,1187,24507,402,4924,1064,205,352,19,32,100,1773,32792
+2013,19035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,231,411,23688,226,3106,744,99,120,17,30,66,1076,28506
+2013,26217,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,466,2440,46221,591,10509,3092,424,1395,181,213,488,5792,65553
+2013,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,1410,76,1370,7,497,84,4,1,0,1,2,93,2043
+2013,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,572,479,12355,484,2387,248,77,78,6,1,2,412,16117
+2013,27917,Counted,Manual count,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,0,2154,71056,589,17789,2087,527,925,62,173,405,4180,95768
+2013,28521,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,2890,1237,18579,1278,5124,1445,63,60,0,3,17,1587,27805
+2013,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,708,202,8505,602,1426,120,18,5,0,5,8,157,10892
+2013,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,313,2848,35212,752,8349,2361,333,1298,34,47,184,4258,51419
+2013,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,369,673,9923,746,2206,854,156,25,1,9,91,1136,14683
+2013,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,1110,387,10139,762,1859,430,44,15,1,5,0,496,13643
+2013,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,560,342,12799,687,3679,568,70,43,0,18,3,702,18209
+2013,39035,Counted,Manual count,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,16,4620,51444,828,13261,2231,318,1598,19,29,211,4405,74558
+2013,46218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,1066,1236,14880,1001,2604,1104,114,354,2,18,26,1618,21339
+2013,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,602,589,7356,14,2829,397,77,84,1,1,1,560,11349
+2013,48161,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,1527,895,18430,169,5865,2386,143,268,4,40,124,2965,28324
+2013,48814,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,161,2846,95266,1099,11910,3072,436,1000,13,37,323,4880,116002
+2013,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,897,759,17344,1050,3569,413,99,444,27,15,32,1030,23751
+2013,49035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,0,2007,53626,476,14761,3049,571,1114,58,153,400,5345,76215
+2013,56175,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,2114,1201,16177,984,2905,949,87,104,8,28,62,1237,22505
+2013,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,549,305,12635,1139,2173,559,162,70,4,32,32,860,17111
+2013,56909,Counted,Manual count,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,891,3510,32116,898,6781,2664,321,1117,0,155,221,4479,47785
+2013,58445,Counted,Manual count,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,174,320,20088,181,2174,1217,179,1024,15,26,161,2621,25384
+2013,58446,Counted,Manual count,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,56,715,36251,490,5997,982,73,748,24,60,105,1993,45446
+2013,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,413,665,15338,340,2959,628,180,323,8,12,79,1231,20532
+2013,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,1702,804,15455,1103,2427,600,191,212,2,15,63,1083,20872
+2013,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,125,1664,34598,616,7174,1591,220,296,146,160,266,2679,46731
+2013,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,1176,1599,20125,2983,4356,1040,142,47,1,15,4,1248,30310
+2013,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,0,1603,47164,558,12909,7120,373,1427,31,119,549,9619,71853
+2013,73961,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,228,1023,25005,4,5920,438,0,0,22,0,0,460,32413
+2013,74527,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,0,2154,71056,589,17789,2087,527,925,62,173,405,4180,95768
+2013,74528,Counted,Manual count,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,1648,67335,551,18773,1775,477,1157,7,260,502,4179,92485
+2013,74545,Counted,Manual count,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,4,182,12904,233,3736,805,196,1165,22,65,116,2370,19425
+2013,74905,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,978,1287,9428,1839,2403,775,216,117,5,7,60,1181,16138
+2013,75425,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,0,3454,75975,198,13834,3082,428,2126,107,236,489,6468,99928
+2013,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,80,1423,47633,549,5955,1536,218,500,6,19,161,2440,58001
+2013,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,80,1423,47633,549,5955,1536,218,500,6,19,161,2440,58001
+2014,6071,Counted,Manual count,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,32,2051,57116,475,14200,4360,505,1042,122,251,377,6657,80499
+2014,6201,Counted,Manual count,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,3115,1848,24993,1473,4951,1015,79,121,39,32,46,1333,34599
+2014,6216,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,768,3128,34695,773,6672,1361,245,456,16,44,207,2329,47597
+2014,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,659,382,11781,816,2775,338,77,52,0,16,51,533,16285
+2014,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,304,334,11286,806,2440,736,78,47,1,15,7,883,15749
+2014,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,338,490,5724,128,1589,271,50,47,1,3,5,377,8307
+2014,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,670,1553,20440,1232,3449,852,128,127,2,14,144,1267,27941
+2014,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,738,223,7617,512,1175,174,40,8,0,4,15,241,9768
+2014,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,1429,949,12115,1563,2001,817,167,163,48,97,83,1376,18004
+2014,16203,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,748,1685,17945,793,4567,796,104,69,0,6,47,1024,26014
+2014,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,1388,943,9615,64,2103,254,96,45,1,4,0,400,13124
+2014,17498,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1208,PA,534000,183100,Weymouth Terrace/LA Boundary,A107,1.1,0.68,2003,617,9244,853,2982,505,53,158,10,14,34,774,14469
+2014,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,1403,942,11601,564,3780,503,106,106,0,7,31,754,17641
+2014,18467,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,2467,2680,29846,1688,6692,1987,355,1304,0,114,110,3870,44777
+2014,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,1221,810,18378,2218,2640,688,105,193,16,15,32,1050,25096
+2014,18736,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,78,1217,24871,391,5017,937,195,331,17,27,97,1604,33100
+2014,19035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,249,421,24039,220,3165,655,95,112,16,25,64,966,28812
+2014,26217,Counted,Manual count,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,999,1492,35395,833,9496,2387,321,943,165,327,353,4496,51713
+2014,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,1517,78,1391,6,506,74,4,1,0,1,2,82,2063
+2014,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,615,491,12538,471,2433,218,73,74,5,1,2,373,16306
+2014,27917,Counted,Manual count,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,16,2121,75860,622,18755,3811,320,960,176,245,396,5908,103265
+2014,28521,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,3110,1268,18854,1243,5222,1271,60,56,0,2,17,1406,27994
+2014,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,762,207,8631,586,1453,106,17,5,0,4,8,140,11018
+2014,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,332,2875,26396,969,9831,2292,258,1099,50,58,140,3897,43968
+2014,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,397,690,10070,726,2248,752,149,23,1,8,88,1021,14754
+2014,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,1195,397,10290,741,1895,379,42,14,1,4,0,441,13763
+2014,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,603,351,12989,668,3749,500,67,40,0,16,3,625,18382
+2014,39035,Counted,Manual count,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,19,4048,51343,888,10727,5617,439,2181,49,51,186,8524,75529
+2014,46218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,1147,1268,15101,974,2653,972,108,333,2,15,25,1455,21451
+2014,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,648,604,7465,14,2883,349,73,79,1,1,1,504,11470
+2014,48161,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,1643,918,18703,165,5977,2100,137,252,4,33,120,2646,28408
+2014,48814,Counted,Manual count,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,85,2879,62705,744,14414,4261,307,2779,112,166,237,7863,88605
+2014,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,965,778,17602,1022,3637,363,94,417,25,13,31,943,23981
+2014,49035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,68,3654,55736,597,14738,3490,396,2805,68,171,165,7095,81821
+2014,56175,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,2274,1231,16417,957,2960,835,83,98,7,24,60,1106,22673
+2014,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,591,313,12822,1108,2214,492,155,66,4,27,31,775,17231
+2014,56909,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,959,3600,32593,874,6911,2345,306,1050,0,130,214,4045,48022
+2014,58445,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,187,328,20386,176,2215,1071,170,962,13,22,156,2395,25500
+2014,58446,Counted,Manual count,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,333,1241,33643,605,9035,2736,252,1238,198,300,277,5001,49525
+2014,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,445,682,15566,330,3015,553,171,304,8,10,76,1122,20715
+2014,70002,Counted,Manual count,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,899,684,10814,625,1820,399,26,105,6,3,6,545,14489
+2014,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,135,1707,35111,599,7311,1400,210,278,134,134,258,2413,47141
+2014,70193,Counted,Manual count,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,3977,2791,15833,2770,4913,1359,109,289,46,33,25,1861,28169
+2014,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,2,2748,55917,517,16842,1821,336,1272,135,218,414,4196,80219
+2014,73961,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,147,1121,24088,21,6089,500,2,0,10,3,0,516,31834
+2014,74527,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,16,2121,75860,622,18755,3811,320,960,176,245,396,5908,103265
+2014,74528,Counted,Manual count,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,2015,64817,304,21533,2727,540,720,358,293,387,5026,93695
+2014,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,4,187,13095,227,3808,709,187,1094,21,55,112,2178,19494
+2014,74905,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,1052,1320,9568,1789,2448,682,206,110,5,6,58,1067,16193
+2014,75425,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,811,3851,79350,890,20063,5945,312,2681,161,387,496,9982,114136
+2014,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,43,1440,31352,372,7207,2130,153,1390,56,83,118,3931,44303
+2014,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,43,1440,31352,372,7207,2130,153,1390,56,83,118,3931,44303
+2015,6071,Counted,Manual count,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,48,1882,69380,415,16351,3299,351,1164,103,316,307,5540,93568
+2015,6201,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,3149,1840,25366,1510,4858,966,82,116,53,35,50,1302,34877
+2015,6216,Counted,Manual count,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,473,2876,29880,807,7279,1756,189,536,112,81,89,2764,43606
+2015,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,667,380,11956,836,2723,322,79,49,0,17,56,523,16418
+2015,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,308,333,11455,826,2394,700,80,44,2,16,8,850,15857
+2015,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,342,488,5809,131,1559,258,52,44,2,3,5,364,8351
+2015,8489,Counted,Manual count,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,1057,2200,18127,1158,3637,1034,76,174,39,62,53,1438,26559
+2015,8754,Counted,Manual count,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,722,144,6019,651,795,179,19,6,1,6,2,214,7824
+2015,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,1445,945,12296,1603,1964,778,172,155,66,107,91,1368,18175
+2015,16203,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,756,1678,18212,813,4481,758,107,66,0,7,52,990,26175
+2015,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,1404,939,9758,66,2063,242,99,43,1,5,0,389,13215
+2015,17498,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1208,PA,534000,183100,Weymouth Terrace/LA Boundary,A107,1.1,0.68,2025,614,9382,875,2926,480,55,150,13,16,37,752,14548
+2015,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,1419,938,11774,578,3709,479,109,101,0,8,34,731,17731
+2015,18467,Counted,Manual count,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,3772,4055,25106,1389,7215,2209,277,1571,129,121,161,4468,42234
+2015,18497,Counted,Manual count,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,1509,952,11614,2047,2804,602,56,234,36,24,22,973,18391
+2015,18736,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,79,1212,25242,401,4923,891,201,315,24,30,107,1568,33345
+2015,19035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,175,754,17770,98,3732,1010,41,130,13,44,17,1254,23608
+2015,26217,Counted,Manual count,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,1000,1411,39157,740,8803,2610,249,962,158,273,277,4529,54639
+2015,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,1534,78,1411,7,497,71,4,1,0,1,3,79,2071
+2015,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,622,489,12725,483,2387,207,75,70,7,1,3,363,16448
+2015,27917,Counted,Manual count,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,19,2135,69227,908,17629,3737,369,1087,177,285,355,6010,95909
+2015,28521,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,3145,1262,19136,1275,5124,1210,62,53,0,2,19,1346,28143
+2015,28878,Counted,Manual count,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,1263,157,5272,817,705,105,8,3,3,4,14,136,7087
+2015,29037,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,335,2862,26790,994,9647,2182,265,1047,67,63,154,3779,44072
+2015,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,402,687,10220,744,2206,716,153,22,2,9,97,997,14854
+2015,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,1208,395,10443,760,1859,361,43,14,2,5,0,424,13881
+2015,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,609,349,13182,685,3679,476,68,39,0,17,3,603,18498
+2015,39035,Counted,Manual count,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,61,3948,38123,754,11383,2253,273,1545,142,125,145,4482,58691
+2015,46218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,1159,1262,15326,998,2604,925,111,317,2,17,28,1400,21591
+2015,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,655,602,7576,14,2829,332,75,75,1,1,1,486,11507
+2015,48161,Counted,Manual count,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,4019,2567,16734,362,4835,1282,111,172,48,50,44,1707,26206
+2015,48814,Counted,Manual count,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,144,2878,67876,707,15094,3308,305,2077,92,152,190,6122,92677
+2015,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,976,774,17864,1048,3569,346,97,397,34,14,34,922,24176
+2015,49035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,35,3315,51872,444,12681,3378,350,1518,48,140,133,5568,73880
+2015,56175,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,2300,1226,16662,982,2905,794,85,94,9,26,66,1074,22849
+2015,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,598,311,13013,1136,2172,468,159,63,6,30,34,760,17392
+2015,56909,Counted,Manual count,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,760,2972,21733,850,8020,2637,237,972,86,86,127,4146,37722
+2015,58445,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,190,326,20690,181,2173,1019,175,917,18,24,172,2325,25696
+2015,58446,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,337,1236,34145,620,8865,2604,259,1180,269,330,305,4946,49812
+2015,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,449,679,15798,339,2959,526,176,289,10,11,84,1097,20872
+2015,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,909,681,10976,641,1786,380,27,100,8,4,6,525,14608
+2015,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,136,1699,35635,614,7174,1333,216,265,181,148,283,2425,47547
+2015,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,4021,2779,16070,2840,4821,1293,112,275,63,36,28,1808,28317
+2015,73554,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,7,2283,65868,607,17716,1923,258,1199,228,315,336,4259,90733
+2015,73961,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,149,1116,24447,21,5975,476,2,0,14,3,0,495,32055
+2015,74527,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,19,2135,69227,908,17629,3737,369,1087,177,285,355,6010,95909
+2015,74528,Counted,Manual count,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,2323,79080,397,21640,3929,390,818,100,237,334,5808,109248
+2015,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,4,186,13290,232,3736,675,192,1043,28,60,124,2122,19567
+2015,74905,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533850,181240,St Botolph St/Aldgate High St,A1202/A13 mid-junction,0.2,0.12,1064,1314,9711,1834,2403,650,212,105,6,7,64,1043,16305
+2015,75425,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,697,4171,83373,909,19668,5420,551,2854,289,145,901,10161,118282
+2015,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,72,1439,33938,353,7547,1654,152,1038,46,76,95,3061,46338
+2015,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,72,1439,33938,353,7547,1654,152,1038,46,76,95,3061,46338
+2016,6071,Counted,Manual count,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,113,1490,73680,474,17487,2705,383,1186,141,346,435,5197,98328
+2016,6201,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,3257,1974,24842,1597,5011,949,77,162,54,36,57,1335,34760
+2016,6216,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,489,3086,29263,854,7508,1726,178,752,115,82,101,2953,43664
+2016,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,690,408,11709,884,2808,316,74,69,0,17,63,540,16349
+2016,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,318,357,11218,874,2469,688,75,62,2,16,9,852,15770
+2016,8284,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534160,180760,A1203,Cable Street,0.2,0.12,354,524,5689,139,1608,254,49,62,2,3,6,375,8334
+2016,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,1093,2360,17752,1224,3751,1016,71,244,40,63,60,1494,26582
+2016,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,746,154,5895,689,820,176,18,9,1,6,3,213,7771
+2016,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,1494,1014,12042,1695,2025,764,161,218,67,108,104,1422,18198
+2016,16203,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,782,1800,17836,860,4622,745,101,93,0,7,59,1004,26123
+2016,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,1452,1007,9557,69,2128,238,93,60,1,5,0,396,13158
+2016,17498,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1208,PA,534000,183100,Weymouth Terrace/LA Boundary,A107,1.1,0.68,2095,659,9188,925,3018,472,52,211,13,16,42,806,14596
+2016,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,1467,1007,11531,612,3825,471,103,142,0,8,38,762,17736
+2016,18467,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,3901,4351,24588,1469,7441,2171,261,2203,132,123,183,5072,42922
+2016,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,1560,1022,11374,2165,2892,591,53,328,37,24,25,1058,18511
+2016,18736,Counted,Manual count,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,127,1187,21703,219,5413,562,182,370,31,34,35,1214,29736
+2016,19035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,181,809,17403,104,3849,992,39,182,13,44,19,1289,23454
+2016,26217,Counted,Manual count,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,837,1216,40707,552,11135,1211,114,909,47,263,305,2850,56460
+2016,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,1586,83,1382,7,512,69,3,2,0,1,3,78,2063
+2016,27582,Counted,Manual count,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,1178,307,9134,578,1956,133,20,23,6,1,6,189,12162
+2016,27917,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,20,2290,67798,960,18183,3672,347,1525,182,288,402,6416,95646
+2016,28521,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,4616,1978,18633,958,7333,731,10,38,3,4,8,794,29696
+2016,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,1306,168,5163,864,727,103,7,5,3,4,16,138,7060
+2016,29037,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,347,3071,26237,1051,9950,2144,250,1469,69,64,175,4170,44479
+2016,36218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,415,737,10009,787,2275,703,144,31,2,9,109,998,14806
+2016,37619,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,1249,424,10227,803,1918,354,41,19,2,5,0,420,13793
+2016,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,630,374,12910,725,3795,467,64,54,0,17,3,606,18410
+2016,39035,Counted,Manual count,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,12,3703,52716,665,15674,1675,277,1282,79,50,293,3656,76414
+2016,46218,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,1199,1354,15010,1056,2686,909,105,445,2,17,32,1509,21614
+2016,47580,Counted,Manual count,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,1314,625,7537,27,2343,217,43,81,11,13,4,370,10901
+2016,48161,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,4156,2755,16389,383,4987,1260,105,241,50,50,49,1755,26269
+2016,48814,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,149,3088,66474,747,15568,3250,286,2913,94,153,215,6912,92790
+2016,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,1009,831,17495,1108,3681,340,91,558,35,14,39,1076,24190
+2016,49035,Counted,Manual count,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,57,2876,67907,462,14950,3519,340,1546,111,163,154,5833,92029
+2016,56175,Counted,Manual count,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,4158,1308,15808,893,3622,253,59,174,26,39,21,573,22203
+2016,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,618,334,12745,1201,2241,460,149,88,6,30,39,772,17293
+2016,56909,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,786,3189,21285,899,8272,2591,223,1364,88,87,144,4497,38142
+2016,58445,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1020,PA,539100,180920,A1261,LA Boundary,0.4,0.25,196,350,20263,191,2242,1002,165,1286,18,24,195,2690,25736
+2016,58446,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,349,1326,33440,655,9144,2559,244,1655,275,333,346,5411,49976
+2016,59036,Counted,Manual count,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,280,664,14225,348,3769,357,91,444,26,30,24,972,19978
+2016,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,940,731,10749,678,1842,374,25,141,8,4,7,558,14558
+2016,70003,Counted,Manual count,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,0,2918,39291,395,12915,1593,282,1410,72,43,229,3630,59149
+2016,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,4159,2982,15738,3004,4973,1271,105,386,65,37,32,1895,28591
+2016,73554,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,7,2450,64508,642,18273,1890,243,1682,233,318,381,4747,90619
+2016,73961,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,154,1197,23942,22,6163,468,2,0,14,3,0,487,31812
+2016,74527,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,20,2290,67798,960,18183,3672,347,1525,182,288,402,6416,95646
+2016,74528,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,0,2492,77447,420,22320,3861,367,1147,102,239,379,6095,108774
+2016,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,4,200,13016,246,3854,663,181,1463,29,61,140,2536,19852
+2016,75425,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,366,3261,94651,852,21021,2393,197,2082,61,772,347,5851,125637
+2016,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,75,1544,33237,374,7784,1625,143,1457,47,77,107,3456,46395
+2016,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,75,1544,33237,374,7784,1625,143,1457,47,77,107,3456,46395
+2017,6071,Counted,Automatic counter,London,Tower Hamlets,A12,PA,538180,181800,A13,A11,2.1,1.3,112,1574,74982,463,17684,2700,411,1033,128,345,425,5043,99745
+2017,6201,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,537000,182730,A1205,A12,1.5,0.93,3182,2046,24835,1533,4969,933,82,139,49,36,55,1294,34678
+2017,6216,Counted,Manual count,London,Tower Hamlets,A13,PA,538200,181030,A1206,A102,0.2,0.12,448,2681,35666,911,8295,941,191,422,61,88,84,1788,49341
+2017,6636,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,535030,182500,Mile End Rd,Bethnal Green Rd,0.9,0.56,674,423,11706,849,2785,311,79,59,0,17,62,528,16290
+2017,7540,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536630,182000,A13/A1261,A11,1.6,0.99,311,370,11215,839,2448,677,80,53,1,16,8,836,15708
+2017,8489,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A13,PA,536100,181139,A126,A101,0.2,0.12,1068,2446,17747,1175,3720,999,76,209,36,63,58,1441,26529
+2017,8754,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538520,178900,Ferry Street,A1261,2.7,1.68,729,160,5893,661,813,173,19,8,1,6,3,209,7737
+2017,16188,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,534280,181620,A1202/A13 mid-junction,A107,1.1,0.68,1460,1051,12038,1627,2008,751,171,187,61,107,101,1379,18103
+2017,16203,Counted,Manual count,London,Tower Hamlets,A13,PA,536500,181120,A101,A1261,0.8,0.5,659,1702,21851,1149,5559,402,66,83,59,46,41,697,30957
+2017,17496,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533980,181190,B126 Prescot St,A13/A11 mid-junction,0.4,0.25,1418,1044,9554,67,2110,234,98,52,1,5,0,390,13164
+2017,17498,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1208,PA,534000,183100,Weymouth Terrace/LA Boundary,A107,1.1,0.68,2046,683,9186,888,2992,464,55,181,12,16,41,769,14517
+2017,18436,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533800,181070,LA Boundary,A11,0.4,0.25,1433,1043,11528,587,3794,463,109,121,0,8,37,739,17691
+2017,18467,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A3211,PA,533634,180720,A100,LA Boundary,0.3,0.19,3811,4510,24580,1410,7379,2134,277,1889,119,122,178,4719,42599
+2017,18497,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534850,183388,A1208 Hackney Road,LA Boundary,0.2,0.12,1524,1059,11370,2078,2868,581,56,281,33,24,24,1000,18376
+2017,18736,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,538195,180834,A1261,A13,0.5,0.31,124,1230,21696,210,5368,553,193,317,28,34,34,1159,29664
+2017,19035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537150,180780,A1206,A1203,0.5,0.31,176,839,17398,99,3817,976,41,156,12,44,18,1247,23400
+2017,26217,Counted,Manual count,London,Tower Hamlets,A13,PA,538970,181320,A1263,Aspen Way tunnel,0.2,0.12,538,1288,41846,586,11351,2072,180,746,66,96,472,3633,58704
+2017,27581,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534000,180830,A100/A1210/A1211,Dock Street,0.4,0.25,1550,87,1382,7,508,68,4,1,0,1,3,77,2060
+2017,27582,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1205,PA,536020,183200,A11,LA Boundary,1.4,0.87,1150,318,9131,554,1939,131,22,20,5,1,6,184,12126
+2017,27917,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537550,183276,A11,B142,0.5,0.31,19,2374,67777,921,18031,3611,368,1307,164,287,392,6130,95233
+2017,28521,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A100,PA,533740,180500,LA Boundary,A1210/A1211,0.5,0.31,4508,2050,18628,919,7272,718,11,32,3,4,7,776,29645
+2017,28878,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537240,178900,A1203,Ferry Street,2.8,1.74,1276,174,5161,830,721,101,8,4,2,4,16,135,7021
+2017,29037,Counted,Manual count,London,Tower Hamlets,A1203,PA,534836,180756,A1202,A101/A126,1.9,1.18,310,2886,32289,920,10846,1460,209,1024,49,69,101,2912,49851
+2017,36218,Counted,Automatic counter,London,Tower Hamlets,A13,PA,537000,181040,A1261,A1206,1.3,0.81,647,1222,15961,1205,3598,1102,242,43,2,14,170,1573,23559
+2017,37619,Counted,Automatic counter,London,Tower Hamlets,A1209,PA,534000,182520,LA Boundary,A107,1.5,0.93,1380,488,11751,889,2218,406,52,20,2,6,0,485,15832
+2017,38270,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1210,PA,533840,180880,A100,LA Boundary,0.2,0.12,616,388,12906,696,3763,460,68,46,0,17,3,595,18348
+2017,39035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,536066,180909,A126/A101,A1206,1.3,0.81,11,3838,52700,638,15544,1647,294,1099,71,50,285,3447,76166
+2017,46218,Counted,Automatic counter,London,Tower Hamlets,A13,PA,535100,181280,A11/A1202 mid-junction,A126,2.1,1.3,1610,1931,21523,1467,3852,1316,164,531,3,22,45,2079,30852
+2017,47580,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,534110,180940,Dock Street,Hooper Street,0.2,0.12,1283,648,7534,26,2323,213,46,69,10,13,4,356,10887
+2017,48161,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1202,PA,533640,182000,A11/A13 mid-junction,LA Boundary,0.9,0.56,4060,2855,16384,368,4946,1239,111,207,45,50,48,1700,26252
+2017,48814,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,538620,180750,A1206,Aspen Way Tunnel,0.5,0.31,146,3201,66454,717,15438,3195,304,2497,85,153,210,6444,92255
+2017,48815,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537030,180900,A13,A1206,0.3,0.19,986,861,17490,1063,3650,334,96,478,31,14,38,992,24056
+2017,49035,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1261,PA,537950,180570,A1261,A1206,0.9,0.56,55,2980,67887,444,14826,3460,362,1325,100,162,151,5559,91696
+2017,56175,Counted,Automatic counter,London,Tower Hamlets,A11,PA,535000,181900,A107,A1205,1.6,0.99,4129,1380,16148,877,3665,254,64,152,23,39,21,554,22624
+2017,56506,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A107,PA,534950,183000,A1209,A1208,0.6,0.37,604,346,12741,1153,2222,452,159,76,5,30,38,760,17221
+2017,56909,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,534000,180600,LA Boundary,A1202,0.5,0.31,767,3305,21278,863,8203,2548,237,1169,80,87,140,4260,37910
+2017,58445,Counted,Manual count,London,Tower Hamlets,A1020,PA,539035,180938,A1261,LA Boundary,0.4,0.25,334,432,17684,213,3720,1025,114,1032,11,17,185,2384,24433
+2017,58446,Counted,Manual count,London,Tower Hamlets,A13,PA,538450,181080,A102,A1263,0.6,0.37,315,1174,38054,584,9677,742,244,1027,116,236,255,2620,52110
+2017,59036,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,535968,181035,A126/A101,A13/A126,0.3,0.19,273,688,14221,334,3737,351,97,381,23,30,23,905,19886
+2017,70002,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1206,PA,537060,180760,A1203,A1261,0.2,0.12,919,757,10746,651,1827,367,27,120,7,4,7,532,14513
+2017,70003,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1203,PA,537100,180730,A1206,A1261,0.6,0.37,0,3024,39279,379,12807,1566,300,1208,65,43,224,3406,58896
+2017,70193,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A11,PA,533820,181310,LA Boundary,A1202/A13 mid-junc,0.2,0.12,4062,3090,15733,2883,4931,1249,112,331,58,37,31,1818,28455
+2017,73554,Counted,Automatic counter,London,Tower Hamlets,A102,PA,538410,180850,LA Boundary,A13,1,0.62,8,2900,73294,697,20532,2079,290,1645,231,351,413,5010,102433
+2017,73961,Counted,Automatic counter,London,Tower Hamlets,A101,PA,535530,180600,LA Boundary,A13,1.1,0.68,147,1227,23585,20,6024,456,2,0,12,3,0,473,31329
+2017,74527,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A12,PA,537300,183460,B142,B142,0.3,0.19,19,2374,67777,921,18031,3611,368,1307,164,287,392,6130,95233
+2017,74528,Counted,Manual count,London,Tower Hamlets,A12,PA,537000,184000,LA Boundary,B142,1,0.62,1,2298,77396,327,20104,2850,369,768,97,61,475,4620,104745
+2017,74545,Estimated,Estimated using previous year's AADF on this link,London,Tower Hamlets,A1263,PA,538910,181040,A13,A1261,0.2,0.12,4,207,13012,236,3821,652,192,1254,26,61,137,2321,19598
+2017,75425,Counted,Dependent on a neighbouring counted link,London,Tower Hamlets,A13,PA,539100,181400,Aspen Way tunnel,LA boundary,0.2,0.12,236,3998,94397,961,23370,4007,501,1913,123,110,724,7379,130106
+2017,75426,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538930,181200,Aspen Way,A13,0.5,0.31,73,1600,33227,359,7719,1598,152,1248,42,77,105,3222,46127
+2017,75427,Estimated,Estimated from nearby links,London,Tower Hamlets,A1261,PA,538850,180950,Aspen Way tunnel,A1263,0.2,0.12,73,1600,33227,359,7719,1598,152,1248,42,77,105,3222,46127
