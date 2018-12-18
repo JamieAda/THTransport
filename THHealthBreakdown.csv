@@ -1,0 +1,199 @@
+Area,mnemonic,Gender,Health Status,Age 0 to 15,Age 16 to 24,Age 25 to 34,Age 35 to 49,Age 50 to 64,Age 65 to 74,Age 75 to 84,Age 85 and over
+ualad09:Tower Hamlets,E09000030,Male,Day-to-day activities limited a lot,580,328,636,1782,2256,1165,1051,342
+msoa2011:Tower Hamlets 001,E02000864,Male,Day-to-day activities limited a lot,18,19,22,78,105,70,49,28
+msoa2011:Tower Hamlets 002,E02000865,Male,Day-to-day activities limited a lot,14,13,14,66,74,49,35,14
+msoa2011:Tower Hamlets 003,E02000866,Male,Day-to-day activities limited a lot,14,9,26,54,94,44,43,19
+msoa2011:Tower Hamlets 004,E02000867,Male,Day-to-day activities limited a lot,18,11,23,65,64,37,26,11
+msoa2011:Tower Hamlets 005,E02000868,Male,Day-to-day activities limited a lot,12,11,21,40,56,25,25,10
+msoa2011:Tower Hamlets 006,E02000869,Male,Day-to-day activities limited a lot,14,7,16,61,70,34,40,12
+msoa2011:Tower Hamlets 007,E02000870,Male,Day-to-day activities limited a lot,20,11,15,50,62,32,42,11
+msoa2011:Tower Hamlets 008,E02000871,Male,Day-to-day activities limited a lot,25,12,22,61,83,41,43,9
+msoa2011:Tower Hamlets 009,E02000872,Male,Day-to-day activities limited a lot,22,10,19,62,66,28,32,8
+msoa2011:Tower Hamlets 010,E02000873,Male,Day-to-day activities limited a lot,18,4,11,44,68,36,31,12
+msoa2011:Tower Hamlets 011,E02000874,Male,Day-to-day activities limited a lot,33,6,31,77,81,36,30,8
+msoa2011:Tower Hamlets 012,E02000875,Male,Day-to-day activities limited a lot,25,18,29,91,96,25,22,14
+msoa2011:Tower Hamlets 013,E02000876,Male,Day-to-day activities limited a lot,15,10,31,62,87,39,28,5
+msoa2011:Tower Hamlets 014,E02000877,Male,Day-to-day activities limited a lot,28,20,23,56,104,59,38,5
+msoa2011:Tower Hamlets 015,E02000878,Male,Day-to-day activities limited a lot,12,10,20,61,80,62,52,9
+msoa2011:Tower Hamlets 016,E02000879,Male,Day-to-day activities limited a lot,20,8,19,53,89,52,48,19
+msoa2011:Tower Hamlets 017,E02000880,Male,Day-to-day activities limited a lot,15,7,30,45,61,24,31,8
+msoa2011:Tower Hamlets 018,E02000881,Male,Day-to-day activities limited a lot,31,20,16,44,75,32,24,8
+msoa2011:Tower Hamlets 019,E02000882,Male,Day-to-day activities limited a lot,37,12,19,82,76,47,44,20
+msoa2011:Tower Hamlets 020,E02000883,Male,Day-to-day activities limited a lot,26,17,22,81,103,36,40,18
+msoa2011:Tower Hamlets 021,E02000884,Male,Day-to-day activities limited a lot,16,9,16,49,60,41,42,12
+msoa2011:Tower Hamlets 022,E02000885,Male,Day-to-day activities limited a lot,17,11,17,66,76,48,43,12
+msoa2011:Tower Hamlets 023,E02000886,Male,Day-to-day activities limited a lot,14,9,25,43,78,23,24,8
+msoa2011:Tower Hamlets 024,E02000887,Male,Day-to-day activities limited a lot,27,8,27,49,77,51,36,14
+msoa2011:Tower Hamlets 025,E02000888,Male,Day-to-day activities limited a lot,20,4,19,58,54,19,21,10
+msoa2011:Tower Hamlets 026,E02000889,Male,Day-to-day activities limited a lot,7,3,19,45,62,31,15,3
+msoa2011:Tower Hamlets 027,E02000890,Male,Day-to-day activities limited a lot,5,4,7,33,33,17,20,8
+msoa2011:Tower Hamlets 028,E02000891,Male,Day-to-day activities limited a lot,15,12,29,53,52,31,28,11
+msoa2011:Tower Hamlets 030,E02000893,Male,Day-to-day activities limited a lot,12,9,17,46,73,32,49,5
+msoa2011:Tower Hamlets 031,E02000894,Male,Day-to-day activities limited a lot,14,8,18,37,52,21,25,9
+msoa2011:Tower Hamlets 032,E02006853,Male,Day-to-day activities limited a lot,10,7,7,36,33,32,17,2
+msoa2011:Tower Hamlets 033,E02006854,Male,Day-to-day activities limited a lot,6,9,6,34,12,11,8,0
+ualad09:Tower Hamlets,E09000030,Male,Day-to-day activities limited a little,619,474,937,1996,1929,967,670,128
+msoa2011:Tower Hamlets 001,E02000864,Male,Day-to-day activities limited a little,30,16,31,72,64,43,58,4
+msoa2011:Tower Hamlets 002,E02000865,Male,Day-to-day activities limited a little,19,17,23,71,69,29,20,7
+msoa2011:Tower Hamlets 003,E02000866,Male,Day-to-day activities limited a little,27,9,26,60,95,52,32,4
+msoa2011:Tower Hamlets 004,E02000867,Male,Day-to-day activities limited a little,23,16,42,65,53,26,20,5
+msoa2011:Tower Hamlets 005,E02000868,Male,Day-to-day activities limited a little,11,10,34,47,47,22,11,3
+msoa2011:Tower Hamlets 006,E02000869,Male,Day-to-day activities limited a little,7,9,20,58,62,38,17,4
+msoa2011:Tower Hamlets 007,E02000870,Male,Day-to-day activities limited a little,19,11,17,65,45,36,19,8
+msoa2011:Tower Hamlets 008,E02000871,Male,Day-to-day activities limited a little,23,22,34,81,58,25,25,2
+msoa2011:Tower Hamlets 009,E02000872,Male,Day-to-day activities limited a little,20,22,30,66,62,29,21,1
+msoa2011:Tower Hamlets 010,E02000873,Male,Day-to-day activities limited a little,23,20,35,61,44,27,23,7
+msoa2011:Tower Hamlets 011,E02000874,Male,Day-to-day activities limited a little,17,17,29,63,70,30,15,2
+msoa2011:Tower Hamlets 012,E02000875,Male,Day-to-day activities limited a little,24,10,38,66,78,31,25,6
+msoa2011:Tower Hamlets 013,E02000876,Male,Day-to-day activities limited a little,12,11,28,58,63,20,22,1
+msoa2011:Tower Hamlets 014,E02000877,Male,Day-to-day activities limited a little,31,24,39,84,67,37,26,3
+msoa2011:Tower Hamlets 015,E02000878,Male,Day-to-day activities limited a little,25,21,43,66,95,38,29,1
+msoa2011:Tower Hamlets 016,E02000879,Male,Day-to-day activities limited a little,14,20,32,56,77,43,26,7
+msoa2011:Tower Hamlets 017,E02000880,Male,Day-to-day activities limited a little,13,9,21,59,50,17,15,6
+msoa2011:Tower Hamlets 018,E02000881,Male,Day-to-day activities limited a little,32,19,22,67,55,27,17,4
+msoa2011:Tower Hamlets 019,E02000882,Male,Day-to-day activities limited a little,33,15,42,92,59,42,26,5
+msoa2011:Tower Hamlets 020,E02000883,Male,Day-to-day activities limited a little,34,28,30,65,72,38,27,6
+msoa2011:Tower Hamlets 021,E02000884,Male,Day-to-day activities limited a little,12,19,29,74,56,29,21,4
+msoa2011:Tower Hamlets 022,E02000885,Male,Day-to-day activities limited a little,24,21,25,76,87,39,15,3
+msoa2011:Tower Hamlets 023,E02000886,Male,Day-to-day activities limited a little,15,14,28,55,55,39,17,6
+msoa2011:Tower Hamlets 024,E02000887,Male,Day-to-day activities limited a little,37,10,64,70,80,32,17,8
+msoa2011:Tower Hamlets 025,E02000888,Male,Day-to-day activities limited a little,11,14,35,56,66,23,24,3
+msoa2011:Tower Hamlets 026,E02000889,Male,Day-to-day activities limited a little,11,8,17,56,43,26,22,1
+msoa2011:Tower Hamlets 027,E02000890,Male,Day-to-day activities limited a little,1,5,11,32,22,23,16,4
+msoa2011:Tower Hamlets 028,E02000891,Male,Day-to-day activities limited a little,21,14,40,64,45,33,19,1
+msoa2011:Tower Hamlets 030,E02000893,Male,Day-to-day activities limited a little,22,14,15,51,62,27,14,4
+msoa2011:Tower Hamlets 031,E02000894,Male,Day-to-day activities limited a little,11,12,33,48,49,20,17,6
+msoa2011:Tower Hamlets 032,E02006853,Male,Day-to-day activities limited a little,9,8,18,58,46,17,7,2
+msoa2011:Tower Hamlets 033,E02006854,Male,Day-to-day activities limited a little,8,9,6,34,33,9,7,0
+ualad09:Tower Hamlets,E09000030,Male,Day-to-day activities not limited,24331,19064,35857,23463,7802,1736,786,120
+msoa2011:Tower Hamlets 001,E02000864,Male,Day-to-day activities not limited,809,563,918,632,271,81,33,5
+msoa2011:Tower Hamlets 002,E02000865,Male,Day-to-day activities not limited,722,448,799,617,204,60,26,5
+msoa2011:Tower Hamlets 003,E02000866,Male,Day-to-day activities not limited,865,650,1194,879,405,102,39,8
+msoa2011:Tower Hamlets 004,E02000867,Male,Day-to-day activities not limited,785,742,1666,878,238,53,31,2
+msoa2011:Tower Hamlets 005,E02000868,Male,Day-to-day activities not limited,517,486,1011,593,195,37,21,4
+msoa2011:Tower Hamlets 006,E02000869,Male,Day-to-day activities not limited,495,348,741,615,189,52,23,3
+msoa2011:Tower Hamlets 007,E02000870,Male,Day-to-day activities not limited,649,478,788,540,200,55,29,3
+msoa2011:Tower Hamlets 008,E02000871,Male,Day-to-day activities not limited,1067,691,1003,756,204,58,28,6
+msoa2011:Tower Hamlets 009,E02000872,Male,Day-to-day activities not limited,612,566,1279,665,204,41,17,5
+msoa2011:Tower Hamlets 010,E02000873,Male,Day-to-day activities not limited,766,717,923,624,182,48,24,3
+msoa2011:Tower Hamlets 011,E02000874,Male,Day-to-day activities not limited,757,633,779,540,174,52,23,2
+msoa2011:Tower Hamlets 012,E02000875,Male,Day-to-day activities not limited,1176,801,1063,778,250,48,23,5
+msoa2011:Tower Hamlets 013,E02000876,Male,Day-to-day activities not limited,582,712,1058,600,173,33,18,2
+msoa2011:Tower Hamlets 014,E02000877,Male,Day-to-day activities not limited,1157,876,1172,794,221,54,28,4
+msoa2011:Tower Hamlets 015,E02000878,Male,Day-to-day activities not limited,676,807,1724,874,301,79,40,3
+msoa2011:Tower Hamlets 016,E02000879,Male,Day-to-day activities not limited,741,691,811,577,234,69,34,6
+msoa2011:Tower Hamlets 017,E02000880,Male,Day-to-day activities not limited,591,463,737,529,151,36,20,5
+msoa2011:Tower Hamlets 018,E02000881,Male,Day-to-day activities not limited,941,522,565,602,254,42,25,4
+msoa2011:Tower Hamlets 019,E02000882,Male,Day-to-day activities not limited,1130,661,830,755,222,42,22,3
+msoa2011:Tower Hamlets 020,E02000883,Male,Day-to-day activities not limited,1033,535,752,603,233,45,31,6
+msoa2011:Tower Hamlets 021,E02000884,Male,Day-to-day activities not limited,602,937,1952,785,192,47,18,1
+msoa2011:Tower Hamlets 022,E02000885,Male,Day-to-day activities not limited,779,529,733,600,178,68,25,1
+msoa2011:Tower Hamlets 023,E02000886,Male,Day-to-day activities not limited,636,483,1112,884,292,48,19,4
+msoa2011:Tower Hamlets 024,E02000887,Male,Day-to-day activities not limited,1119,568,935,733,249,61,37,5
+msoa2011:Tower Hamlets 025,E02000888,Male,Day-to-day activities not limited,836,558,1314,874,262,50,23,3
+msoa2011:Tower Hamlets 026,E02000889,Male,Day-to-day activities not limited,536,453,1075,753,278,60,22,4
+msoa2011:Tower Hamlets 027,E02000890,Male,Day-to-day activities not limited,282,249,1036,838,408,74,20,4
+msoa2011:Tower Hamlets 028,E02000891,Male,Day-to-day activities not limited,1049,904,2582,1283,347,56,26,4
+msoa2011:Tower Hamlets 030,E02000893,Male,Day-to-day activities not limited,648,387,917,650,274,57,20,5
+msoa2011:Tower Hamlets 031,E02000894,Male,Day-to-day activities not limited,740,675,1881,1158,403,63,16,4
+msoa2011:Tower Hamlets 032,E02006853,Male,Day-to-day activities not limited,629,533,1302,658,196,36,16,1
+msoa2011:Tower Hamlets 033,E02006854,Male,Day-to-day activities not limited,404,398,1205,796,218,29,9,0
+ualad09:Tower Hamlets,E09000030,Female,Day-to-day activities limited a lot,346,304,617,1653,2516,1340,1325,644
+msoa2011:Tower Hamlets 001,E02000864,Female,Day-to-day activities limited a lot,19,15,15,81,113,50,74,40
+msoa2011:Tower Hamlets 002,E02000865,Female,Day-to-day activities limited a lot,8,5,16,51,99,43,60,26
+msoa2011:Tower Hamlets 003,E02000866,Female,Day-to-day activities limited a lot,15,12,12,63,94,51,57,39
+msoa2011:Tower Hamlets 004,E02000867,Female,Day-to-day activities limited a lot,9,10,30,54,76,39,43,22
+msoa2011:Tower Hamlets 005,E02000868,Female,Day-to-day activities limited a lot,8,3,20,37,69,44,39,14
+msoa2011:Tower Hamlets 006,E02000869,Female,Day-to-day activities limited a lot,9,9,15,48,69,37,49,24
+msoa2011:Tower Hamlets 007,E02000870,Female,Day-to-day activities limited a lot,8,10,10,44,72,36,43,28
+msoa2011:Tower Hamlets 008,E02000871,Female,Day-to-day activities limited a lot,14,9,24,54,86,47,43,25
+msoa2011:Tower Hamlets 009,E02000872,Female,Day-to-day activities limited a lot,12,9,20,35,84,24,50,22
+msoa2011:Tower Hamlets 010,E02000873,Female,Day-to-day activities limited a lot,15,8,17,41,70,43,43,23
+msoa2011:Tower Hamlets 011,E02000874,Female,Day-to-day activities limited a lot,12,13,25,67,73,47,36,12
+msoa2011:Tower Hamlets 012,E02000875,Female,Day-to-day activities limited a lot,6,15,27,62,112,49,38,23
+msoa2011:Tower Hamlets 013,E02000876,Female,Day-to-day activities limited a lot,13,6,29,55,81,34,23,12
+msoa2011:Tower Hamlets 014,E02000877,Female,Day-to-day activities limited a lot,13,12,29,71,102,62,57,22
+msoa2011:Tower Hamlets 015,E02000878,Female,Day-to-day activities limited a lot,8,7,32,44,111,61,40,6
+msoa2011:Tower Hamlets 016,E02000879,Female,Day-to-day activities limited a lot,19,16,16,62,100,51,70,29
+msoa2011:Tower Hamlets 017,E02000880,Female,Day-to-day activities limited a lot,4,10,17,33,51,49,33,28
+msoa2011:Tower Hamlets 018,E02000881,Female,Day-to-day activities limited a lot,14,14,24,72,81,30,24,24
+msoa2011:Tower Hamlets 019,E02000882,Female,Day-to-day activities limited a lot,19,15,18,80,116,56,45,21
+msoa2011:Tower Hamlets 020,E02000883,Female,Day-to-day activities limited a lot,13,17,19,70,113,44,66,41
+msoa2011:Tower Hamlets 021,E02000884,Female,Day-to-day activities limited a lot,9,1,16,43,71,58,34,8
+msoa2011:Tower Hamlets 022,E02000885,Female,Day-to-day activities limited a lot,14,17,24,71,86,73,58,26
+msoa2011:Tower Hamlets 023,E02000886,Female,Day-to-day activities limited a lot,7,11,16,44,61,30,41,16
+msoa2011:Tower Hamlets 024,E02000887,Female,Day-to-day activities limited a lot,18,17,23,65,91,49,55,31
+msoa2011:Tower Hamlets 025,E02000888,Female,Day-to-day activities limited a lot,10,7,21,58,51,27,32,7
+msoa2011:Tower Hamlets 026,E02000889,Female,Day-to-day activities limited a lot,8,0,16,23,63,31,19,11
+msoa2011:Tower Hamlets 027,E02000890,Female,Day-to-day activities limited a lot,4,5,6,20,31,21,27,11
+msoa2011:Tower Hamlets 028,E02000891,Female,Day-to-day activities limited a lot,11,9,27,54,79,39,26,14
+msoa2011:Tower Hamlets 030,E02000893,Female,Day-to-day activities limited a lot,4,4,19,67,69,49,38,17
+msoa2011:Tower Hamlets 031,E02000894,Female,Day-to-day activities limited a lot,6,4,10,39,65,22,22,11
+msoa2011:Tower Hamlets 032,E02006853,Female,Day-to-day activities limited a lot,7,8,16,30,52,30,30,8
+msoa2011:Tower Hamlets 033,E02006854,Female,Day-to-day activities limited a lot,10,6,8,15,25,14,10,3
+ualad09:Tower Hamlets,E09000030,Female,Day-to-day activities limited a little,419,539,1256,2252,2291,1132,840,274
+msoa2011:Tower Hamlets 001,E02000864,Female,Day-to-day activities limited a little,15,21,53,92,101,51,61,14
+msoa2011:Tower Hamlets 002,E02000865,Female,Day-to-day activities limited a little,18,10,36,73,92,34,25,15
+msoa2011:Tower Hamlets 003,E02000866,Female,Day-to-day activities limited a little,13,30,37,64,83,58,38,12
+msoa2011:Tower Hamlets 004,E02000867,Female,Day-to-day activities limited a little,20,31,53,82,66,46,36,14
+msoa2011:Tower Hamlets 005,E02000868,Female,Day-to-day activities limited a little,8,14,33,50,54,37,17,8
+msoa2011:Tower Hamlets 006,E02000869,Female,Day-to-day activities limited a little,7,6,27,45,60,26,34,9
+msoa2011:Tower Hamlets 007,E02000870,Female,Day-to-day activities limited a little,10,16,37,75,68,22,37,10
+msoa2011:Tower Hamlets 008,E02000871,Female,Day-to-day activities limited a little,18,20,58,100,86,40,28,10
+msoa2011:Tower Hamlets 009,E02000872,Female,Day-to-day activities limited a little,8,12,50,66,63,35,29,14
+msoa2011:Tower Hamlets 010,E02000873,Female,Day-to-day activities limited a little,10,20,49,64,60,31,42,11
+msoa2011:Tower Hamlets 011,E02000874,Female,Day-to-day activities limited a little,8,16,37,83,72,41,15,5
+msoa2011:Tower Hamlets 012,E02000875,Female,Day-to-day activities limited a little,26,18,59,118,80,38,16,8
+msoa2011:Tower Hamlets 013,E02000876,Female,Day-to-day activities limited a little,13,21,34,62,72,28,18,7
+msoa2011:Tower Hamlets 014,E02000877,Female,Day-to-day activities limited a little,20,15,55,91,95,46,18,9
+msoa2011:Tower Hamlets 015,E02000878,Female,Day-to-day activities limited a little,19,23,36,65,114,49,26,6
+msoa2011:Tower Hamlets 016,E02000879,Female,Day-to-day activities limited a little,12,18,33,71,83,40,41,14
+msoa2011:Tower Hamlets 017,E02000880,Female,Day-to-day activities limited a little,10,14,21,62,65,39,27,9
+msoa2011:Tower Hamlets 018,E02000881,Female,Day-to-day activities limited a little,12,19,28,90,74,26,28,8
+msoa2011:Tower Hamlets 019,E02000882,Female,Day-to-day activities limited a little,18,16,54,104,88,48,27,16
+msoa2011:Tower Hamlets 020,E02000883,Female,Day-to-day activities limited a little,17,24,44,92,91,52,45,10
+msoa2011:Tower Hamlets 021,E02000884,Female,Day-to-day activities limited a little,8,26,34,67,81,37,17,2
+msoa2011:Tower Hamlets 022,E02000885,Female,Day-to-day activities limited a little,19,21,34,72,80,43,26,13
+msoa2011:Tower Hamlets 023,E02000886,Female,Day-to-day activities limited a little,11,17,32,52,52,26,27,5
+msoa2011:Tower Hamlets 024,E02000887,Female,Day-to-day activities limited a little,18,13,51,86,85,36,34,9
+msoa2011:Tower Hamlets 025,E02000888,Female,Day-to-day activities limited a little,16,14,38,72,45,22,21,3
+msoa2011:Tower Hamlets 026,E02000889,Female,Day-to-day activities limited a little,8,12,32,47,61,19,19,6
+msoa2011:Tower Hamlets 027,E02000890,Female,Day-to-day activities limited a little,2,2,14,44,40,17,19,4
+msoa2011:Tower Hamlets 028,E02000891,Female,Day-to-day activities limited a little,14,28,68,71,80,28,16,9
+msoa2011:Tower Hamlets 030,E02000893,Female,Day-to-day activities limited a little,14,11,29,52,72,38,20,8
+msoa2011:Tower Hamlets 031,E02000894,Female,Day-to-day activities limited a little,5,10,40,47,66,39,13,3
+msoa2011:Tower Hamlets 032,E02006853,Female,Day-to-day activities limited a little,17,11,30,55,38,28,14,3
+msoa2011:Tower Hamlets 033,E02006854,Female,Day-to-day activities limited a little,5,10,20,38,24,12,6,0
+ualad09:Tower Hamlets,E09000030,Female,Day-to-day activities not limited,23834,19722,33299,17531,6458,1754,817,161
+msoa2011:Tower Hamlets 001,E02000864,Female,Day-to-day activities not limited,846,584,970,614,307,90,44,7
+msoa2011:Tower Hamlets 002,E02000865,Female,Day-to-day activities not limited,703,550,930,503,185,52,21,7
+msoa2011:Tower Hamlets 003,E02000866,Female,Day-to-day activities not limited,785,783,1280,753,402,119,57,3
+msoa2011:Tower Hamlets 004,E02000867,Female,Day-to-day activities not limited,761,873,1582,655,256,64,31,8
+msoa2011:Tower Hamlets 005,E02000868,Female,Day-to-day activities not limited,497,523,1023,446,157,34,21,11
+msoa2011:Tower Hamlets 006,E02000869,Female,Day-to-day activities not limited,441,397,736,441,165,57,23,10
+msoa2011:Tower Hamlets 007,E02000870,Female,Day-to-day activities not limited,583,508,829,490,198,52,37,2
+msoa2011:Tower Hamlets 008,E02000871,Female,Day-to-day activities not limited,1087,652,935,574,198,63,37,4
+msoa2011:Tower Hamlets 009,E02000872,Female,Day-to-day activities not limited,642,610,1156,430,146,51,17,8
+msoa2011:Tower Hamlets 010,E02000873,Female,Day-to-day activities not limited,746,834,885,480,150,49,19,6
+msoa2011:Tower Hamlets 011,E02000874,Female,Day-to-day activities not limited,776,624,796,416,135,34,26,5
+msoa2011:Tower Hamlets 012,E02000875,Female,Day-to-day activities not limited,1132,808,1057,624,230,63,24,4
+msoa2011:Tower Hamlets 013,E02000876,Female,Day-to-day activities not limited,551,657,918,409,143,30,11,3
+msoa2011:Tower Hamlets 014,E02000877,Female,Day-to-day activities not limited,1190,886,1086,613,210,60,33,3
+msoa2011:Tower Hamlets 015,E02000878,Female,Day-to-day activities not limited,669,840,1324,566,209,50,18,0
+msoa2011:Tower Hamlets 016,E02000879,Female,Day-to-day activities not limited,716,701,789,467,197,73,44,9
+msoa2011:Tower Hamlets 017,E02000880,Female,Day-to-day activities not limited,534,488,668,351,115,39,21,3
+msoa2011:Tower Hamlets 018,E02000881,Female,Day-to-day activities not limited,955,468,670,506,223,45,20,6
+msoa2011:Tower Hamlets 019,E02000882,Female,Day-to-day activities not limited,1092,657,866,628,181,45,30,7
+msoa2011:Tower Hamlets 020,E02000883,Female,Day-to-day activities not limited,1018,577,773,540,201,56,45,4
+msoa2011:Tower Hamlets 021,E02000884,Female,Day-to-day activities not limited,617,844,1383,457,139,37,7,2
+msoa2011:Tower Hamlets 022,E02000885,Female,Day-to-day activities not limited,776,545,713,434,154,52,23,6
+msoa2011:Tower Hamlets 023,E02000886,Female,Day-to-day activities not limited,635,407,1001,622,207,43,23,9
+msoa2011:Tower Hamlets 024,E02000887,Female,Day-to-day activities not limited,1024,667,997,582,211,68,36,5
+msoa2011:Tower Hamlets 025,E02000888,Female,Day-to-day activities not limited,861,568,1136,589,171,59,22,3
+msoa2011:Tower Hamlets 026,E02000889,Female,Day-to-day activities not limited,550,378,918,486,228,42,17,5
+msoa2011:Tower Hamlets 027,E02000890,Female,Day-to-day activities not limited,282,247,862,581,287,73,41,3
+msoa2011:Tower Hamlets 028,E02000891,Female,Day-to-day activities not limited,1033,933,2222,881,236,64,14,3
+msoa2011:Tower Hamlets 030,E02000893,Female,Day-to-day activities not limited,622,468,868,562,234,70,33,5
+msoa2011:Tower Hamlets 031,E02000894,Female,Day-to-day activities not limited,718,720,1758,836,309,61,9,4
+msoa2011:Tower Hamlets 032,E02006853,Female,Day-to-day activities not limited,601,543,1150,509,148,37,12,6
+msoa2011:Tower Hamlets 033,E02006854,Female,Day-to-day activities not limited,391,382,1018,486,126,22,1,0
