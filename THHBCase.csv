@@ -1,3 +1,5 @@
-﻿AreaCode,AreaCode Description,People with Health Problems,Day-to-day activities not limited,% of people who travel to work on Bike/OnFoot
-E02000890,Contains St Catherine Docs and adjacent to Tower Bridge,508,5287,0.271320904
-E02000871,Contains Bromley by Bow,1228,7363,0.071510579
+AreaCode	AreaCode Description	HealthProblems?	PeopleCount
+E02000890	Contains St Catherine Docs and adjacent to Tower Bridge	Yes	508
+E02000871	Contains Bromley by Bow	Yes	1228
+E02000890	Contains St Catherine Docs and adjacent to Tower Bridge	No	5287
+E02000871	Contains Bromley by Bow	No	7363
