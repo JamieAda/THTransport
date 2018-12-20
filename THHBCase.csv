@@ -1,5 +1,5 @@
-AreaCode	AreaCode Description	HealthProblems?	PeopleCount
-E02000890	Contains St Catherine Docs and adjacent to Tower Bridge	Yes	508
-E02000871	Contains Bromley by Bow	Yes	1228
-E02000890	Contains St Catherine Docs and adjacent to Tower Bridge	No	5287
-E02000871	Contains Bromley by Bow	No	7363
+AreaCode	Ward	HealthProblems?	PeopleCount
+E02000890	St Katharine's & Wapping	Yes	508
+E02000871	Bromley North	Yes	1228
+E02000890	St Katharine's & Wapping	No	5287
+E02000871	Bromley North	No	7363
